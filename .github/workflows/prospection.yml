@@ -1,0 +1,45 @@
+name: Prospection artisans
+
+on:
+  schedule:
+    # 8h heure de Paris (7h UTC en hiver, 6h UTC en été — ajuste si besoin)
+    - cron: "0 7 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      limite:
+        description: "Nombre max d'emails à envoyer"
+        default: "5"
+      test:
+        description: "Mode test (envoie tout à toi-même)"
+        type: boolean
+        default: true
+
+jobs:
+  prospection:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Générer les maquettes et emails
+        run: python generer_maquettes.py prospects.json
+
+      - name: Envoyer les emails
+        env:
+          GMAIL_ADRESSE: ${{ secrets.GMAIL_ADRESSE }}
+          GMAIL_MDP_APP: ${{ secrets.GMAIL_MDP_APP }}
+        run: |
+          python envoyer_emails.py prospects.json \
+            --limite "${{ github.event.inputs.limite || '5' }}" \
+            $( [ "${{ github.event.inputs.test }}" != "false" ] && echo "--test" )
+
+      - name: Committer le log anti-doublons et les maquettes générées
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add envois_deja_faits.json output/
+          git diff --staged --quiet || git commit -m "Mise à jour prospection [skip ci]"
+          git push

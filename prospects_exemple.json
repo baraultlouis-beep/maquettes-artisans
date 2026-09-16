@@ -1,0 +1,50 @@
+[
+  {
+    "nom": "Plomberie Le Corre",
+    "ville": "Rennes",
+    "telephone": "02 99 12 34 56",
+    "email": "contact@plomberie-lecorre.fr",
+    "metier": "plombier",
+    "annees_experience": "15",
+    "communes": ["Rennes", "Cesson-Sévigné", "Saint-Grégoire", "Chantepie", "Bruz"]
+  },
+  {
+    "nom": "Elec Services 35",
+    "ville": "Rennes",
+    "telephone": "06 22 33 44 55",
+    "email": "contact@elecservices35.fr",
+    "metier": "electricien"
+  },
+  {
+    "nom": "Toiture Morvan",
+    "ville": "Saint-Brieuc",
+    "telephone": "06 11 22 33 44",
+    "email": "toiture.morvan@gmail.com",
+    "metier": "couvreur"
+  },
+  {
+    "nom": "Jardins de Bretagne",
+    "ville": "Vannes",
+    "telephone": "06 55 66 77 88",
+    "email": "contact@jardinsdebretagne.fr",
+    "metier": "paysagiste"
+  },
+  {
+    "nom": "Menuiserie Le Gall",
+    "ville": "Lorient",
+    "telephone": "06 99 88 77 66",
+    "email": "contact@menuiserielegall.fr",
+    "metier": "menuisier"
+  },
+  {
+    "nom": "Aqua Services Morbihan",
+    "ville": "Lorient",
+    "telephone": "06 12 34 56 78",
+    "email": "contact@aquaservices-morbihan.fr",
+    "metier": "plombier",
+    "couleur_primaire": "#1B3A4B",
+    "couleur_primaire_claire": "#28506A",
+    "couleur_accent": "#4F9DA6",
+    "couleur_accent_claire": "#CFE6E8"
+  }
+]
