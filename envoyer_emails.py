@@ -28,7 +28,7 @@ from email.mime.text import MIMEText
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
-OUTPUT_DIR = BASE_DIR / "output"
+OUTPUT_DIR = BASE_DIR
 LOG_ENVOIS = BASE_DIR / "envois_deja_faits.json"
 
 SMTP_HOTE = "smtp.gmail.com"

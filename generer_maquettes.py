@@ -26,7 +26,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
 TEMPLATES_DIR = BASE_DIR
-OUTPUT_DIR = BASE_DIR / "output"
+OUTPUT_DIR = BASE_DIR
 
 # Un template HTML par métier. Ajouter une entrée ici dès qu'un nouveau
 # template est créé (électricien, couvreur, paysagiste, menuisier...).
@@ -371,7 +371,7 @@ def main():
         html_email = generer_email(prospect, slug)
         (OUTPUT_DIR / f"{slug}-email.html").write_text(html_email, encoding="utf-8")
 
-        print(f"OK — {prospect['nom']} -> output/{slug}.html + output/{slug}-email.html")
+        print(f"OK — {prospect['nom']} -> {slug}.html + {slug}-email.html")
 
     print(f"\n{len(prospects)} maquette(s) + email(s) généré(s) dans {OUTPUT_DIR}/")
     print("Coût total : 0 € (aucun appel API)")
