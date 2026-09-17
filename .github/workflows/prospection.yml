@@ -34,7 +34,7 @@ jobs:
         run: |
           python envoyer_emails.py prospects.json \
             --limite "${{ github.event.inputs.limite || '5' }}" \
-            $( [ "${{ github.event.inputs.test }}" != "false" ] && echo "--test" )
+            $( [ "${{ github.event.inputs.test }}" == "true" ] && echo "--test" )
 
       - name: Envoyer les relances (5 jours sans retour, une seule fois)
         env:
@@ -43,7 +43,7 @@ jobs:
         run: |
           python envoyer_emails.py prospects.json --relance \
             --limite "${{ github.event.inputs.limite || '5' }}" \
-            $( [ "${{ github.event.inputs.test }}" != "false" ] && echo "--test" )
+            $( [ "${{ github.event.inputs.test }}" == "true" ] && echo "--test" )
 
       - name: Committer le log anti-doublons et les maquettes générées
         run: |
