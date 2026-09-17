@@ -35,7 +35,7 @@ TEMPLATE_EMAIL = "email_prospection.html"
 
 # À adapter une fois le dépôt GitHub Pages créé, ex :
 # "https://tonpseudo.github.io/maquettes-artisans"
-GITHUB_PAGES_BASE_URL = "https://TON-PSEUDO.github.io/maquettes-artisans"
+GITHUB_PAGES_BASE_URL = "https://baraultlouis-beep.github.io/maquettes-artisans"
 
 EMAIL_CONTACT_DEFAUT = "baraultlouis@gmail.com"
 LIEN_DESINSCRIPTION_DEFAUT = f"mailto:{EMAIL_CONTACT_DEFAUT}?subject=Desinscription"
