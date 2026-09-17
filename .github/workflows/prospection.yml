@@ -27,12 +27,21 @@ jobs:
       - name: Générer les maquettes et emails
         run: python generer_maquettes.py prospects.json
 
-      - name: Envoyer les emails
+      - name: Envoyer les emails (premier contact)
         env:
           GMAIL_ADRESSE: ${{ secrets.GMAIL_ADRESSE }}
           GMAIL_MDP_APP: ${{ secrets.GMAIL_MDP_APP }}
         run: |
           python envoyer_emails.py prospects.json \
+            --limite "${{ github.event.inputs.limite || '5' }}" \
+            $( [ "${{ github.event.inputs.test }}" != "false" ] && echo "--test" )
+
+      - name: Envoyer les relances (5 jours sans retour, une seule fois)
+        env:
+          GMAIL_ADRESSE: ${{ secrets.GMAIL_ADRESSE }}
+          GMAIL_MDP_APP: ${{ secrets.GMAIL_MDP_APP }}
+        run: |
+          python envoyer_emails.py prospects.json --relance \
             --limite "${{ github.event.inputs.limite || '5' }}" \
             $( [ "${{ github.event.inputs.test }}" != "false" ] && echo "--test" )
 

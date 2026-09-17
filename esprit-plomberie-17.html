@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Esprit Plomberie 17 — Plombier à Puilboreau</title>
+<meta name="description" content="Esprit Plomberie 17, plombier à Puilboreau. Interventions rapides, devis gratuit. +33 6 74 56 27 26.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #FAFAF8;
+    --ink: #1C1F22;
+    --ink-soft: #4A5156;
+    --petrol: #14262B;
+    --petrol-light: #1F3B3D;
+    --copper: #B6702F;
+    --copper-soft: #E7D3BE;
+    --line: #DDD8CC;
+    --white: #FFFFFF;
+  }
+  *{ box-sizing: border-box; margin:0; padding:0; }
+  html{ scroll-behavior: smooth; }
+  body{
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Public Sans', -apple-system, sans-serif;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1,h2,h3{
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 500;
+    line-height: 1.15;
+    color: inherit;
+  }
+  a{ color: inherit; text-decoration: none; }
+  img{ max-width:100%; display:block; }
+  .wrap{ max-width: 1080px; margin: 0 auto; padding: 0 28px; }
+
+  /* Header */
+  header{
+    position: sticky; top:0; z-index: 50;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav{
+    display:flex; align-items:center; justify-content:space-between;
+    padding: 18px 0;
+  }
+  .brand{ font-family:'Fraunces',serif; font-size: 1.15rem; font-weight:600; letter-spacing: -0.01em; }
+  .nav-links{ display:flex; gap: 32px; align-items:center; }
+  .nav-links a{ font-size: 0.95rem; color: var(--ink-soft); }
+  .nav-links a:hover{ color: var(--ink); }
+  .nav-call{
+    background: var(--petrol); color: var(--white);
+    padding: 10px 20px; border-radius: 2px;
+    font-size: 0.92rem; font-weight: 500;
+    white-space: nowrap;
+  }
+  .nav-toggle{ display:none; background:none; border:none; font-size:1.5rem; cursor:pointer; color: var(--ink); }
+
+  /* Hero */
+  .hero{
+    background: var(--petrol);
+    color: var(--white);
+    padding: 80px 0 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero-grid{
+    display:grid; grid-template-columns: 1.15fr 0.85fr;
+    align-items:center; gap: 20px;
+    position: relative;
+  }
+  .hero-art{ position:relative; }
+  .hero-inner{ position:relative; max-width: 560px; padding-bottom: 64px; }
+  .hero-eyebrow{
+    color: var(--copper-soft);
+    font-size: 0.95rem;
+    margin-bottom: 18px;
+  }
+  .hero h1{
+    font-size: clamp(2rem, 3.8vw, 2.8rem);
+    margin-bottom: 22px;
+  }
+  .hero p{
+    font-size: 1.06rem;
+    color: rgba(255,255,255,0.78);
+    max-width: 460px;
+    margin-bottom: 34px;
+  }
+  .hero-actions{ display:flex; gap: 16px; flex-wrap: wrap; align-items:center; }
+  .btn-primary{
+    background: var(--copper); color: var(--white);
+    padding: 15px 28px; border-radius: 2px;
+    font-weight: 500; font-size: 1rem;
+    display:inline-block;
+  }
+  .btn-ghost{
+    border: 1px solid rgba(255,255,255,0.35);
+    color: var(--white);
+    padding: 14px 26px; border-radius: 2px;
+    font-size: 1rem;
+  }
+  .hero-note{
+    margin-top: 30px; font-size: 0.88rem; color: rgba(255,255,255,0.55);
+  }
+
+  /* Bande de réassurance */
+  .trust-bar{
+    background: var(--petrol-light);
+    border-top: 1px solid rgba(255,255,255,0.08);
+  }
+  .trust-bar .wrap{
+    display:grid; grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+  }
+  .trust-item{
+    display:flex; align-items:center; gap: 14px;
+    padding: 22px 0;
+    color: rgba(255,255,255,0.9);
+    font-size: 0.92rem;
+  }
+  .trust-item svg{ flex-shrink:0; }
+
+  /* Bandeau zone */
+  .zone-strip{
+    background: var(--copper-soft);
+    padding: 16px 0;
+    font-size: 0.92rem;
+    color: var(--petrol);
+  }
+  .zone-strip .wrap{ display:flex; gap: 10px; flex-wrap:wrap; align-items:center; }
+  .zone-strip strong{ font-weight: 600; }
+
+  /* Section générique */
+  section{ padding: 76px 0; }
+  .section-head{ max-width: 560px; margin-bottom: 48px; }
+  .section-head .kicker{
+    color: var(--copper);
+    font-size: 0.95rem;
+    margin-bottom: 10px;
+  }
+  .section-head h2{ font-size: clamp(1.6rem, 3vw, 2.1rem); }
+
+  /* Services — liste éditoriale avec icônes, pas des cards */
+  .service-row{
+    display:grid; grid-template-columns: 56px 1fr;
+    gap: 24px;
+    padding: 30px 0;
+    border-top: 1px solid var(--line);
+    align-items: flex-start;
+  }
+  .service-row:last-child{ border-bottom: 1px solid var(--line); }
+  .service-icon{
+    width: 52px; height: 52px; border-radius: 50%;
+    background: var(--copper-soft);
+    display:flex; align-items:center; justify-content:center;
+  }
+  .service-row h3{ font-size: 1.2rem; margin-bottom: 6px; }
+  .service-row p{ color: var(--ink-soft); max-width: 520px; }
+
+  /* Pourquoi nous — asymétrique */
+  .why{
+    display:grid; grid-template-columns: 1.1fr 0.9fr;
+    gap: 56px;
+    align-items:start;
+  }
+  .why-list{ display:flex; flex-direction:column; gap: 26px; }
+  .why-item{ display:flex; gap: 18px; }
+  .why-mark{
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--copper);
+    margin-top: 9px; flex-shrink:0;
+  }
+  .why-item h3{ font-size: 1.05rem; font-weight:600; font-family:'Public Sans',sans-serif; margin-bottom: 4px; }
+  .why-item p{ color: var(--ink-soft); font-size: 0.95rem; }
+  .why-card{
+    background: var(--petrol); color: var(--white);
+    padding: 40px 34px; border-radius: 2px;
+  }
+  .why-card .big{ font-family:'Fraunces',serif; font-size: 2.6rem; margin-bottom: 6px; }
+  .why-card .label{ color: rgba(255,255,255,0.65); font-size: 0.92rem; margin-bottom: 28px; }
+  .why-card .divider{ height:1px; background: rgba(255,255,255,0.15); margin: 28px 0; }
+
+  /* Réalisations */
+  .realisations-grid{
+    display:grid; grid-template-columns: repeat(3, 1fr);
+    gap: 1px; background: var(--line);
+    border: 1px solid var(--line);
+  }
+  .realisation-item{
+    background: var(--white);
+    padding: 28px 22px;
+  }
+  .realisation-item .num{
+    font-family:'Fraunces',serif; color: var(--copper);
+    font-size: 1.6rem; margin-bottom: 10px; display:block;
+  }
+  .realisation-item h3{ font-size: 1rem; font-family:'Public Sans',sans-serif; font-weight:600; margin-bottom: 6px; }
+  .realisation-item p{ color: var(--ink-soft); font-size: 0.9rem; }
+
+  /* Avis */
+  .avis-grid{
+    display:grid; grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+  .avis-item{
+    border-left: 2px solid var(--copper);
+    padding-left: 20px;
+  }
+  .avis-stars{ color: var(--copper); font-size: 0.95rem; margin-bottom: 8px; letter-spacing: 2px; }
+  .avis-item p{ color: var(--ink-soft); font-size: 0.95rem; font-style: italic; }
+  .avis-item .avis-note{ margin-top:8px; font-size: 0.85rem; color: var(--ink-soft); font-style: normal; }
+
+  /* Zone d'intervention */
+  .communes{
+    display:flex; flex-wrap:wrap; gap: 10px 14px;
+  }
+  .communes span{
+    font-size: 0.92rem; color: var(--ink-soft);
+    padding: 6px 0;
+  }
+  .communes span:not(:last-child)::after{ content:"·"; margin-left: 14px; color: var(--line); }
+
+  /* CTA final */
+  .cta-final{
+    background: var(--petrol-light);
+    color: var(--white);
+    text-align:left;
+  }
+  .cta-final .wrap{
+    display:flex; justify-content:space-between; align-items:center; gap: 24px; flex-wrap:wrap;
+  }
+  .cta-final h2{ font-size: clamp(1.5rem, 3vw, 2rem); max-width: 460px; }
+  .cta-final .hero-note{ color: rgba(255,255,255,0.6); }
+
+  footer{
+    padding: 40px 0;
+    border-top: 1px solid var(--line);
+    font-size: 0.88rem;
+    color: var(--ink-soft);
+  }
+  footer .wrap{ display:flex; justify-content:space-between; flex-wrap:wrap; gap: 12px; }
+
+  @media (max-width: 760px){
+    .nav-links{ display:none; }
+    .nav-toggle{ display:block; }
+    .hero-grid{ grid-template-columns: 1fr; }
+    .hero-art{ max-width: 220px; margin: 0 auto; opacity: 0.85; }
+    .hero-inner{ padding-bottom: 40px; }
+    .trust-bar .wrap{ grid-template-columns: 1fr; }
+    .service-row{ grid-template-columns: 1fr; gap: 8px; }
+    .why{ grid-template-columns: 1fr; }
+    .realisations-grid{ grid-template-columns: 1fr; }
+    .avis-grid{ grid-template-columns: 1fr; }
+    .cta-final .wrap{ flex-direction: column; align-items:flex-start; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav">
+    <div class="brand">Esprit Plomberie 17</div>
+    <nav class="nav-links">
+      <a href="#services">Prestations</a>
+      <a href="#zone">Zone d'intervention</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <a class="nav-call" href="tel:+33674562726">+33 6 74 56 27 26</a>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-inner">
+      <div class="hero-eyebrow">Plombier à Puilboreau et alentours</div>
+      <h1>Esprit Plomberie 17, votre plombier de confiance à Puilboreau</h1>
+      <p>Intervention rapide, devis gratuit et travail soigné : Esprit Plomberie 17 accompagne les habitants de Puilboreau et des environs pour tous leurs besoins en plomberie.</p>
+      <div class="hero-actions">
+        <a class="btn-primary" href="tel:+33674562726">Appeler +33 6 74 56 27 26</a>
+        <a class="btn-ghost" href="#contact">Demander un devis</a>
+      </div>
+    </div>
+    <div class="hero-art">
+      <svg width="100%" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <circle cx="160" cy="160" r="150" stroke="rgba(255,255,255,0.07)"/>
+        <circle cx="160" cy="160" r="108" stroke="rgba(255,255,255,0.09)"/>
+        
+        <path d="M70 210 L70 140 Q70 120 90 120 L190 120 Q210 120 210 100 L210 70"
+              style="stroke:var(--copper-soft)" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <circle cx="70" cy="210" r="9" style="fill:var(--copper)"/>
+        <circle cx="210" cy="70" r="9" style="fill:var(--copper)"/>
+        <g transform="translate(150,175) rotate(-28)">
+          <rect x="-11" y="-58" width="22" height="86" rx="10" style="fill:var(--bg)"/>
+          <path d="M-24 -58 a24 24 0 0 1 48 0 v14 a24 24 0 0 1 -48 0 z" style="fill:var(--bg)"/>
+          <circle cx="0" cy="-58" r="10" style="fill:var(--petrol)"/>
+        </g>
+        <path d="M226 190 q10 14 0 26 q-10 -12 0 -26 z" style="fill:var(--copper-soft)" opacity="0.85"/>
+        <path d="M248 220 q8 11 0 21 q-8 -10 0 -21 z" style="fill:var(--copper-soft)" opacity="0.55"/>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<div class="trust-bar">
+  <div class="wrap">
+    <div class="trust-item">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8"><path d="M20 6L9 17l-5-5"/></svg>
+      Devis gratuit, sans engagement
+    </div>
+    <div class="trust-item">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
+      Intervention sous 24h
+    </div>
+    <div class="trust-item">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8"><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3z"/></svg>
+      Travail garanti
+    </div>
+  </div>
+</div>
+
+<div class="zone-strip">
+  <div class="wrap">
+    <strong>Zone d'intervention :</strong> Puilboreau et un rayon de 20 km
+  </div>
+</div>
+
+<section id="services">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="kicker">Prestations</div>
+      <h2>Ce que Esprit Plomberie 17 prend en charge</h2>
+    </div>
+
+    
+    <div class="service-row">
+      <div class="service-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8" stroke-linecap="round"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.1 2.1a2 2 0 0 1-2.8-2.8z"/></svg></div>
+      <div>
+        <h3>Dépannage urgent</h3>
+        <p>Fuite, canalisation bouchée, chauffe-eau en panne : intervention rapide pour limiter les dégâts, 7j/7 sur les urgences.</p>
+      </div>
+    </div>
+    <div class="service-row">
+      <div class="service-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8" stroke-linecap="round"><path d="M4 12h16M4 12a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4M4 12v3a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-3"/><circle cx="8" cy="8" r="1.4" style="fill:var(--copper)" stroke="none"/></svg></div>
+      <div>
+        <h3>Installation sanitaire</h3>
+        <p>Salle de bain, cuisine, robinetterie : installation complète ou remplacement d'équipements, avec des matériaux durables.</p>
+      </div>
+    </div>
+    <div class="service-row">
+      <div class="service-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8" stroke-linecap="round"><path d="M12 2c2 3-1 4-1 6a3 3 0 1 0 6 0c0-1-.5-2-1-2.5.5 2.5-1 3.5-2 2 1-1 .5-3-2-5.5zM6 14a6 6 0 1 0 12 0c0-2-1-3.5-2.5-5"/></svg></div>
+      <div>
+        <h3>Chauffage et eau chaude</h3>
+        <p>Pose et entretien de chaudières, ballons d'eau chaude et systèmes de chauffage adaptés à votre logement.</p>
+      </div>
+    </div>
+    <div class="service-row">
+      <div class="service-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8" stroke-linecap="round"><path d="M3 21l6-6M13.5 10.5L21 3l-3 1-1 3-7.5 7.5a2.1 2.1 0 1 0 3 3z"/></svg></div>
+      <div>
+        <h3>Rénovation de plomberie</h3>
+        <p>Remise aux normes d'une installation ancienne, refonte de réseau : un diagnostic clair avant chaque chantier.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section style="background:var(--white); border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
+  <div class="wrap why">
+    <div>
+      <div class="section-head" style="margin-bottom:32px;">
+        <div class="kicker">Pourquoi Esprit Plomberie 17</div>
+        <h2>Un artisan de confiance, sur le terrain</h2>
+      </div>
+      <div class="why-list">
+        <div class="why-item">
+          <div class="why-mark"></div>
+          <div>
+            <h3>Devis clair avant intervention</h3>
+            <p>Pas de mauvaise surprise sur la facture : le prix est annoncé avant le début des travaux.</p>
+          </div>
+        </div>
+        <div class="why-item">
+          <div class="why-mark"></div>
+          <div>
+            <h3>Artisan local, disponible vite</h3>
+            <p>Basé à Puilboreau, Esprit Plomberie 17 intervient rapidement sur tout le secteur sans frais de déplacement cachés.</p>
+          </div>
+        </div>
+        <div class="why-item">
+          <div class="why-mark"></div>
+          <div>
+            <h3>Travail garanti</h3>
+            <p>Chaque intervention est réalisée avec du matériel de qualité et suivie d'une garantie sur les travaux.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="why-card">
+      <div class="big">10 ans</div>
+      <div class="label">d'expérience en plomberie</div>
+      <div class="divider"></div>
+      <div class="big">24h</div>
+      <div class="label">délai moyen d'intervention</div>
+      <div class="divider"></div>
+      <div class="big">100%</div>
+      <div class="label">devis gratuits et sans engagement</div>
+    </div>
+  </div>
+</section>
+
+<section style="background:var(--white); border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
+  <div class="wrap" style="max-width:640px;">
+    <div class="section-head" style="margin-bottom:20px;">
+      <div class="kicker">L'entreprise</div>
+      <h2>Notre histoire</h2>
+    </div>
+    <p style="color:var(--ink-soft); font-size:1.02rem;">Esprit Plomberie 17 intervient depuis 10 ans auprès des particuliers et professionnels de Puilboreau. Une entreprise à taille humaine, où chaque chantier est suivi directement par l'artisan, du premier contact jusqu'à la fin des travaux.</p>
+  </div>
+</section>
+
+<section id="realisations">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="kicker">Réalisations</div>
+      <h2>Le type de chantiers que nous menons</h2>
+    </div>
+    <div class="realisations-grid">
+      
+        <div class="realisation-item">
+          <span class="num">01</span>
+          <h3>Rénovation de salle de bain</h3>
+          <p>Réalisé sur mesure selon la configuration du logement.</p>
+        </div>
+        <div class="realisation-item">
+          <span class="num">02</span>
+          <h3>Dépannage fuite d'urgence</h3>
+          <p>Réalisé sur mesure selon la configuration du logement.</p>
+        </div>
+        <div class="realisation-item">
+          <span class="num">03</span>
+          <h3>Installation chauffe-eau</h3>
+          <p>Réalisé sur mesure selon la configuration du logement.</p>
+        </div>
+    </div>
+  </div>
+</section>
+
+<section style="background:var(--white); border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="kicker">Avis</div>
+      <h2>Ce que disent les clients</h2>
+    </div>
+    <div class="avis-grid">
+      
+    <div class="avis-item">
+      <div class="avis-stars">★★★★★</div>
+      <p>Emplacement réservé aux avis Google de l'établissement, à connecter une fois le site validé.</p>
+      <div class="avis-note">Avis clients vérifiés</div>
+    </div>
+    <div class="avis-item">
+      <div class="avis-stars">★★★★★</div>
+      <p>Vos avis existants (Google, Facebook, Pages Jaunes) peuvent être repris ici tels quels.</p>
+      <div class="avis-note">Sur simple validation de votre part</div>
+    </div>
+    </div>
+  </div>
+</section>
+
+<section id="zone">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="kicker">Secteur couvert</div>
+      <h2>Communes desservies</h2>
+    </div>
+    <div class="communes">
+      <span>Puilboreau</span>
+    </div>
+  </div>
+</section>
+
+<section class="cta-final" id="contact">
+  <div class="wrap">
+    <h2>Une urgence ou un projet de travaux ? Esprit Plomberie 17 vous répond.</h2>
+    <div>
+      <a class="btn-primary" href="tel:+33674562726" style="margin-bottom:10px; display:inline-block;">Appeler +33 6 74 56 27 26</a>
+      <div class="hero-note"></div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div>Esprit Plomberie 17 — Plombier à Puilboreau</div>
+    <div>+33 6 74 56 27 26 · </div>
+  </div>
+</footer>
+
+</body>
+</html>
