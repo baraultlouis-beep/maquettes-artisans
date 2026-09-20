@@ -30,6 +30,7 @@ TAGS_PAR_METIER = {
     "couvreur": ['"craft"="roofer"'],
     "paysagiste": ['"shop"="garden_centre"', '"craft"="gardener"'],
     "menuisier": ['"craft"="carpenter"'],
+    "garage": ['"shop"="car_repair"'],
 }
 
 # Codes des départements de France métropolitaine (pour le mode --departement national)

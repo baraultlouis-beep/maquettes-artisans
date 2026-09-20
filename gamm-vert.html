@@ -185,22 +185,38 @@
   .why-card .label{ color: rgba(255,255,255,0.65); font-size: 0.92rem; margin-bottom: 28px; }
   .why-card .divider{ height:1px; background: rgba(255,255,255,0.15); margin: 28px 0; }
 
-  /* Réalisations */
+  /* Réalisations — vraies cartes visuelles */
   .realisations-grid{
     display:grid; grid-template-columns: repeat(3, 1fr);
-    gap: 1px; background: var(--line);
-    border: 1px solid var(--line);
+    gap: 22px;
   }
   .realisation-item{
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    overflow: hidden;
     background: var(--white);
-    padding: 28px 22px;
   }
-  .realisation-item .num{
+  .realisation-visuel{
+    aspect-ratio: 4/3;
+    background: var(--copper-soft);
+    display:flex; align-items:center; justify-content:center;
+    position: relative;
+  }
+  .realisation-visuel::before{
+    content:"";
+    position:absolute; inset:0;
+    background:
+      radial-gradient(circle at 20% 20%, rgba(255,255,255,0.35) 0%, transparent 45%),
+      radial-gradient(circle at 85% 80%, rgba(0,0,0,0.06) 0%, transparent 50%);
+  }
+  .realisation-visuel svg{ position:relative; width:38px; height:38px; }
+  .realisation-texte{ padding: 16px 18px 18px; }
+  .realisation-texte .num{
     font-family:'Fraunces',serif; color: var(--copper);
-    font-size: 1.6rem; margin-bottom: 10px; display:block;
+    font-size: 0.85rem; display:block; margin-bottom: 4px;
   }
-  .realisation-item h3{ font-size: 1rem; font-family:'Public Sans',sans-serif; font-weight:600; margin-bottom: 6px; }
-  .realisation-item p{ color: var(--ink-soft); font-size: 0.9rem; }
+  .realisation-texte h3{ font-size: 0.98rem; font-family:'Public Sans',sans-serif; font-weight:600; margin-bottom: 4px; }
+  .realisation-texte p{ color: var(--ink-soft); font-size: 0.86rem; }
 
   /* Avis */
   .avis-grid{
@@ -214,6 +230,14 @@
   .avis-stars{ color: var(--copper); font-size: 0.95rem; margin-bottom: 8px; letter-spacing: 2px; }
   .avis-item p{ color: var(--ink-soft); font-size: 0.95rem; font-style: italic; }
   .avis-item .avis-note{ margin-top:8px; font-size: 0.85rem; color: var(--ink-soft); font-style: normal; }
+
+  /* FAQ */
+  .faq-list{
+    display:grid; grid-template-columns: 1fr 1fr;
+    gap: 28px 40px;
+  }
+  .faq-item h3{ font-size: 1.02rem; margin-bottom: 8px; }
+  .faq-item p{ color: var(--ink-soft); font-size: 0.92rem; }
 
   /* Zone d'intervention */
   .communes{
@@ -255,6 +279,7 @@
     .service-row{ grid-template-columns: 1fr; gap: 8px; }
     .why{ grid-template-columns: 1fr; }
     .realisations-grid{ grid-template-columns: 1fr; }
+    .faq-list{ grid-template-columns: 1fr; }
     .avis-grid{ grid-template-columns: 1fr; }
     .cta-final .wrap{ flex-direction: column; align-items:flex-start; }
   }
@@ -424,19 +449,28 @@
     <div class="realisations-grid">
       
         <div class="realisation-item">
-          <span class="num">01</span>
-          <h3>Création de jardin paysager</h3>
-          <p>Réalisé sur mesure selon la configuration du logement.</p>
+          <div class="realisation-visuel"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8" stroke-linecap="round"><path d="M4 20C4 10 12 4 20 4c0 8-6 16-16 16z"/><path d="M4 20c3-6 8-10 14-13"/></svg></div>
+          <div class="realisation-texte">
+            <span class="num">01</span>
+            <h3>Création de jardin paysager</h3>
+            <p>Réalisé sur mesure selon la configuration du logement.</p>
+          </div>
         </div>
         <div class="realisation-item">
-          <span class="num">02</span>
-          <h3>Taille de haie et élagage</h3>
-          <p>Réalisé sur mesure selon la configuration du logement.</p>
+          <div class="realisation-visuel"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8" stroke-linecap="round"><path d="M12 3 7 11h3l-4 7h4v3h4v-3h4l-4-7h3z"/></svg></div>
+          <div class="realisation-texte">
+            <span class="num">02</span>
+            <h3>Taille de haie et élagage</h3>
+            <p>Réalisé sur mesure selon la configuration du logement.</p>
+          </div>
         </div>
         <div class="realisation-item">
-          <span class="num">03</span>
-          <h3>Aménagement de terrasse</h3>
-          <p>Réalisé sur mesure selon la configuration du logement.</p>
+          <div class="realisation-visuel"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" style="stroke:var(--copper)" stroke-width="1.8" stroke-linecap="round"><circle cx="6" cy="6" r="2.5"/><circle cx="6" cy="18" r="2.5"/><path d="M8.5 7.5 20 19M8.5 16.5 20 5"/></svg></div>
+          <div class="realisation-texte">
+            <span class="num">03</span>
+            <h3>Aménagement de terrasse</h3>
+            <p>Réalisé sur mesure selon la configuration du logement.</p>
+          </div>
         </div>
     </div>
   </div>
@@ -460,6 +494,33 @@
       <p>Vos avis existants (Google, Facebook, Pages Jaunes) peuvent être repris ici tels quels.</p>
       <div class="avis-note">Sur simple validation de votre part</div>
     </div>
+    </div>
+  </div>
+</section>
+
+<section style="background:var(--white); border-top:1px solid var(--line); border-bottom:1px solid var(--line);">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="kicker">Questions fréquentes</div>
+      <h2>Avant de nous contacter</h2>
+    </div>
+    <div class="faq-list">
+      <div class="faq-item">
+        <h3>Le devis est-il vraiment gratuit ?</h3>
+        <p>Oui, sans exception. Gamm Vert se déplace ou vous répond pour évaluer votre besoin avant tout engagement de votre part.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Sous quel délai intervenez-vous ?</h3>
+        <p>Sous 24h pour les urgences, et selon votre disponibilité pour les projets planifiés à l'avance.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Intervenez-vous en dehors de AURILLAC ?</h3>
+        <p>Oui, Gamm Vert couvre AURILLAC et un rayon de 20 km — voir le détail des communes juste en dessous.</p>
+      </div>
+      <div class="faq-item">
+        <h3>Les travaux sont-ils garantis ?</h3>
+        <p>Chaque intervention est réalisée avec du matériel de qualité et suivie d'une garantie, comme indiqué plus haut sur cette page.</p>
+      </div>
     </div>
   </div>
 </section>

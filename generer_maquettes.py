@@ -64,6 +64,9 @@ ICONS = {
     "ruler":   '<path d="M3 16 16 3l5 5L8 21l-5-5z"/><path d="M7.5 12.5l2 2M11 9l2 2M14.5 5.5l2 2"/>',
     "window":  '<rect x="4" y="4" width="16" height="16" rx="1.5"/><path d="M12 4v16M4 12h16"/>',
     "shelf":   '<path d="M4 4h16v6H4zM4 14h16v6H4z"/><path d="M8 4v6M8 14v6"/>',
+    "gauge":   '<path d="M12 12L16 8"/><circle cx="12" cy="12" r="9"/><path d="M12 3v2M21 12h-2M12 21v-2M3 12h2M5.6 5.6l1.4 1.4M18.4 5.6l-1.4 1.4"/>',
+    "spray":   '<rect x="9" y="4" width="4" height="4" rx="1"/><path d="M11 8v13"/><path d="M6 21h10"/><path d="M15 9l3-2M16.5 12l3-1M15 15l3 1"/>',
+    "tire":    '<circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="3"/><path d="M12 3.5v3M12 17.5v3M3.5 12h3M17.5 12h3M6 6l2 2M16 16l2 2M18 6l-2 2M8 16l-2 2"/>',
 }
 
 
@@ -110,6 +113,13 @@ HERO_MARKS = {
         <rect x="90" y="90" width="140" height="140" rx="6" style="stroke:var(--copper-soft)" stroke-width="3" fill="none"/>
         <path d="M90 90 230 230M230 90 90 230" style="stroke:var(--copper-soft)" stroke-width="1.5" opacity="0.5"/>
         <rect x="130" y="130" width="60" height="60" rx="4" style="fill:var(--copper)"/>''',
+    "garage": '''
+        <path d="M75 185h170l-18-40a14 14 0 0 0-13-9h-108a14 14 0 0 0-13 9z"
+              style="stroke:var(--copper-soft)" stroke-width="3" fill="none" stroke-linejoin="round"/>
+        <path d="M75 185v25h170v-25" style="stroke:var(--copper-soft)" stroke-width="3" fill="none"/>
+        <circle cx="108" cy="210" r="14" style="fill:var(--petrol)" stroke="var(--copper)" stroke-width="3"/>
+        <circle cx="212" cy="210" r="14" style="fill:var(--petrol)" stroke="var(--copper)" stroke-width="3"/>
+        <path d="M100 165h30M140 165h30" style="stroke:var(--copper)" stroke-width="3" stroke-linecap="round"/>''',
 }
 
 # Palette + textes + prestations + réalisations par métier
@@ -168,6 +178,17 @@ METIERS = {
             ("Rénovation de menuiserie", "Restauration de menuiseries anciennes avec un diagnostic clair avant chaque chantier.", "restore"),
         ],
         "realisations": ["Dressing sur mesure", "Pose de fenêtres double vitrage", "Restauration escalier ancien"],
+    },
+    "garage": {
+        "titre": "Garage", "domaine": "réparation automobile",
+        "palette": {"primaire": "#1F2427", "primaire_claire": "#333A3E", "accent": "#C1432E", "accent_claire": "#EAD6CE"},
+        "services": [
+            ("Entretien et révision", "Vidange, contrôle des niveaux, révision complète : l'entretien régulier qui évite les mauvaises surprises.", "gauge"),
+            ("Réparation mécanique", "Diagnostic et réparation, des pannes courantes aux interventions plus lourdes, avec un devis clair avant travaux.", "wrench"),
+            ("Carrosserie et peinture", "Réparation de chocs, débosselage, mise en peinture : votre véhicule remis à neuf.", "spray"),
+            ("Pneus et pièces d'usure", "Changement de pneus, plaquettes, freins : les pièces d'usure vérifiées et remplacées si besoin.", "tire"),
+        ],
+        "realisations": ["Révision complète avant contrôle technique", "Réparation carrosserie après choc", "Changement de pneus 4 saisons"],
     },
 }
 
@@ -232,15 +253,21 @@ def bloc_services(services: list) -> str:
     return "".join(html)
 
 
-def bloc_realisations(items: list) -> str:
-    """Génère la grille de 'types de chantiers' (catégories, pas de faux exemples précis)."""
+def bloc_realisations(items: list, icones_metier: list) -> str:
+    """Génère la grille de 'types de chantiers' en vraies cartes visuelles,
+    avec une icône reprise des prestations du métier (catégories, pas de faux
+    exemples précis attribués à un client)."""
     html = []
     for i, item in enumerate(items, start=1):
+        icone_nom = icones_metier[(i - 1) % len(icones_metier)]
         html.append(f"""
         <div class="realisation-item">
-          <span class="num">{i:02d}</span>
-          <h3>{item}</h3>
-          <p>Réalisé sur mesure selon la configuration du logement.</p>
+          <div class="realisation-visuel">{icone(icone_nom)}</div>
+          <div class="realisation-texte">
+            <span class="num">{i:02d}</span>
+            <h3>{item}</h3>
+            <p>Réalisé sur mesure selon la configuration du logement.</p>
+          </div>
         </div>""")
     return "".join(html)
 
@@ -298,7 +325,10 @@ def generer_maquette(prospect: dict) -> str:
         "{{LISTE_COMMUNES}}": communes_html,
         "{{HISTOIRE}}": prospect["histoire"],
         "{{SERVICES}}": bloc_services(config_metier["services"]),
-        "{{REALISATIONS}}": bloc_realisations(prospect["realisations_liste"]),
+        "{{REALISATIONS}}": bloc_realisations(
+            prospect["realisations_liste"],
+            [s[2] for s in config_metier["services"]]
+        ),
         "{{AVIS}}": bloc_avis(),
         "{{HERO_MARK}}": HERO_MARKS.get(metier, HERO_MARKS["plombier"]),
         "{{COULEUR_PRIMAIRE}}": couleur_primaire,

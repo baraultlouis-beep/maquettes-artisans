@@ -654,5 +654,6605 @@
     "email": "",
     "metier": "couvreur",
     "site_existant": "https://www.alutoit-nouvelle-aquitaine.fr/alutoit-nouvelle-aquitaine"
+  },
+  {
+    "nom": "Nouveau garage Montluel - La Boisse",
+    "ville": "La Boisse",
+    "telephone": "+33 4 72 25 10 10",
+    "email": "christophe.cochet2@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/la-boisse/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Bourg-en-Bresse",
+    "telephone": "+33 4 74 50 31 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Garage Calderoni",
+    "ville": "Les Échets",
+    "telephone": "+33478540157",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.garage-calderoni.com/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Meximieux",
+    "telephone": "+33 4 74 46 42 05",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "NJ automobile",
+    "ville": "Saint-Genis-Pouilly",
+    "telephone": "+33 6 08 69 42 41",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://nj-automobile.fr/"
+  },
+  {
+    "nom": "BestDrive",
+    "ville": "Ambérieu-en-Bugey",
+    "telephone": "+33 4 74 34 55 88",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://bestdrive.fr"
+  },
+  {
+    "nom": "First Stop",
+    "ville": "Saint-Genis-Pouilly",
+    "telephone": "+33 4 50 42 07 85",
+    "email": "alphipneux.saintgenispouilly@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.firststop.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Arbent",
+    "telephone": "+33 4 74 12 99 56",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/auvergne-rhone-alpes/ain/nantua/oyonnax-arbent_1440"
+  },
+  {
+    "nom": "Garage AGL",
+    "ville": "Massieux",
+    "telephone": "+33 4 78 98 01 32",
+    "email": "garageaglmassieux01@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/massieux/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Belley",
+    "telephone": "+33 4 79 42 69 10",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/ain/belley/zac-de-l-ousson"
+  },
+  {
+    "nom": "Feu Vert Soissons",
+    "ville": "Soissons",
+    "telephone": "+33 3 23 75 54 54",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/soissons/feu-vert-soissons/93.html?setcenter=93"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Viry-Noureuil",
+    "telephone": "+33 3 23 57 07 63",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/aisne/laon/viry-noureuil_1485"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Villeneuve-Saint-Germain",
+    "telephone": "+33 3 23 53 43 44",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/aisne/soissons/soissons_1137"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Saint-Quentin",
+    "telephone": "+33 3 23 67 24 22",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/aisne/saint-quentin/saint-quentin_1128"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Chambry",
+    "telephone": "+33 3 23 26 21 21",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/aisne/laon/laon_1517"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Château-Thierry",
+    "telephone": "+33 3 53 63 23 23",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/aisne/soissons/chateau-thierry_1699"
+  },
+  {
+    "nom": "Roady",
+    "ville": "Chauny",
+    "telephone": "+33 3 66 88 68 14",
+    "email": "pdv04923@mousquetaires.com",
+    "metier": "garage",
+    "site_existant": "https://www.roady.fr/chauny.html"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Château-Thierry",
+    "telephone": "+33 3 23 83 87 90",
+    "email": "stephane.ricada@grouperiester.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/chateau-th"
+  },
+  {
+    "nom": "Garage des Stades",
+    "ville": "Lamastre",
+    "telephone": "+33 4 75 06 49 91",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garagedesstades-lamastre.fr/"
+  },
+  {
+    "nom": "SVMR Magyar",
+    "ville": "Le Pouzin",
+    "telephone": "+33 4 75 63 77 51",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.magyar.fr/"
+  },
+  {
+    "nom": "Meca Pneus 07",
+    "ville": "La Voulte-sur-Rhône",
+    "telephone": "+33601288570",
+    "email": "mecapneus07@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://mecapneus07.wixsite.com/website"
+  },
+  {
+    "nom": "Ford Raillon Autos Services",
+    "ville": "La Voulte-sur-Rhône",
+    "telephone": "+33475620091",
+    "email": "carrosserieteysseire@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://ford-lavoulte-raillon.fr/"
+  },
+  {
+    "nom": "Carrosserie Teysseire",
+    "ville": "La Voulte-sur-Rhône",
+    "telephone": "+33 4 75 85 44 52",
+    "email": "carrosserieteysseire@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserieteysseire.fr/"
+  },
+  {
+    "nom": "Garage du Stade Peugeot",
+    "ville": "La Voulte-sur-Rhône",
+    "telephone": "+33475624248",
+    "email": "garagedustade07@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/la-voulte/?location=LA+VOULTE%7C0"
+  },
+  {
+    "nom": "Garage Blan Michel Automobile Bosch Car Service",
+    "ville": "La Voulte-sur-Rhône",
+    "telephone": "+33475624550",
+    "email": "direction@blanc-automobile.fr",
+    "metier": "garage",
+    "site_existant": "https://www.boschcarservice.com/fr/fr/"
+  },
+  {
+    "nom": "Centre Auto Ams Charleville",
+    "ville": "La Francheville",
+    "telephone": "+33 6 45 13 51 41",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.centre-auto-ams-charleville.fr/"
+  },
+  {
+    "nom": "Élite Pare-Brise",
+    "ville": "Charleville-Mézières",
+    "telephone": "0 805 38 08 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://charleville.eliteparebrise.fr"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Charleville-Mézières",
+    "telephone": "+33 3 24 33 11 72",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/charleville-mezieres-08000/641"
+  },
+  {
+    "nom": "Carrosserie Dionnet",
+    "ville": "Nogent-sur-Seine",
+    "telephone": "+33325397981",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-dionnet"
+  },
+  {
+    "nom": "AutoControle C.C.T.A \"Beury",
+    "ville": "Troyes",
+    "telephone": "+33 3 25 83 20 42",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.dekra-norisko.fr/centres-controle-technique/troyes,10000/ccta-beury,s010d039"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Troyes",
+    "telephone": "+33 3 10 95 76 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Saint-André-les-Vergers",
+    "telephone": "+33 3 51 53 36 91",
+    "email": "1669@midasfrance.net",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/grand-est/aube/troyes/saint-andre-les-vergers_1669"
+  },
+  {
+    "nom": "Garage Bruhammer",
+    "ville": "Troyes",
+    "telephone": "+33 3 25 81 17 97",
+    "email": "garage@bruhammer.com",
+    "metier": "garage",
+    "site_existant": "https://www.bruhammer.com/"
+  },
+  {
+    "nom": "Feu Vert Rodez Onet Le Chateau",
+    "ville": "Onet-le-Château",
+    "telephone": "+33 5 65 42 68 77",
+    "email": "fv12@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/rodez-onet-le-chateau/feu-vert-rodez/101.html"
+  },
+  {
+    "nom": "Vulco",
+    "ville": "Millau",
+    "telephone": "+33 5 65 61 34 08",
+    "email": "carrosseriecentrale@free.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-centrale.fr/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Salon-de-Provence",
+    "telephone": "+33490423456",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/salon-de-provence-13300/568"
+  },
+  {
+    "nom": "AD Expert - Calas Automobile",
+    "ville": "Cabriès",
+    "telephone": "+33 4 42 69 01 90",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-expert-calas-automobile"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Marseille",
+    "telephone": "+33 4 91 41 00 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Garage Citroën - DUQUESNEL",
+    "ville": "Charleval",
+    "telephone": "+33 4 42 28 40 10",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-charleval"
+  },
+  {
+    "nom": "Volkswagen Mva Sas Martigues",
+    "ville": "Martigues",
+    "telephone": "+33 4 42 40 72 30",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://volkswagen-martigues.com/"
+  },
+  {
+    "nom": "Volkswagen",
+    "ville": "Salon-de-Provence",
+    "telephone": "+33 4 90 17 07 17",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://volkswagen-salon-de-provence.com/"
+  },
+  {
+    "nom": "Volkswagen",
+    "ville": "Saint-Victoret",
+    "telephone": "+33 4 42 15 98 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "www.volkswagen-saint-victoret.com"
+  },
+  {
+    "nom": "Toyota Auto Sprinter Salon De Provence",
+    "ville": "Salon-de-Provence",
+    "telephone": "+33 4 90 53 54 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://toyota-salon-de-provence.com/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Marseille",
+    "telephone": "+33 4 91 94 11 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Marignane",
+    "telephone": "+33 4 42 89 67 57",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Rapid Pare-Brise",
+    "ville": "Marignane",
+    "telephone": "+33983099018",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.rapidparebrise-marignane.fr"
+  },
+  {
+    "nom": "Carglass",
+    "ville": "Aubagne",
+    "telephone": "+33 4 42 84 20 13",
+    "email": "cdc615@carglass.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carglass.fr/centre/13400-83318/aubagne"
+  },
+  {
+    "nom": "Vérif'Autos Contrôle",
+    "ville": "Raphele",
+    "telephone": "+33 4 90 54 36 94",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.dekra-norisko.fr/centres-controle-technique/raphele-les-arles,13280/provence-auto-controle-pac,s013d309"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Arles",
+    "telephone": "+33 4 90 93 13 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "GARAGE MARECHAL NEXUS AUTO",
+    "ville": "Saint-Andiol",
+    "telephone": "+33 4 90 95 40 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-marechal-agent-renault.business.site"
+  },
+  {
+    "nom": "Passion Automobile",
+    "ville": "Saint-Andiol",
+    "telephone": "+33 4 90 95 01 80",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.passionautomobile.com/"
+  },
+  {
+    "nom": "carroserie mécanique FIORANO habilitation carte grise en 10mn",
+    "ville": "Saint-Andiol",
+    "telephone": "+33 6 26 70 72 46",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://garage-fiorano.com/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Marseille",
+    "telephone": "+33 4 91 10 19 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/provence-alpes-cote-d-azur/marseille/euromaster-vl-marseille-14eme"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Plan-de-Cuques",
+    "telephone": "+33 4 91 64 02 21",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Aix-en-Provence",
+    "telephone": "+33 4 42 27 22 22",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Tomeca",
+    "ville": "Saint-Martin-de-Crau",
+    "telephone": "+33 6 82 82 90 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/Tomeca-2052237411492883/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Marseille",
+    "telephone": "+33 4 91 27 03 37",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Ze Carrossery",
+    "ville": "Meyrargues",
+    "telephone": "+33 4 42 57 27 03",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.zecarrossery.fr/carrossier/garage-carrosserie-aix-en-provence-mf84"
+  },
+  {
+    "nom": "Carrosserie Pelcourt",
+    "ville": "Aix-en-Provence",
+    "telephone": "+33 4 42 21 57 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-pelcourt"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Salon-de-Provence",
+    "telephone": "+33490170606",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Marseille",
+    "telephone": "+33 4 91 62 98 98",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Salon-de-Provence",
+    "telephone": "+33 4 90 53 80 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Mécanique Générale Ravera",
+    "ville": "Aubagne",
+    "telephone": "+33 4 42 82 32 80",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mgr-france.com/"
+  },
+  {
+    "nom": "Innovation Spirit",
+    "ville": "Aubagne",
+    "telephone": "+33 9 51 53 93 90",
+    "email": "skyb.innov.spirit@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.innovation-spirit.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Arles",
+    "telephone": "+33 4 88 82 99 07",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/bouches-du-rhone/arles/12-avenue-de-la-liberation"
+  },
+  {
+    "nom": "Vulco",
+    "ville": "Aix En Provence",
+    "telephone": "+33 4 42 27 67 02",
+    "email": "cbgarage13090@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://julespneus.com/"
+  },
+  {
+    "nom": "Performance Turbo",
+    "ville": "Cabriès",
+    "telephone": "+33 4 42 74 28 44",
+    "email": "contact@performance-turbo.com",
+    "metier": "garage",
+    "site_existant": "https://www.performance-turbo.com/"
+  },
+  {
+    "nom": "Vistauto",
+    "ville": "Marseille",
+    "telephone": "",
+    "email": "contact@vistauto.fr",
+    "metier": "garage",
+    "site_existant": "https://www.vistauto.fr/"
+  },
+  {
+    "nom": "GMC Auto",
+    "ville": "Velaux",
+    "telephone": "+33 4 42 09 85 98;+33 6 64 76 27 46",
+    "email": "gmcauto@sfr.fr",
+    "metier": "garage",
+    "site_existant": "https://gmc-auto.com"
+  },
+  {
+    "nom": "Citroën Velaux",
+    "ville": "Velaux",
+    "telephone": "+33 4 42 74 89 47",
+    "email": "citroen.velaux@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.citroen.fr/"
+  },
+  {
+    "nom": "Renault la Verdière",
+    "ville": "Velaux",
+    "telephone": "+33 4 42 87 70 10",
+    "email": "verdiere.automobile@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessionnaire.renault.fr/garage-velaux.html"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Rognac",
+    "telephone": "+33 4 42 87 29 31",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/rognac/?location=ROGNAC%7C0"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Rognac",
+    "telephone": "+33 4 42 87 29 31",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-rognac-1/?location=ROGNAC%7C0"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Rognac",
+    "telephone": "+33 4 42 87 51 61",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renaultrognacoccasion.fr"
+  },
+  {
+    "nom": "Maury Moteurs",
+    "ville": "Les Pennes-Mirabeau",
+    "telephone": "+33 4 42 02 65 05",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.maury-moteurs.com/"
+  },
+  {
+    "nom": "Pink Pare-Brise",
+    "ville": "Les Pennes-Mirabeau",
+    "telephone": "+33 4 84 48 95 39",
+    "email": "plan@pink-parebrise.fr",
+    "metier": "garage",
+    "site_existant": "https://pink-parebrise.fr/plan-de-campagne/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Aix-en-Provence",
+    "telephone": "+33 4 42 29 73 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "First Stop",
+    "ville": "Aubagne",
+    "telephone": "+33 4 42 84 26 38",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.firststop.fr/garage-pneus/garage.html/553.html#detailanchor"
+  },
+  {
+    "nom": "Mondial Pare-Brise",
+    "ville": "Istres",
+    "telephone": "+33 4 42 56 02 96",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mondialparebrise.fr/trouver-mon-centre/mondial-pare-brise-istres"
+  },
+  {
+    "nom": "Midas Plan de Campagne",
+    "ville": "Les Pennes-Mirabeau",
+    "telephone": "+33 4 42 46 50 50",
+    "email": "1373@midasfrance.net",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/plan-de-campagne_1373"
+  },
+  {
+    "nom": "Carosserie Pont de Vivaux",
+    "ville": "Marseille",
+    "telephone": "+33 4 91 79 68 70",
+    "email": "carrosserie.pontdevivaux@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-pont-de-vivaux.fr/"
+  },
+  {
+    "nom": "Audi Odicée Marseille",
+    "ville": "Marseille 11eme Arrondissement",
+    "telephone": "+33 4 91 25 92 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.audi-marseille.com/"
+  },
+  {
+    "nom": "Carrosserie Premium",
+    "ville": "Marseille",
+    "telephone": "+33 4 42 71 90 35",
+    "email": "contact@carrosseriepremium.fr",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/profile.php?id=100047938366130"
+  },
+  {
+    "nom": "JV Carrosserie",
+    "ville": "Saint-Cannat",
+    "telephone": "+33 4 42 92 64 36",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.jv-carrosserie.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Vitrolles",
+    "telephone": "+33 4 42 79 60 42",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Sas Rep Cass Auto",
+    "ville": "Arpajon-sur-Cère",
+    "telephone": "+33 4 27 50 21 44",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.repcassauto.com/"
+  },
+  {
+    "nom": "Auto Selection 15",
+    "ville": "Arpajon-sur-Cère",
+    "telephone": "+33 4 26 07 78 43",
+    "email": "auto-selection-15@orange.fr",
+    "metier": "garage",
+    "site_existant": "http://www.visibilite-store.com/autoselection15"
+  },
+  {
+    "nom": "Lescudilliers Automobiles",
+    "ville": "Aurillac",
+    "telephone": "+33 4 71 63 97 76",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "www.lescudilliers-autos.fr/"
+  },
+  {
+    "nom": "Garage Grèze",
+    "ville": "Massiac",
+    "telephone": "+33471230053",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-greze.fr/"
+  },
+  {
+    "nom": "Mansou Loisirs 15",
+    "ville": "saint paul des landes",
+    "telephone": "+33 7 82 54 68 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mansou-loisirs-15.fr/"
+  },
+  {
+    "nom": "Garage De Sousa",
+    "ville": "Foëcy",
+    "telephone": "+33 2 48 51 02 65",
+    "email": "garage-de-sousa@hotmail.fr",
+    "metier": "garage",
+    "site_existant": "https://garage-de-sousa.business.site"
+  },
+  {
+    "nom": "Garage de Givry",
+    "ville": "Foëcy",
+    "telephone": "",
+    "email": "antoine.mitir@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garage-de-givry-35.webself.net"
+  },
+  {
+    "nom": "Garage Peron Forest",
+    "ville": "Boulleret",
+    "telephone": "+33248723095",
+    "email": "gge.pf@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-peron-forest.fr/"
+  },
+  {
+    "nom": "Rénov’Auto",
+    "ville": "Neuvy-sur-Barangeon",
+    "telephone": "+33 2 48 51 66 53",
+    "email": "renovauto18@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.renovauto-garage.fr/"
+  },
+  {
+    "nom": "Mecamike",
+    "ville": "Culan",
+    "telephone": "+33 2 48 61 48 51;+33 6 99 59 76 63",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-mecamike.jimdosite.com/"
+  },
+  {
+    "nom": "PGS Automobile Agent Renault",
+    "ville": "Argent-sur-Sauldre",
+    "telephone": "+33 2 48 58 41 96",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr/trouver-un-etablissement.html"
+  },
+  {
+    "nom": "Peugeot Mehun Automobiles",
+    "ville": "Mehun-sur-Yèvre",
+    "telephone": "+33 2 48 26 83 64",
+    "email": "mehun.automobiles@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.mehunautomobiles.fr/occasions"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Vierzon",
+    "telephone": "+33 2 48 52 93 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.groupe-simonneau.fr/nos-concessions/34-renault-vierzon"
+  },
+  {
+    "nom": "Renault Garage Bardiot",
+    "ville": "Châteaumeillant",
+    "telephone": "+33 2 48 61 33 95",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garagebardiotolivier.fr/"
+  },
+  {
+    "nom": "Atelier Olimet Collection",
+    "ville": "Préveranges",
+    "telephone": "",
+    "email": "olivier@olimetcollection.fr",
+    "metier": "garage",
+    "site_existant": "https://www.olimetcollection.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Lannion",
+    "telephone": "+33 2 96 48 06 66",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Ford",
+    "ville": "Lannion",
+    "telephone": "+33 2 96 48 30 30",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.fordlannion22.fr"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Langueux",
+    "telephone": "+33296330995",
+    "email": "olpri.langueux@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/"
+  },
+  {
+    "nom": "Renault Garage Hamon",
+    "ville": "Matignon",
+    "telephone": "+33 2 96 41 02 31",
+    "email": "sarl-seg-hamon@orange.fr",
+    "metier": "garage",
+    "site_existant": "http://www.seg-hamon.fr/"
+  },
+  {
+    "nom": "Eur-Auto",
+    "ville": "Taden",
+    "telephone": "+33 2 96 85 36 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://firststop.fr/"
+  },
+  {
+    "nom": "Maël Auto",
+    "ville": "Bégard",
+    "telephone": "+33 2 96 45 49 28",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eur-auto.com/trouver-un-garage/6-centre-auto-matic-begard/"
+  },
+  {
+    "nom": "Eurorepar - Garage Menier",
+    "ville": "Bégard",
+    "telephone": "+33 2 96 45 34 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-garage-menier-1227.html"
+  },
+  {
+    "nom": "Garage Premier - MC AUTO UTIL",
+    "ville": "Bégard",
+    "telephone": "+33 2 96 15 31 68",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage.garage-premier.fr/fr/france-FR/CUST-013774/mc-auto-util/details"
+  },
+  {
+    "nom": "peugeot",
+    "ville": "Étables-sur-Mer",
+    "telephone": "+33 2 96 70 95 88",
+    "email": "garage.denouel.peugeot@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/etables-sur-mer/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Saint-Lormel",
+    "telephone": "+33 2 96 84 11 82",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/bretagne/saint-lormel/ypgagxr-emeraude-pneus-plancoet"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Lannion",
+    "telephone": "+33 2 96 37 97 45",
+    "email": "ael@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/"
+  },
+  {
+    "nom": "Carrosserie Tanguy",
+    "ville": "Pabu",
+    "telephone": "+33 2 96 21 36 35",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-tanguy.fr"
+  },
+  {
+    "nom": "Euromaster Eco Pneus",
+    "ville": "Plérin",
+    "telephone": "+33 2 96 74 76 74",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/bretagne/plerin/eco-pneus"
+  },
+  {
+    "nom": "Garage Renault Henry Michel",
+    "ville": "Quemper-Guézennec",
+    "telephone": "+33 2 96 95 19 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-henrymichel.fr"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Lannion",
+    "telephone": "+33 2 96 48 02 43",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/cotes-d-armor/lannion/rue-robert-surcouf"
+  },
+  {
+    "nom": "Volkswagen",
+    "ville": "Lannion",
+    "telephone": "+33 2 96 48 02 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-beyou-lannion.com/"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Lannion",
+    "telephone": "+33 2 96 37 04 33",
+    "email": "contact@sobreva-auto-lannion.fr",
+    "metier": "garage",
+    "site_existant": "https://www.cobredia.fr/citroen/concessions/citroen-lannion/"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Pabu",
+    "telephone": "+33 2 96 44 09 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centre.franceparebrise.fr/"
+  },
+  {
+    "nom": "Garage d'Antan",
+    "ville": "Plédéliac",
+    "telephone": "+33 2 96 34 18 07",
+    "email": "garagedantan@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-102946/garage-dantan/details"
+  },
+  {
+    "nom": "Best drive",
+    "ville": "Guéret",
+    "telephone": "+33 5 55 52 01 65",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.bestdrive.fr/centres-auto/gueret.html?branch=F645"
+  },
+  {
+    "nom": "AD Garage Chaubron",
+    "ville": "Boussac",
+    "telephone": "+33 5 55 65 01 32",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://ad.fr/garage/garage-ad-expert-garage-chaubron"
+  },
+  {
+    "nom": "Citroën Forichon",
+    "ville": "Boussac",
+    "telephone": "+33 5 55 65 83 23",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-boussac/"
+  },
+  {
+    "nom": "MOTRIO Gregoire Frédéric",
+    "ville": "Lavaveix-les-Mines",
+    "telephone": "+33 9 71 20 61 26",
+    "email": "gregoirfrederic@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.motrio.fr/shop/motrio-gregoire-frederic-3158"
+  },
+  {
+    "nom": "Garage Central",
+    "ville": "Charquemont",
+    "telephone": "+33 3 81 68 20 00",
+    "email": "garagecentralcharquemont@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/charquemont/"
+  },
+  {
+    "nom": "Est Auto",
+    "ville": "Besançon",
+    "telephone": "+33 3 81 47 78 78",
+    "email": "j.afonso@groupegrenard.fr",
+    "metier": "garage",
+    "site_existant": "https://www.groupegrenard.fr/concession/123/est-auto-besancon/"
+  },
+  {
+    "nom": "Garage du Coude",
+    "ville": "Labergement-Sainte-Marie",
+    "telephone": "+33 3 81 69 31 19",
+    "email": "garageducoude@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "http://www.garageducoude.fr/"
+  },
+  {
+    "nom": "Carrosserie Penel",
+    "ville": "Pontarlier",
+    "telephone": "+33 6 78 19 08 90",
+    "email": "contact@carrosserie-penel.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-penel.fr/"
+  },
+  {
+    "nom": "Garage Droz",
+    "ville": "Baume-les-Dames",
+    "telephone": "+33 3 81 84 05 48",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.ggedroz.fr/"
+  },
+  {
+    "nom": "Garage Toubin",
+    "ville": "Pontarlier",
+    "telephone": "+33 3 81 46 70 80",
+    "email": "garage.toubin@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garagetoubin.fr/"
+  },
+  {
+    "nom": "Centre Auto Sauterey Maxime",
+    "ville": "Baume-les-Dames",
+    "telephone": "+33 3 81 84 42 93",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/pages/category/Automotive-Body-Shop/Centre-Auto-Sauterey-Maxime-355897661718407/"
+  },
+  {
+    "nom": "Garage du Stade",
+    "ville": "Baume-les-Dames",
+    "telephone": "+33 3 81 84 40 30",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-baume-les-dames"
+  },
+  {
+    "nom": "Garage Renault",
+    "ville": "Saône",
+    "telephone": "+33 3 81 55 72 28",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.saone-auto.fr"
+  },
+  {
+    "nom": "Ford",
+    "ville": "Besançon",
+    "telephone": "+33 3 81 47 78 78",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.fordgrenard.fr"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Chalezeule",
+    "telephone": "+33 3 39 27 06 01",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Châtillon-le-Duc",
+    "telephone": "+33 3 81 48 43 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/doubs/ecole-valentin/2-rue-de-letang"
+  },
+  {
+    "nom": "Garage Binetruy",
+    "ville": "Charquemont",
+    "telephone": "+33381682606",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-binetruy.fr/"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Valdahon",
+    "telephone": "+33 3 81 56 23 07",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.bandelier-automobiles.fr/"
+  },
+  {
+    "nom": "Eurorepar",
+    "ville": "Brey-et-Maison-du-Bois",
+    "telephone": "+33 3 81 69 23 31",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-vuez-dany-brey-et-maison-du-bois-295.html"
+  },
+  {
+    "nom": "Carglass Pare-Brise Montélimar",
+    "ville": "Montélimar",
+    "telephone": "+33 4 20 10 20 19",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carglass.fr/centre/26200-83464/montelimar"
+  },
+  {
+    "nom": "Carrosserie des Adhémar",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 51 45 15",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.groupesvs.com/"
+  },
+  {
+    "nom": "Euromaster Montélimar",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 92 02 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/auvergne-rhone-alpes/montelimar/euromaster-montelimar?utm_source=Google&utm_medium=organic&utm_campaign=Uberall_GBP&utm_content=LDS&utm_term=Uberall_GBP"
+  },
+  {
+    "nom": "123 Pare-Brise Montélimar",
+    "ville": "Montélimar",
+    "telephone": "+33 4 87 26 00 30",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.123parebrise.fr/centre-montelimar/?mtm_campaign=seo_local&mtm_medium=clic_site&mtm_placement=GMB_Montelimar&mtm_source=gmb"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 01 47 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/auvergne-rhone-alpes/drome/nyons/montelimar_1140"
+  },
+  {
+    "nom": "Réparateur agréé Lexus - TAM",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 00 66 12",
+    "email": "lexus.montelimar@gemelli-auto.com",
+    "metier": "garage",
+    "site_existant": "https://www.lexus.fr/concessions/reparateur-agree-lexus-montelimar"
+  },
+  {
+    "nom": "BONHOMME Agence de St Donat - La Nouvelle Mobilité avec le service Point S",
+    "ville": "saint donat sur l'herbasse",
+    "telephone": "+33475452655",
+    "email": "julien.clement@bonhomme-automobiles.com",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre-points/drom-pneus-sas,saint%20donat%20sur%20lherbasse,00002417.html"
+  },
+  {
+    "nom": "First Stop LYL 2 Savasse",
+    "ville": "Savasse",
+    "telephone": "+33 4 75 01 50 21",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://lyl-2-savasse.firststop.fr/?y_source=1_MTAzMDgwMDM4Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+  },
+  {
+    "nom": "AD Carrosserie Lifting Auto",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 01 63 41",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-lifting-auto?utm_source=google&utm_medium=organic&utm_campaign=google_my_business"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 00 58 92",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centre.franceparebrise.fr/reparation-pare-brise/auvergne-rhone-alpes/drome/montelimar/montelimar"
+  },
+  {
+    "nom": "Garage d'Enzo",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 51 75 81",
+    "email": "garagedenzo@outlook.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garagedenzo.fr/"
+  },
+  {
+    "nom": "Carrosserie Hexagone Clinique Auto",
+    "ville": "Montélimar",
+    "telephone": "",
+    "email": "h.ca26@hotmail.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carrosseriehexagone.fr/"
+  },
+  {
+    "nom": "Garage Gaulon - Bosch Car Service",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 53 20 87",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.boschcarservice.fr/"
+  },
+  {
+    "nom": "Peugeot -Daumal Services Automobiles",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 01 37 68",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/schaeffer-montelimar/nous-contacter/contactez-nous/?location=MONTELIMAR%7C0"
+  },
+  {
+    "nom": "Carrosserie Pomerat",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 01 40 21",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-pomerat-montelimar.fr/"
+  },
+  {
+    "nom": "Valence Véhicule Industriel Montélimar - Iveco",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 96 83 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.martenat.fr/"
+  },
+  {
+    "nom": "MayPneus26",
+    "ville": "Montélimar",
+    "telephone": "",
+    "email": "maypneus26@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.maypneus26.com/"
+  },
+  {
+    "nom": "Auto Diag Performance Reprogrammation moteur Montélimar",
+    "ville": "Montélimar",
+    "telephone": "",
+    "email": "contact@autodiagperformance.com",
+    "metier": "garage",
+    "site_existant": "https://autodiagperformance.com/"
+  },
+  {
+    "nom": "Euromaster Véhicules Industriels - Montélimar",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 92 05 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/auvergne-rhone-alpes/montelimar/yzstwht-euromaster-montelimar-vehicules-industriels"
+  },
+  {
+    "nom": "Garage du Bouquet",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 01 14 02",
+    "email": "contact@garagedubouquet.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/cavalier-montelimar/"
+  },
+  {
+    "nom": "AD Garage Expert T2s Services Auto",
+    "ville": "Montélimar",
+    "telephone": "+33 9 88 35 18 69",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-t2sservicesauto?utm_campaign=google_my_business&utm_medium=organic&utm_source=google"
+  },
+  {
+    "nom": "Côté Route Montélimar by First Stop",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 01 32 77",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://cote-route-montelimar.firststop.fr/?utm_source=google&utm_medium=yext&y_source=1_MTAwMzMxMjM0Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+  },
+  {
+    "nom": "Carrosserie Navarro",
+    "ville": "Étoile sur Rhône",
+    "telephone": "+33475570074",
+    "email": "mecanique@carrosserienavarro.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-016077/carrosserie-navarro/details"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Montélimar",
+    "telephone": "+33 4 69 43 01 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/drome/montelimar/zi-sud-avenue-de-gournier"
+  },
+  {
+    "nom": "dynaruptor",
+    "ville": "Livron-Sur-Drôme",
+    "telephone": "+33 7 43 56 78 89",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.dynaruptor.com/"
+  },
+  {
+    "nom": "Point S Pro",
+    "ville": "Montélimar",
+    "telephone": "+33 4 75 00 48 18",
+    "email": "fabrice.wadoux@tt-services.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/technic-truck-service-montelimar/"
+  },
+  {
+    "nom": "Autoccaz",
+    "ville": "Saussay",
+    "telephone": "+33 2 37 41 89 09",
+    "email": "autoccaz28@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.autoccaz28.fr/"
+  },
+  {
+    "nom": "First stop",
+    "ville": "Vernouillet",
+    "telephone": "+33 2 37 46 99 38",
+    "email": "toutlentretienauto@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://centres.firststop.fr/garage-pneus/ps022249/first-stop-tout-lentretien-auto-vernouillet"
+  },
+  {
+    "nom": "Garage Lequivard",
+    "ville": "Frainville",
+    "telephone": "+33237257125",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-garage_lequivard-1272.html"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Châteaudun",
+    "telephone": "+33 2 37 47 07 35",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Chartres",
+    "telephone": "+33 2 37 35 22 28",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Hanches",
+    "telephone": "+33 2 37 27 80 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.speedy.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Barjouville",
+    "telephone": "+33 2 36 72 82 10",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/eure-et-loir/barjouville/30-rue-des-pierres-missigault"
+  },
+  {
+    "nom": "AD - Garage Allioux Chatelain",
+    "ville": "Gallardon",
+    "telephone": "+33 2 37 31 40 87",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-expert-sarl-garage-allioux-chatelain?utm_campaign=google_my_business&utm_medium=organic&utm_source=google"
+  },
+  {
+    "nom": "Garage de l'Avenir",
+    "ville": "Nogent-le-Roi",
+    "telephone": "+33 2 37 51 91 20",
+    "email": "garage-de-lavenir@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.fordnogentleroi.fr/"
+  },
+  {
+    "nom": "Garage Clos des Marolles",
+    "ville": "Saint-Piat",
+    "telephone": "+33 2 37 20 04 69",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.pagesjaunes.fr/pros/12206351"
+  },
+  {
+    "nom": "GlassAuto",
+    "ville": "Nogent-le-Phaye",
+    "telephone": "+33 2 34 40 33 10",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.glassauto.fr/centre/glassauto-nogent-le-phaye"
+  },
+  {
+    "nom": "SL Automobiles",
+    "ville": "Le Gué-de-Longroi",
+    "telephone": "+33 2 37 35 41 51",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://serge.lenoir1.free.fr/"
+  },
+  {
+    "nom": "Cohu Radiateurs et Fils",
+    "ville": "Mainvilliers",
+    "telephone": "+33 2 37 28 61 92",
+    "email": "cohuradiateurs@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.cohu-radiateurs28.com/"
+  },
+  {
+    "nom": "Self Auto",
+    "ville": "Saint-Georges-sur-Eure",
+    "telephone": "+332 37 24 50 74",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.allogarage.fr/garages/details-garage-Selfauto-28-51715.html"
+  },
+  {
+    "nom": "Renault Dacia",
+    "ville": "Pierres",
+    "telephone": "+33 2 37 18 23 23",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault-maintenon.fr/"
+  },
+  {
+    "nom": "Garage Lochon Peugeot",
+    "ville": "Pierres",
+    "telephone": "+33 2 37 27 66 66",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/"
+  },
+  {
+    "nom": "Axial Carrosserie de la Gare",
+    "ville": "Nogent-le-Roi",
+    "telephone": "+33 2 37 51 39 81",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://axial.org/nos-metiers/axial-pres-de-chez-vous/carrosserie-de-la-gare,307,277.html"
+  },
+  {
+    "nom": "DS Motorsport",
+    "ville": "Droue-sur-Drouette",
+    "telephone": "+33 2 37 91 20 95",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://dsmotorsport.fr/"
+  },
+  {
+    "nom": "BestDrive",
+    "ville": "Dreux",
+    "telephone": "+33 2 37 42 44 22",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://bestdrive.fr/garage/dreux.html"
+  },
+  {
+    "nom": "Mondial Pare-Brise",
+    "ville": "Dreux",
+    "telephone": "+33 2 37 63 54 23",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mondialparebrise.fr"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Vernouillet",
+    "telephone": "+33237463148",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/eure-et-loir/vernouillet/cc-super-u-rue-de-rome"
+  },
+  {
+    "nom": "AD Depan'Auto Services",
+    "ville": "Cherisy",
+    "telephone": "+33 2 37 50 14 70",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-depan-auto-services"
+  },
+  {
+    "nom": "Renov'Auto",
+    "ville": "Droue-sur-Drouette",
+    "telephone": "+33 2 37 83 45 18",
+    "email": "renoveauto@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://renoveauto9.wixsite.com/my-vxw-site-tig0v7"
+  },
+  {
+    "nom": "Self Meca Concept",
+    "ville": "Brest",
+    "telephone": "+33 2 30 82 52 82",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.self-meca-concept.fr"
+  },
+  {
+    "nom": "Garage Roudaut",
+    "ville": "Crozon",
+    "telephone": "+33 2 98 27 06 23",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-001076/garage-roudaut/details"
+  },
+  {
+    "nom": "Garage Saint-Roch",
+    "ville": "PLOUDALMÉZEAU",
+    "telephone": "+33298481548",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-saint-roch.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Pont-l'Abbé",
+    "telephone": "+33 2 98 97 29 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "BestDrive Carhaix - Kertrucks Pneus",
+    "ville": "Carhaix-Plouguer",
+    "telephone": "+33 2 98 93 31 45",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.bestdrive.fr/centres-auto/carhaix-plouguer.html"
+  },
+  {
+    "nom": "Motrio - GP Automobiles",
+    "ville": "Tréméven",
+    "telephone": "+33 2 98 96 05 90",
+    "email": "pie.gourier@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.motrio.fr/"
+  },
+  {
+    "nom": "Delko",
+    "ville": "Concarneau",
+    "telephone": "+33 2 30 14 05 10",
+    "email": "delko.concarneau@delko.fr",
+    "metier": "garage",
+    "site_existant": "https://delko.fr/garage/delko/concarneau/211"
+  },
+  {
+    "nom": "Garage de la Penfeld",
+    "ville": "Brest",
+    "telephone": "+33 2 98 03 08 67",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://renault.auto-selection.com/reseau/concession-bretagne/garage-de-la-penfeld-brest-29-fiche-141510"
+  },
+  {
+    "nom": "Espace Carrosserie",
+    "ville": "Gouesnou",
+    "telephone": "+33 2 98 30 35 94",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/pages/Espace-carrosserie/697271856996767"
+  },
+  {
+    "nom": "Garage Fournier Motrio",
+    "ville": "Plouvien",
+    "telephone": "+33 2 98 40 92 11",
+    "email": "motrio.garage.fournier@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.motrio.fr/garage-reparateur/fournier-2763"
+  },
+  {
+    "nom": "Garage Le Cossec",
+    "ville": "Penmarch",
+    "telephone": "+33 2 98 58 60 97",
+    "email": "penmarch.automobiles@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-lecossec-penmarch.fr"
+  },
+  {
+    "nom": "Garage atelier services auto",
+    "ville": "Carantec",
+    "telephone": "+33 953131541",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ateliervoservices.fr"
+  },
+  {
+    "nom": "TOP Garage Le Gall Automobiles",
+    "ville": "Sizun",
+    "telephone": "+33 2 98 68 80 38",
+    "email": "contact@garage-lga.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-003534/lga/details"
+  },
+  {
+    "nom": "Garage Peintureau",
+    "ville": "Saint-Thurien",
+    "telephone": "+33 2 98 39 87 36",
+    "email": "garage.peintureau@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/7507-garage-peintureau"
+  },
+  {
+    "nom": "Renault Abgrall",
+    "ville": "Daoulas",
+    "telephone": "+33 9 70 35 89 63",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-abgrall.com/"
+  },
+  {
+    "nom": "Garage Cousty",
+    "ville": "Nîmes",
+    "telephone": "+33 4 66 23 83 93",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-expert-relais-ville-foret-exploitation-cousty?https%3A%2F%2Fwww.ad.fr="
+  },
+  {
+    "nom": "Midas",
+    "ville": "Nîmes",
+    "telephone": "+33 4 66 64 96 25",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Feu Vert Nimes",
+    "ville": "Nîmes",
+    "telephone": "+33 4 66 02 06 06",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/nimes/feu-vert-nimes-2-geant/304.html"
+  },
+  {
+    "nom": "Auto Primo",
+    "ville": "Saint-André-de-Valborgne",
+    "telephone": "+33 4 66 60 31 41",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.autoprimo.com/magasin/5640"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Sommières",
+    "telephone": "+33 4 66 80 00 16",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-sommieres"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Sommières",
+    "telephone": "+33 4 66 80 35 87",
+    "email": "renault.sommieres@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://renault-sommieres.com"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Sommières",
+    "telephone": "+33 4 66 80 03 87",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/sommieres/nous-contacter/info-utiles"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Le Grau-du-Roi",
+    "telephone": "+33 4 66 51 58 95",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr"
+  },
+  {
+    "nom": "Yam Auto",
+    "ville": "Nîmes",
+    "telephone": "+33 6 67 03 65 31",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "www.turbom2a.com"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Vauvert",
+    "telephone": "+33 4 66 35 95 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/gard/vauvert/zac-cote-soleil"
+  },
+  {
+    "nom": "Garage Lauret Frères",
+    "ville": "Aimargues",
+    "telephone": "+334 66 88 03 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-lauret-freres-aimargues-9828.html"
+  },
+  {
+    "nom": "Garage des Arennes",
+    "ville": "Le Vigan",
+    "telephone": "+33 4 67 42 28 24",
+    "email": "garagedesarennes@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.precisium.fr/140-garage-des-arennes"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Le Grau-du-Roi",
+    "telephone": "+33 4 66 53 30 63",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-le-grau-du-roi"
+  },
+  {
+    "nom": "Vulco",
+    "ville": "Aigues Mortes",
+    "telephone": "+33 4 66 53 68 43",
+    "email": "vulcoaiguesmortes@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/p/Vulco-Aigues-Mortes-100057528996032/"
+  },
+  {
+    "nom": "Vulco",
+    "ville": "Pont-Saint-Esprit",
+    "telephone": "+33 4 66 50 66 50",
+    "email": "pontstesprit@vulco.fr",
+    "metier": "garage",
+    "site_existant": "https://www.vulco.fr"
+  },
+  {
+    "nom": "Aldo Di Pietro Carrosserie",
+    "ville": "Aigues-Vives",
+    "telephone": "+33 7 61 20 64 30",
+    "email": "renovapeint@yahoo.fr",
+    "metier": "garage",
+    "site_existant": "https://renovapeint.e-monsite.com/"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Saint-Hippolyte-du-Fort",
+    "telephone": "+33 4 66 35 26 53",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-st-hippolyte-1"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Saint-Hippolyte-du-Fort",
+    "telephone": "+33 4 66 35 26 53",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/saint-hippolyte-du-fort"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Alès",
+    "telephone": "+33 4 66 86 82 01",
+    "email": "cdp.ales@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/cdp-ales"
+  },
+  {
+    "nom": "Precisium",
+    "ville": "Pont-Saint-Esprit",
+    "telephone": "+33 4 66 39 45 10",
+    "email": "garagevigouroux@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.precisium.fr/146-garage-vigouroux"
+  },
+  {
+    "nom": "Toyota",
+    "ville": "Pont-Saint-Esprit",
+    "telephone": "+33 4 66 79 38 59",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.chronolifting.com/garage-specialiste-toyota/"
+  },
+  {
+    "nom": "First Stop",
+    "ville": "Pont-Saint-Esprit",
+    "telephone": "+33 6 34 13 30 02",
+    "email": "pps.pont@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.firststop.fr/garage-pneus/garage.html/1535.html"
+  },
+  {
+    "nom": "Eurorepar",
+    "ville": "Salindres",
+    "telephone": "+33 4 66 85 76 56",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-etk-salindres-11067.html"
+  },
+  {
+    "nom": "Bosch Car Service",
+    "ville": "Alès",
+    "telephone": "+33 4 66 30 15 21",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.bcs30.fr/"
+  },
+  {
+    "nom": "MOTRIO_Garage Riso",
+    "ville": "Saint-Hippolyte-du-Fort",
+    "telephone": "+33 4 66 51 92 05",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.motrio.fr/"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Vauvert",
+    "telephone": "+33 4 66 88 22 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessionnaire.renault.fr/vauvert-garage-victorion.html"
+  },
+  {
+    "nom": "Avatacar",
+    "ville": "Vauvert",
+    "telephone": "+33 4 66 53 24 42",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.avatacar.com/garage/garage-avatacar-vauvert-9375.htm"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Le Grau-du-Roi",
+    "telephone": "+33 4 66 53 12 30",
+    "email": "garage-costa@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://agents.peugeot.fr/le-grau-du-roi"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Pont-Saint-Esprit",
+    "telephone": "+33 4 66 33 30 80",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.autopse.fr/rdv"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Pont-Saint-Esprit",
+    "telephone": "+33 4 66 39 10 68",
+    "email": "sarlgms30130@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/pont-st-esprit/nous-contacter/info-utiles"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Le Vigan",
+    "telephone": "+33 4 67 81 01 83",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr"
+  },
+  {
+    "nom": "Garage Koubi",
+    "ville": "Caissargues",
+    "telephone": "+33 4 66 84 38 13",
+    "email": "philippe.carrere.caissargues02@reseau.renault.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-koubi.fr/"
+  },
+  {
+    "nom": "Sarl Guy Roux",
+    "ville": "Alès",
+    "telephone": "+33 4 66 61 36 53",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.guy-roux.com"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Alès",
+    "telephone": "+33 4 66 78 82 20",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/ales/feu-vert-ales/124.html?setcenter=124"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Aigues Mortes",
+    "telephone": "+33 4 66 71 39 09",
+    "email": "ams8@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/a-m-s-8-aigues-mortes/"
+  },
+  {
+    "nom": "Précisium",
+    "ville": "Vauvert",
+    "telephone": "+33 4 66 88 42 78",
+    "email": "castanier.velasquez@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://reparateur.precisium.fr/fr/france-FR/CUST-IN0318/garage-castanier/details"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Uchaud",
+    "telephone": "+33 4 66 71 10 83",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-uchaud"
+  },
+  {
+    "nom": "FM Automobiles",
+    "ville": "Aigues-Vives",
+    "telephone": "+33 4 66 77 52 66",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.garage-premier.fr/164-fm-automobiles"
+  },
+  {
+    "nom": "Midas",
+    "ville": "L'Union",
+    "telephone": "+33 5 61 58 12 12",
+    "email": "1672@midasfrance.net",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/occitanie/haute-garonne/toulouse/toulouse-lunion_1672"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Toulouse",
+    "telephone": "+33 5 61 34 95 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Saint-Orens-de-Gameville",
+    "telephone": "+33 5 61 14 68 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/haute-garonne/st-orens-de-gameville/4-avenue-de-toulouse"
+  },
+  {
+    "nom": "François Pneus",
+    "ville": "Toulouse",
+    "telephone": "+33 5 34 25 93 54",
+    "email": "toulouse.bonnefoy@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/francois-pneus-toulouse-toulouse-bonnefoy/"
+  },
+  {
+    "nom": "Equation",
+    "ville": "Labège",
+    "telephone": "+33 5 62 71 67 74",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://partenaire.bmw.fr/equation-automobiles/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Fronton",
+    "telephone": "+33 5 32 09 20 59",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Feu Vert Services Carbonne",
+    "ville": "Carbonne",
+    "telephone": "+33 5 62 02 00 71",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/carbonne/feu-vert-services-carbonne/481.html"
+  },
+  {
+    "nom": "Top Garage - Dimmers Auto",
+    "ville": "Mauzac",
+    "telephone": "+33562230345",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/103-dimmers-auto"
+  },
+  {
+    "nom": "Garage Bouthéra",
+    "ville": "Mauzac",
+    "telephone": "+33561563465",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-bouthera.poi.place/"
+  },
+  {
+    "nom": "Garage Foltran",
+    "ville": "Launaguet",
+    "telephone": "+33 5 61 74 47 56",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-foltran.com/"
+  },
+  {
+    "nom": "Auto Pneu Services",
+    "ville": "Saint-Orens-de-Gameville",
+    "telephone": "+33 5 62 84 37 44",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.autopneuservices.fr/"
+  },
+  {
+    "nom": "Carglass",
+    "ville": "Seilhan",
+    "telephone": "+33 5 17 00 00 01",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carglass.fr/centre/31510-100000001757433/seilhan-connect"
+  },
+  {
+    "nom": "Carrosserie Labadens",
+    "ville": "Valentine",
+    "telephone": "+33 5 61 95 98 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.labadens31.com/"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Toulouse",
+    "telephone": "+335 61 48 57 16",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessionnaire.renault.fr/garage-brefeil-toulouse.html"
+  },
+  {
+    "nom": "Garage de la Thésauque",
+    "ville": "Avignonet-Lauragais",
+    "telephone": "+33 5 61 81 33 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garagedelathesauque.fr/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Toulouse",
+    "telephone": "+33 5 61 49 36 26",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/toulouse-bayonne-31300/533"
+  },
+  {
+    "nom": "CARGLASS Pare-Brise Toulouse Purpan",
+    "ville": "Toulouse",
+    "telephone": "+33 5 17 00 00 01",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carglass.fr/centre/31300-83551/toulouse-purpan"
+  },
+  {
+    "nom": "Garage Renault",
+    "ville": "Lavelanet-de-Comminges",
+    "telephone": "+33 5 61 87 23 29",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.davezacauto.com/"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Quint-Fonsegrives",
+    "telephone": "+33561240098",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/quint-fonsegrives/?location=QUINT-FONSEGRIVES%7C0"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Cazères",
+    "telephone": "+33 5 61 97 07 46",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr/"
+  },
+  {
+    "nom": "Auto Expert Cazères",
+    "ville": "Cazères",
+    "telephone": "+33 5 61 97 03 64",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.fordcazeressurgaronne.fr"
+  },
+  {
+    "nom": "Retrocarrosserie",
+    "ville": "La Salvetat-Saint-Gilles",
+    "telephone": "+33 5 34 57 29 65",
+    "email": "retrocarrosserie@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://retrocarrosserie.fr/"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Villandraut",
+    "telephone": "+33 5 56 25 30 19",
+    "email": "dvs.auto@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/villandraut/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Cars",
+    "telephone": "+33557428872",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/gironde/cars/centre-commercial-leclerc"
+  },
+  {
+    "nom": "L'auto E. Leclerc",
+    "ville": "Le Pian-Médoc",
+    "telephone": "+33 5 56 95 57 90",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.e.leclerc/mag/e-leclerc-le-pian"
+  },
+  {
+    "nom": "Carrosserie Des Chartrons",
+    "ville": "Bordeaux",
+    "telephone": "+33 5 56 11 84 40",
+    "email": "chartrons.carrosserie@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "http://www.acoat-selected.fr/carrosserie/carrosserie-des-chartrons/"
+  },
+  {
+    "nom": "Garage Rinco",
+    "ville": "Bordeaux",
+    "telephone": "+33 5 56 08 05 93",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/735-sarl-garage-rinco"
+  },
+  {
+    "nom": "Garage Bronchal",
+    "ville": "Talence",
+    "telephone": "+33 5 56 51 56 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.bronchalrenaultbordeaux.com/"
+  },
+  {
+    "nom": "Garage Citroen Ducasse Placido",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 56 87 08 77",
+    "email": "citroen-ducasseplacido@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/concessionnaire/nouvelle-aquitaine/gironde/villenave-d-ornon/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Podensac",
+    "telephone": "+33 5 56 27 20 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/gironde/podensac/cour-du-marechal-foch"
+  },
+  {
+    "nom": "Peugeot Psa Retail Lormont",
+    "ville": "Lormont",
+    "telephone": "+33 5 56237676",
+    "email": "peugeotretailbordeaux@mpsa.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/psa-retail-rivedroite/"
+  },
+  {
+    "nom": "Citroën Psa Retail Bordeaux Le Bouscat",
+    "ville": "Le Bouscat",
+    "telephone": "+33 5 56 42 46 46",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/bordeaux"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Bordeaux",
+    "telephone": "+33 5 56 96 67 37",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Garrage central auto Arlac",
+    "ville": "Mérignac",
+    "telephone": "+33 556979338",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garagearlac.com/"
+  },
+  {
+    "nom": "Carrosserie des Lacs",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 54 51 14 49",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://carrosseriedeslacs.site-solocal.com"
+  },
+  {
+    "nom": "Feu Vert Villenave d'Ornon",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 56 75 43 20",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/villenave-d-ornon/feu-vert-villenave-d--ornon/208.html"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Le Bouscat",
+    "telephone": "+33 5 56 02 41 86",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/le-bouscat-33110/296"
+  },
+  {
+    "nom": "Garage Courbet",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 56 75 14 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://sci-garage-courbet.edan.io/"
+  },
+  {
+    "nom": "Renault Bordeaux Maye",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 81 84 26 59",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault-retail-group.fr/concessions-renault/details/104-bordeaux-maye.html"
+  },
+  {
+    "nom": "DGF Auto Aquitaine",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 56 08 45 32",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://dgf-auto-aquitaine.business.site/"
+  },
+  {
+    "nom": "Les Nouveaux Garages",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 57 96 14 51",
+    "email": "delko.gaillac@delko.fr",
+    "metier": "garage",
+    "site_existant": "https://www.delko.fr/garage/delko/villenave-d%27ornon/55"
+  },
+  {
+    "nom": "Carrosserie Kaci",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 56 87 94 04",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://carrosserie-kaci.business.site/"
+  },
+  {
+    "nom": "Carrosserie de Francisco",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 5 56 80 20 54",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-francisco?https%3A%2F%2Fwww.ad.fr="
+  },
+  {
+    "nom": "Auto Karim",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+33 6 51 29 21 19",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://autokarim.com"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Pessac",
+    "telephone": "+33 5 56 36 30 78",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/pessac-gustave-eiffel-33600/357?utm_source=GMB&utm_campaign=Yext&utm_content=357&y_source=1_MTIwNDI1NDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+  },
+  {
+    "nom": "Carrosserie Bouffet",
+    "ville": "Villenave-d'Ornon",
+    "telephone": "+335 56 37 37 07",
+    "email": "carrosserie@bouffet.com",
+    "metier": "garage",
+    "site_existant": "https://axial.org/nos-metiers/axial-pres-de-chez-vous/sarl-carrosserie-bouffet,307,277.html"
+  },
+  {
+    "nom": "Garage Arcins RD",
+    "ville": "Arcins",
+    "telephone": "+33 5 57 10 48 78",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://fr-fr.facebook.com/Garage-RD-939911149370458"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Le Haillan",
+    "telephone": "+33 5 56 01 23 16",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Cenon",
+    "telephone": "+33 5 56 32 57 57",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Performance Plus",
+    "ville": "Bruges",
+    "telephone": "+33557876331",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-performanceplus.fr/"
+  },
+  {
+    "nom": "FORD BORDEAUX - LORMONT",
+    "ville": "Lormont",
+    "telephone": "+33 5 56 86 86 86",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.fordpalau.fr/"
+  },
+  {
+    "nom": "Le Garage Moderne",
+    "ville": "Bordeaux",
+    "telephone": "+33 5 56 50 91 33",
+    "email": "contact@legaragemoderne.org",
+    "metier": "garage",
+    "site_existant": "https://www.legaragemoderne.org/"
+  },
+  {
+    "nom": "AD - Carrosserie Saubion",
+    "ville": "Salles",
+    "telephone": "+33 5 56 88 62 02",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-saubion?utm_source=google&utm_medium=organic&utm_campaign=google_my_business"
+  },
+  {
+    "nom": "Rapid Pare-Brise",
+    "ville": "Saint-André-de-Cubzac",
+    "telephone": "+33 5 79 87 22 82",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.rapidparebrise-st-andre-de-cubzac.fr"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Mérignac",
+    "telephone": "+33 5 56121206",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/merignac/feu-vert-bordeaux-merignac/315.html"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Mérignac",
+    "telephone": "+33 5 56 47 63 93",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/gironde/merignac/espace-commercial"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Mérignac",
+    "telephone": "+33 5 56 47 43 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/nouvelle-aquitaine/merignac/taquipneu-bordeaux-merignac"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Mérignac",
+    "telephone": "+33 5 56 97 73 73",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Gradignan",
+    "telephone": "+33 5 56 75 58 33",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/gradignan-cedex/feu-vert-gradignan/128.html"
+  },
+  {
+    "nom": "SARL Sevra Automobiles",
+    "ville": "Gradignan",
+    "telephone": "+33 5 56 75 01 06",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://garage-auto-renault-sevra-gradignan.com/"
+  },
+  {
+    "nom": "Garage Moretto Dayon Agent Renault",
+    "ville": "Léognan",
+    "telephone": "+33 5 56 64 75 25",
+    "email": "garageleognanrenault@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.garage-morettodayon-leognan.fr/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Biganos",
+    "telephone": "+33 5 56267530",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/biganos/feu-vert-biganos/129.html"
+  },
+  {
+    "nom": "SARL Philippe Rabouy",
+    "ville": "Pujols",
+    "telephone": "+33 5 57 40 54 59",
+    "email": "r.peugeot@free.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/pujols-sur-dordogne/"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Saint-André-de-Cubzac",
+    "telephone": "+33 5 57 68 52 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.franceparebrise.fr/reparation-pare-brise/st-andre-de-cubzac"
+  },
+  {
+    "nom": "Peugeot Montpellier",
+    "ville": "Montpellier",
+    "telephone": "+33 4 67 06 25 25",
+    "email": "marketingretail.france@peugeot.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/ggh"
+  },
+  {
+    "nom": "Peugeot Frejorgues Ggh / Henry",
+    "ville": "Mauguio",
+    "telephone": "+33 4 67 92 60 32",
+    "email": "azur@peugeot.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/ggh"
+  },
+  {
+    "nom": "Citroën Retail Le Cres",
+    "ville": "Le Crès",
+    "telephone": "+33 4 67 06 25 60",
+    "email": "marketingretail-france@citroen.com",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/le-cres"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Saint-Jean-de-Védas",
+    "telephone": "+33 4 67 42 13 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/herault/st-jean-de-vedas/c-commercial-carrefour"
+  },
+  {
+    "nom": "Peugeot Ggh Filiale Du Cres",
+    "ville": "Le Crès",
+    "telephone": "+33 4 67 06 25 20",
+    "email": "marketingretail.france@peugeot.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/ggh-le-cres"
+  },
+  {
+    "nom": "Renault Mèze",
+    "ville": "Mèze",
+    "telephone": "+33 4 67 43 66 43",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.tressol-chabrier.com/concessions-tressol-chabrier/Renault%20Meze/voiture-occasion"
+  },
+  {
+    "nom": "Biomotors",
+    "ville": "Vendargues",
+    "telephone": "0 811 69 07 88",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.biomotors.fr"
+  },
+  {
+    "nom": "Feu Vert Beziers",
+    "ville": "Béziers",
+    "telephone": "+33 4 67092626",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/beziers/feu-vert-beziers-rhin/130.html"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Saint-Jean-de-Védas",
+    "telephone": "+33 4 67 47 17 16",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-saint-jean-de-vedas"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Gignac",
+    "telephone": "+33 4 48 20 15 23",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Caux Service Auto",
+    "ville": "Caux",
+    "telephone": "+33 4 67 31 46 91",
+    "email": "yves.jeanperrin@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-062209/garage-caux-service-auto/details"
+  },
+  {
+    "nom": "Motrio",
+    "ville": "Saint-Just",
+    "telephone": "+33 9 83 74 59 58",
+    "email": "saintjustautomobiles@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.motrio.fr/garage-reparateur/saint-just-automobiles-4361"
+  },
+  {
+    "nom": "Avatacar",
+    "ville": "Lunel",
+    "telephone": "+33 1 73 00 03 15",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-revision.avatacar.com/garage/lunel/948"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Pézenas",
+    "telephone": "+33 4 48 20 05 01",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Lunel",
+    "telephone": "+33 4 67 71 01 66",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/lunel-34400/550"
+  },
+  {
+    "nom": "Carroint Dépannage Auto",
+    "ville": "Lunel",
+    "telephone": "+33 9 84 47 01 90",
+    "email": "contact@carroint.fr",
+    "metier": "garage",
+    "site_existant": "http://www.carrotint.fr"
+  },
+  {
+    "nom": "Garage du Centre",
+    "ville": "Marsillargues",
+    "telephone": "+33 4 67 83 07 71",
+    "email": "regis.poudevigne@bbox.fr",
+    "metier": "garage",
+    "site_existant": "https://garageducentre.business.site"
+  },
+  {
+    "nom": "Mondial Pare-brise",
+    "ville": "Lunel",
+    "telephone": "+33 4 67 82 98 73",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.pare-brise-lunel.fr"
+  },
+  {
+    "nom": "Automobiles Raoul Moço",
+    "ville": "Mauguio",
+    "telephone": "+33 6 20 99 49 27",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.automobiles-raoul-moco.com"
+  },
+  {
+    "nom": "Onyx Racing by Enjolras",
+    "ville": "Valergues",
+    "telephone": "+33467223754",
+    "email": "contact@onyx-racing.fr",
+    "metier": "garage",
+    "site_existant": "https://boutique.onyx-racing.fr"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "La Grande-Motte",
+    "telephone": "+33 4 67 56 16 91",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-la-grande-motte-1"
+  },
+  {
+    "nom": "Garage des Tamaris",
+    "ville": "La Grande-Motte",
+    "telephone": "+33 4 67 56 25 27",
+    "email": "garagedestamaris34280@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garage-la-grande-motte.proximeca.fr"
+  },
+  {
+    "nom": "S O S Pare-brise+",
+    "ville": "Lunel",
+    "telephone": "+33 7 69 36 11 69",
+    "email": "lunel@sosparebriseplus.fr",
+    "metier": "garage",
+    "site_existant": "https://www.sosparebriseplus.fr/lunel"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Pérols",
+    "telephone": "+33 4 67 47 63 46",
+    "email": "mnauto34@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/mn-auto-34-perols"
+  },
+  {
+    "nom": "Vinaixa Automobiles",
+    "ville": "Lunel",
+    "telephone": "+33 4 99 53 73 95",
+    "email": "contact@vinaixa-automobiles.com",
+    "metier": "garage",
+    "site_existant": "https://www.vinaixa-automobiles.com"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Laroque",
+    "telephone": "+33 4 67 73 18 00",
+    "email": "serviceclient@tressol-chabrier.com",
+    "metier": "garage",
+    "site_existant": "https://www.tressol-chabrier.com/metropole-automobile-laroque-renault"
+  },
+  {
+    "nom": "Mini Auto Sud",
+    "ville": "Béziers",
+    "telephone": "+33 9 72 10 33 42",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.aixam.com/fr/reseau/mini-auto-sud-beziers"
+  },
+  {
+    "nom": "Point S",
+    "ville": "SAINT GELY DU FESC",
+    "telephone": "+33 4 67 58 43 32",
+    "email": "mnautosaintgely@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/mn-auto-saint-gely-saint-gely-du-fesc/"
+  },
+  {
+    "nom": "Bosch Car Service",
+    "ville": "Sète",
+    "telephone": "+33 4 67 48 60 79",
+    "email": "c.fernandez7@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.boschcarservice.com"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Castelnau-le-Lez",
+    "telephone": "+33 4 99 61 05 65",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/castelnau-le-lez-34170/348"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Roujan",
+    "telephone": "+33 4 67 00 92 92",
+    "email": "mag1310@norauto.fr",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/herault/roujan/rue-ida-grinspan"
+  },
+  {
+    "nom": "Mondial Pare-Brise",
+    "ville": "Lattes",
+    "telephone": "+33 4 67 99 03 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mondialparebrise.fr/trouver-mon-centre/mondial-pare-brise-lattes"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Ganges",
+    "telephone": "+33 4 67 73 11 72",
+    "email": "ganges@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/rome-pneus-ganges"
+  },
+  {
+    "nom": "Roady",
+    "ville": "Lunel",
+    "telephone": "+33 4 28 29 41 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.roady-lunel.fr"
+  },
+  {
+    "nom": "AD",
+    "ville": "Lunel",
+    "telephone": "+33 4 67 71 40 41",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://ad.fr/garage/garage-ad-expert-garcia-et-fils"
+  },
+  {
+    "nom": "AD",
+    "ville": "Lunel",
+    "telephone": "+33 4 67 83 38 76",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-rossignol"
+  },
+  {
+    "nom": "Garage AD Expert",
+    "ville": "Lunel",
+    "telephone": "+33 4 67 71 81 87",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-expert-lunel-depannage-lunel"
+  },
+  {
+    "nom": "Carrosserie Teyssier",
+    "ville": "Lunel",
+    "telephone": "+33 4 67 71 13 86",
+    "email": "vanmol.teyssier@free.fr",
+    "metier": "garage",
+    "site_existant": "http://carrosserieteyssier.site-solocal.com"
+  },
+  {
+    "nom": "Roady",
+    "ville": "Agde",
+    "telephone": "+33 4 28 29 40 58",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.roady-agde.fr"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Ganges",
+    "telephone": "+33 4 67 73 81 30",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-ganges"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Montpellier",
+    "telephone": "+33 4 67 92 05 93",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/occitanie/montpellier/euromaster-montpellier"
+  },
+  {
+    "nom": "Top Service",
+    "ville": "Lattes",
+    "telephone": "+33 4 67 27 72 22",
+    "email": "carrosseriemaurinoise@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-topservice.fr/"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Castelnau-le-Lez",
+    "telephone": "+33 4 67 79 42 01",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://renault-ortigosa.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Castelnau-le-Lez",
+    "telephone": "+33 4 67 79 71 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Equinoxe 34 (Fiat)",
+    "ville": "Mauguio",
+    "telephone": "+33 4 67 12 22 19",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-equinoxe.com"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Mauguio",
+    "telephone": "+33 4 67 92 29 80",
+    "email": "delalondeautomobiles@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.dma-peugeot.fr"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Mauguio",
+    "telephone": "+33 4 30 22 04 04",
+    "email": "contact@garageropa.com",
+    "metier": "garage",
+    "site_existant": "https://www.garageropa.com"
+  },
+  {
+    "nom": "AD",
+    "ville": "Mauguio",
+    "telephone": "+33 4 67 29 60 15",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Pérols",
+    "telephone": "+33 4 67 50 41 90",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/herault/perols/rue-de-bir-hakeim"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Lattes",
+    "telephone": "+33 4 67 15 39 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/lattes/feu-vert-montpellier-lattes/338.html"
+  },
+  {
+    "nom": "Garage Arena Automobile",
+    "ville": "Pérols",
+    "telephone": "+33 4 67 83 75 40",
+    "email": "garage@arena-automobiles.com",
+    "metier": "garage",
+    "site_existant": "https://arena-automobile.fr"
+  },
+  {
+    "nom": "Vulco",
+    "ville": "Baillargues",
+    "telephone": "+33 4 67 70 48 68",
+    "email": "vulcobaillargues@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.vulco.com/centre-auto-auto-grimal-herault-34670"
+  },
+  {
+    "nom": "Centre De Réparation Automobiles",
+    "ville": "Le Crès",
+    "telephone": "+33 4 67 72 17 07",
+    "email": "mecanique@cdrgroup.fr",
+    "metier": "garage",
+    "site_existant": "https://www.cdr.fr/le-groupe/"
+  },
+  {
+    "nom": "Garage des Lauzières - Ford",
+    "ville": "Teyran",
+    "telephone": "+33 467870530",
+    "email": "garageverdier@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garagedeslauzieres-fordteyran.com"
+  },
+  {
+    "nom": "Service Camping Car",
+    "ville": "Teyran",
+    "telephone": "+33 4 11 93 26 34",
+    "email": "info@servicecampingcar.com",
+    "metier": "garage",
+    "site_existant": "https://servicecampingcar.com"
+  },
+  {
+    "nom": "Manu Mécanique",
+    "ville": "Teyran",
+    "telephone": "+33 4 67870845",
+    "email": "manumecanique@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/666-manu-mecanique"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Saint-Drézéry",
+    "telephone": "+33 4 67 86 91 33",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-salvador.business.site"
+  },
+  {
+    "nom": "Garage Du Barnier",
+    "ville": "Frontignan",
+    "telephone": "+33 4 67 89 77 89",
+    "email": "fschoelcher@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "www.garagepeugeotfrontignan.fr"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Saint-Chinian",
+    "telephone": "+33 4 67 38 01 10",
+    "email": "garage.leclere@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/saint-chinian"
+  },
+  {
+    "nom": "Flashback Automobiles",
+    "ville": "Puisserguier",
+    "telephone": "+33 4 67 35 90 53",
+    "email": "webmaster@flashback-automobiles.fr",
+    "metier": "garage",
+    "site_existant": "https://www.flashback-automobiles.fr/"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Abeilhan",
+    "telephone": "+33 9 70 35 61 07",
+    "email": "teammeca34@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.garage-abeilhan.fr"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Mèze",
+    "telephone": "+33 4 67 43 52 45",
+    "email": "auto-passion.meze@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/auto-passion-meze"
+  },
+  {
+    "nom": "Garage Gascons",
+    "ville": "Lignan-sur-Orb",
+    "telephone": "+33 4 67 36 53 31",
+    "email": "garagegascons@yahoo.fr",
+    "metier": "garage",
+    "site_existant": "https://garage-gascons.webnode.fr"
+  },
+  {
+    "nom": "Carrosserie Géraud",
+    "ville": "Lignan-sur-Orb",
+    "telephone": "+33 7 81 55 62 46",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://carrosserie-geraud.fr"
+  },
+  {
+    "nom": "Garage Martinez",
+    "ville": "Lignan-sur-Orb",
+    "telephone": "+33 9 70 35 10 45",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-martinez.fr"
+  },
+  {
+    "nom": "Lignan Auto",
+    "ville": "Lignan-sur-Orb",
+    "telephone": "+33 4 67 31 40 65",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Le Crès",
+    "telephone": "+33 4 67 10 70 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/herault/le-cres/rue-de-la-poulaillere"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Cessenon-sur-Orb",
+    "telephone": "+33 4 67 89 65 11",
+    "email": "contact@garagebernardetfils.net",
+    "metier": "garage",
+    "site_existant": "https://www.garagebernardetfils.net"
+  },
+  {
+    "nom": "Garage Renault",
+    "ville": "Roujan",
+    "telephone": "+33 4 67 24 60 17",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Agde",
+    "telephone": "+33 4 67 00 92 90",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/herault/agde/cc-espace-grand-cap"
+  },
+  {
+    "nom": "Carrosserie Loupianaise",
+    "ville": "Loupian",
+    "telephone": "+33 4 67 43 68 09",
+    "email": "carrosserieloupianaise@sfr.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-loupianaise.fr/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Pérols",
+    "telephone": "+33 4 67 64 78 46",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/perols-34470/255"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Mauguio",
+    "telephone": "+33 4 67 12 00 12",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-auto-martinez.fr"
+  },
+  {
+    "nom": "Auto-Distribution Garage Diffusion",
+    "ville": "Le Pouget",
+    "telephone": "+33467967747",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://ad.fr/"
+  },
+  {
+    "nom": "Garage SG auto",
+    "ville": "Saint-Martin-de-Londres",
+    "telephone": "+33467550414",
+    "email": "seb_auto@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-113819/sg-auto/details"
+  },
+  {
+    "nom": "Garage Rochée Samuel",
+    "ville": "Rennes",
+    "telephone": "+33 2 99 53 87 38",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-opel-rennes.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Saint-Grégoire",
+    "telephone": "+33 2 33 23 62 32",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/ille-et-vilaine/st-gregoire/rue-du-chesnay-beauregard-1"
+  },
+  {
+    "nom": "Monsieur Embrayage",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33 2 99 22 85 86",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.monsieur-embrayage-35.com"
+  },
+  {
+    "nom": "Mail Automobiles",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33 2 99 86 80 80",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.landrover-rennes.com/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Rennes",
+    "telephone": "+33 2 99 87 38 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/ille-et-vilaine/rennes/9-allee-morvan-lebesque"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Rennes",
+    "telephone": "+33 2 99 59 35 29",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/bretagne/rennes/euromaster-rennes-mail"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Rennes",
+    "telephone": "+33 2 99 30 07 97",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.franceparebrise.org"
+  },
+  {
+    "nom": "Auto pacé service",
+    "ville": "Pacé",
+    "telephone": "+33 2 99 60 60 76",
+    "email": "topgarageaps@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/27-auto-pace-service"
+  },
+  {
+    "nom": "Garage Peugeot",
+    "ville": "Châteaugiron",
+    "telephone": "+33 2 99 37 58 11",
+    "email": "contact@peugeotchateaugiron.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/chateaugiron/"
+  },
+  {
+    "nom": "Carmoine Industrie Equipements",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33 2 99 86 11 15",
+    "email": "magasin-cesson@apa-carmoine.fr",
+    "metier": "garage",
+    "site_existant": "http://auto-pieces-atlantique.autodistribution.fr/"
+  },
+  {
+    "nom": "Autos Bretagne Carrosserie",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33 2 23 35 12 13",
+    "email": "abc-carrosserie@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.autobretagnecarrosserie.com/"
+  },
+  {
+    "nom": "HB Cuirs",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33 2 23 36 08 03",
+    "email": "contact@hbcuirs.fr",
+    "metier": "garage",
+    "site_existant": "https://www.hbcuirs.fr/"
+  },
+  {
+    "nom": "Carrosserie Colas",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33 2 99 83 70 73",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-gauguet-colas-automobiles.fr/"
+  },
+  {
+    "nom": "Carglass",
+    "ville": "Vezin-le-Coquet",
+    "telephone": "+33977401937",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carglass.fr/centre/35132-132224/vezin-le-coquet"
+  },
+  {
+    "nom": "Montgerval Auto Services",
+    "ville": "La Mezière",
+    "telephone": "+33 2 99 66 52 51",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-lameziere.fr/"
+  },
+  {
+    "nom": "Mondial Pare-Brise",
+    "ville": "Montgermont",
+    "telephone": "+33 2 99 23 87 98",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mondialparebrise.fr/index.html"
+  },
+  {
+    "nom": "Rapid Pare-Brise",
+    "ville": "Vezin-le-Coquet",
+    "telephone": "+33221833088",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.rapidparebrise-rennes-ouest.fr/"
+  },
+  {
+    "nom": "Carrosserie Guillet",
+    "ville": "Vezin-le-Coquet",
+    "telephone": "+33299542654",
+    "email": "carrosserie.guillet@auto-reparation.com",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-guillet.fr/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Vezin-le-Coquet",
+    "telephone": "+33299145759",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/bretagne/rennes/euromaster-rennes-route-de-lorient-vl"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Châteaubourg",
+    "telephone": "+33 2 99 00 31 16",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/GarageJollivet/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Fougères",
+    "telephone": "+33 2 99 17 01 70",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/bretagne/fougeres/ywziivh-euromaster-fougeres"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Montgermont",
+    "telephone": "+33299689954",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-montgermont"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Saint-Jacques-de-la-Lande",
+    "telephone": "+33299051572",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.franceparebrise.fr/reparation-pare-brise/rennes-st-jacques-de-la-lande"
+  },
+  {
+    "nom": "Les Révoltés e-Garage",
+    "ville": "Rennes",
+    "telephone": "+33 9 80 80 60 42",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://revolte.club/"
+  },
+  {
+    "nom": "Precisium Goven Auto Services",
+    "ville": "Goven",
+    "telephone": "+33299420129",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.precisium.fr/286-goven-auto-services"
+  },
+  {
+    "nom": "ERM Motors",
+    "ville": "Guipel",
+    "telephone": "+33 7 81 63 01 02",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://erm-motors.fr/"
+  },
+  {
+    "nom": "GARAGE PREMIER - MECA'NICO SERVICES",
+    "ville": "Torcé",
+    "telephone": "+33 2 99 49 86 16",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage.garage-premier.fr/fr/france-FR/CUST-029323/mecanico-services/details"
+  },
+  {
+    "nom": "Rapid Pare-Brise",
+    "ville": "Redon",
+    "telephone": "+33 2 19 17 18 14",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.rapidparebrise-redon.fr"
+  },
+  {
+    "nom": "Roady",
+    "ville": "Redon",
+    "telephone": "+33 2 49 88 66 22",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.roady.fr/redon.html"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Chantepie",
+    "telephone": "+33 2 99 77 38 10",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/ille-et-vilaine/chantepie/parc-d-activites-rocade-sud"
+  },
+  {
+    "nom": "Carrosserie Gromy",
+    "ville": "Melesse",
+    "telephone": "+33 2 99 13 09 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://gromy.fr/"
+  },
+  {
+    "nom": "BestDrive",
+    "ville": "Chantepie",
+    "telephone": "+33 2 99 53 71 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://bestdrive.fr/branches/garage-chantepie-pneu-entretien-auto-35135.html"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Saint-Grégoire",
+    "telephone": "+33 2 23 46 74 30",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/saint-gregoire/feu-vert-rennes-st-gregoire/239.html"
+  },
+  {
+    "nom": "Profil Plus",
+    "ville": "Vern-sur-Seiche",
+    "telephone": "+33223270605",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.profilplus.fr/agence/109-vern-sur-seiche"
+  },
+  {
+    "nom": "Garage Porcher",
+    "ville": "Bourg-des-Comptes",
+    "telephone": "+33 2 99 57 41 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://garage-mecanique-porcher.fr"
+  },
+  {
+    "nom": "Auto Passion",
+    "ville": "Rennes",
+    "telephone": "+33 2 99 50 88 69",
+    "email": "d.oms@yahoo.com",
+    "metier": "garage",
+    "site_existant": "http://www.topgarage-omnes.com"
+  },
+  {
+    "nom": "Garage Riberprey",
+    "ville": "Vezin-le-Coquet",
+    "telephone": "+33299645507",
+    "email": "serge.riberprey@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-riberprey-vezinlecoquet.fr/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Rennes",
+    "telephone": "+33 2 99 65 52 03",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/rennes-35000/58"
+  },
+  {
+    "nom": "Garage Gongot",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33299269955",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad-auto.fr/garage/garage-ad-gongot/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33 2 99 53 77 77",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/bretagne/cesson-sevigne/ywxyxsx-euromaster-cesson-sevigne-vl"
+  },
+  {
+    "nom": "Peugeot Psa Retail Cesson-Sévigné",
+    "ville": "Cesson-Sévigné",
+    "telephone": "+33 2 23 45 67 89",
+    "email": "marketingretail.france@peugeot.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/rfarennes"
+  },
+  {
+    "nom": "Garage Beaudouin - Peugeot",
+    "ville": "Betton",
+    "telephone": "+33 2 99 55 82 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-carrosserie-betton-beaudouin.com/"
+  },
+  {
+    "nom": "Garage Beaudouin",
+    "ville": "Betton",
+    "telephone": "+33 2 99 55 82 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-carrosserie-betton-beaudouin.com/"
+  },
+  {
+    "nom": "Action Automobile",
+    "ville": "Betton",
+    "telephone": "+33 2 99 55 81 44",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.action-automobile-betton.fr"
+  },
+  {
+    "nom": "Brécé Auto Mécanique",
+    "ville": "Brécé",
+    "telephone": "+33 2 99 04 22 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://breceautomecanique.multimarque.fr/"
+  },
+  {
+    "nom": "AG Automobiles",
+    "ville": "Iffendic",
+    "telephone": "+33 2 99 09 70 83",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-iffendic"
+  },
+  {
+    "nom": "Citroën - Garage Orhant",
+    "ville": "Janzé",
+    "telephone": "+33 2 99 47 04 35",
+    "email": "garage.orhant@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-janze"
+  },
+  {
+    "nom": "Carrosserie Landras-Bellay",
+    "ville": "Janzé",
+    "telephone": "+33 2 99 47 04 77",
+    "email": "contact@carrosserie-landras-bellay.fr",
+    "metier": "garage",
+    "site_existant": "https://carrosserie-landras-bellay.fr/"
+  },
+  {
+    "nom": "Pilard",
+    "ville": "Janzé",
+    "telephone": "+33 2 99 47 03 40",
+    "email": "garagepilard@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/7500-garage-pilard"
+  },
+  {
+    "nom": "Mare garage",
+    "ville": "Janzé",
+    "telephone": "+33 9 87 08 37 54",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.av-automobiles.fr/fr"
+  },
+  {
+    "nom": "Garage Chenard-Brunet",
+    "ville": "Janzé",
+    "telephone": "+33 2 99 47 03 05",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://ad.fr/"
+  },
+  {
+    "nom": "Perrudin",
+    "ville": "Châteauneuf-d'Ille-et-Vilaine",
+    "telephone": "+33 2 23 18 16 56",
+    "email": "garage.perrudin@gmail.com",
+    "metier": "garage",
+    "site_existant": "garageperrudin.com/"
+  },
+  {
+    "nom": "Auto Mivoie",
+    "ville": "Saint-Jacques-de-la-Lande",
+    "telephone": "+33 2 99 50 40 44",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.auto-mivoie.fr"
+  },
+  {
+    "nom": "Ludo automobile",
+    "ville": "Pipriac",
+    "telephone": "+33 2 99 34 30 04",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ludo-automobiles.com/"
+  },
+  {
+    "nom": "Automobiles Année",
+    "ville": "Pipriac",
+    "telephone": "+33 2 99 34 45 82",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.automobilesannee.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Bain-de-Bretagne",
+    "telephone": "+33 2 23 31 23 20",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/ille-et-vilaine/bain-de-bretagne/zac-de-chateau-gaillard"
+  },
+  {
+    "nom": "Poirier Electric'Auto",
+    "ville": "Bain-de-Bretagne",
+    "telephone": "+33 2 99 43 80 14",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.poirier-electric-auto.fr/"
+  },
+  {
+    "nom": "Garage Charron Huet",
+    "ville": "Bain-de-Bretagne",
+    "telephone": "+33 2 99 43 36 16",
+    "email": "garage-huet-35470@orange.fr",
+    "metier": "garage",
+    "site_existant": "http://renault-charron-huet-bain.com"
+  },
+  {
+    "nom": "Auto Speed 35",
+    "ville": "Janzé",
+    "telephone": "+33 2 99 43 57 54",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.autospeed35.fr/"
+  },
+  {
+    "nom": "JLS Top Garage",
+    "ville": "Saint-Sulpice-la-Forêt",
+    "telephone": "+33 2 99 66 24 74",
+    "email": "jlstopgarage@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-sarl-jls-saint-sulpice-la-foret-12444.html"
+  },
+  {
+    "nom": "JLS Top Garage",
+    "ville": "Gévezé",
+    "telephone": "+33299332791",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.top-garage-geveze.fr/"
+  },
+  {
+    "nom": "Garage de la Métairie",
+    "ville": "Montreuil-le-Gast",
+    "telephone": "+33 2 99 69 33 25",
+    "email": "garagelametairie@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garagedelametairie.multimarque.fr/"
+  },
+  {
+    "nom": "Auto Betton Services",
+    "ville": "Betton",
+    "telephone": "+33 2 99 55 88 85",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garageabs.fr/"
+  },
+  {
+    "nom": "Etape Auto Betton",
+    "ville": "Betton",
+    "telephone": "+33 2 99 55 07 45",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://centre.etape-auto.fr/619419-centre-auto-bettonnais"
+  },
+  {
+    "nom": "Merlin Pièces Auto",
+    "ville": "Janzé",
+    "telephone": "+33 2 23 08 75 99",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "www.merlin-pieces-auto.fr"
+  },
+  {
+    "nom": "Garage Lemoine - Renault",
+    "ville": "Saint-Pierre-des-Corps",
+    "telephone": "+33 2 47 44 20 88",
+    "email": "garagecalas@gmail.com",
+    "metier": "garage",
+    "site_existant": "http://quai21-renault.fr/fr/index.php"
+  },
+  {
+    "nom": "Auto Contrôle 37",
+    "ville": "Esvres",
+    "telephone": "+33 2 47 26 50 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.dekra-norisko.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Saint-Cyr-sur-Loire",
+    "telephone": "+33 2 47 85 50 70",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/indre-et-loire/saint-cyr-sur-loire/parc-d-activites"
+  },
+  {
+    "nom": "Garage Berger",
+    "ville": "Château-Renault",
+    "telephone": "+33 2 47 56 91 75",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad-auto.fr/reseau/ad-auto/reparateurs/indre-et-loire/chateau-renault"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Tours",
+    "telephone": "+33 2 47 40 60 30",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/tours/feu-vert-tours-nord/477.html"
+  },
+  {
+    "nom": "Garage Berthault Automobiles",
+    "ville": "La Membrolle-sur-Choisille",
+    "telephone": "+33 2 47 41 20 35",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-berthault.com/"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Montlouis-sur-Loire",
+    "telephone": "+33 2 47 45 55 41",
+    "email": "meca.services.37@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/meca-services-37-montlouis-sur-loire/"
+  },
+  {
+    "nom": "Mondial Pare-Brise",
+    "ville": "Tours",
+    "telephone": "+33 2 47 25 94 47",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mondialparebrise.fr/trouver-mon-centre/mondial-pare-brise-tours-centre"
+  },
+  {
+    "nom": "Garage du Nouveau Tours",
+    "ville": "Tours",
+    "telephone": "+33 2 47 39 09 99",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-expert-garage-du-nouveau-tours"
+  },
+  {
+    "nom": "Glass auto",
+    "ville": "Tours",
+    "telephone": "+33 2 47 36 06 68",
+    "email": "glassautotours@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.glassautoservice.com/"
+  },
+  {
+    "nom": "Garage de Chatenay",
+    "ville": "Rochecorbon",
+    "telephone": "+33 2 47 52 50 76",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-de-chatenay.edan.io"
+  },
+  {
+    "nom": "Garage Rouvre Citroën Truyes",
+    "ville": "Truyes",
+    "telephone": "+33 2 47 43 40 01",
+    "email": "garage.rouvre@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-truyes"
+  },
+  {
+    "nom": "LB Carrosserie",
+    "ville": "Esvres",
+    "telephone": "+33 2 47 26 42 78",
+    "email": "contact@lbcarrosserie.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-001242/lb-carrosserie/details"
+  },
+  {
+    "nom": "Garage Marquenet",
+    "ville": "La Croix-en-Touraine",
+    "telephone": "+33 2 47 23 55 55",
+    "email": "garage.marquenet@hotmail.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/la-croix-en-touraine/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Tours",
+    "telephone": "+33 2 47 88 06 00",
+    "email": "1288@midasfrance.net",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/centre-val-de-loire/indre-et-loire/tours/tours-maginot_1288"
+  },
+  {
+    "nom": "SARL Garage des Vallées",
+    "ville": "Ballan-Miré",
+    "telephone": "+33 2 47 53 20 03",
+    "email": "y.c.ggedesvallees@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garage-vallees.fr/"
+  },
+  {
+    "nom": "Propulsion",
+    "ville": "Poligny",
+    "telephone": "+33 3 84 73 99 78",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.propulsion-poligny.com/"
+  },
+  {
+    "nom": "Garage Elias",
+    "ville": "Domblans",
+    "telephone": "+33 3 84 85 21 91",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-elias-domblans.fr"
+  },
+  {
+    "nom": "Garage Labbey - Renault",
+    "ville": "Relans",
+    "telephone": "+33 3 84 85 10 74",
+    "email": "contact@garage-labbey.com",
+    "metier": "garage",
+    "site_existant": "https://www.garage-labbey.com"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Dole",
+    "telephone": "+33 3 84 79 23 48",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "ECCOFOR Garage",
+    "ville": "Dole",
+    "telephone": "+33980903705",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eccofor.fr/garage/"
+  },
+  {
+    "nom": "RP Carrosserie",
+    "ville": "Montmorot",
+    "telephone": "+33 3 63 67 48 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.rp-carrosserie-peinture.fr"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Dole",
+    "telephone": "+33 3 84 70 81 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/bourgogne-franche-comte/dole/yvsbyxt-euromaster-girardot-pneus"
+  },
+  {
+    "nom": "Garage Conry",
+    "ville": "Mouchard",
+    "telephone": "+33 3 84 37 82 43",
+    "email": "garageconry@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garage-conry.fr/"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Thoirette",
+    "telephone": "+33 4 74 76 83 53",
+    "email": "jpf.mauchamp.peugeot@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/thoirette/"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Montmorot",
+    "telephone": "+33 3 39 57 97 97",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.franceparebrise.fr/reparation-pare-brise/montmorot"
+  },
+  {
+    "nom": "Lons Pieces Auto",
+    "ville": "Messia-sur-Sorne",
+    "telephone": "+33 9 74 56 06 80",
+    "email": "lonspiescesauto@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.lonspiecesauto.fr"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Poligny",
+    "telephone": "+33 3 84 37 30 80",
+    "email": "centreauto@chevassupneus.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/chevassu-accord-poligny"
+  },
+  {
+    "nom": "Feu Vert Mont De Marsan",
+    "ville": "Mont-de-Marsan",
+    "telephone": "+33 5 58 46 47 95",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/mont-de-marsan/feu-vert-mont-de-marsan/231.html?setcenter=231"
+  },
+  {
+    "nom": "Garage de l'Océan",
+    "ville": "Mimizan",
+    "telephone": "+33 5 58 09 21 24",
+    "email": "legaragedemimizanplage@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-IN0776/le-garage-de-mimizan-plage/details"
+  },
+  {
+    "nom": "Garage Perrier",
+    "ville": "Saint-Martin-de-Seignanx",
+    "telephone": "+33 5 59 56 50 27",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/concessionnaire/aquitaine/landes/saint-martin-de-seignanx"
+  },
+  {
+    "nom": "Suzuki - Hyundai",
+    "ville": "Saint-Pierre-du-Mont",
+    "telephone": "+33 5 58 46 74 49",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.suzuki.fr/store/show/4070A-i-auto-mont-de-marsan-saint-pierre-du-mont"
+  },
+  {
+    "nom": "Garage de l'Aiguille",
+    "ville": "Sanguinet",
+    "telephone": "+33 5 58 78 60 60",
+    "email": "garage.aiguille.sanguinet@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garageaiguillesang.wixsite.com/website"
+  },
+  {
+    "nom": "E. Leclerc Auto",
+    "ville": "Saint-Paul-lès-Dax",
+    "telephone": "+33 5 58 56 55 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.e-leclerc.com/st-paul"
+  },
+  {
+    "nom": "E. Leclerc Auto",
+    "ville": "Biscarrosse",
+    "telephone": "+33 5 58 82 83 83",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.auto.leclerc/centre-auto/biscarrosse"
+  },
+  {
+    "nom": "Automobile Cazenave",
+    "ville": "Saint-Sever",
+    "telephone": "+33 5 58 76 00 19",
+    "email": "automobilescazenave@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://automobilescazenave-occasions.espacevo.fr/"
+  },
+  {
+    "nom": "Aut'Ôpital Garage",
+    "ville": "Saint-Paul-lès-Dax",
+    "telephone": "+33 7 89 38 81 91",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://autopital-garage.business.site/"
+  },
+  {
+    "nom": "Garage des Barthes",
+    "ville": "Tarnos",
+    "telephone": "+33 5 59 63 18 85",
+    "email": "garage-barthes@sfr.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.precisium.fr/559-garage-des-barthes"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Mont-de-Marsan",
+    "telephone": "+33 5 58 06 73 24",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Hydroparts France",
+    "ville": "Saint-Paul-lès-Dax",
+    "telephone": "+33 5 58 55 91 92",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.hydroparts-france.fr/"
+  },
+  {
+    "nom": "Garage Couralet Citroën",
+    "ville": "Aire-sur-l'Adour",
+    "telephone": "+33 5 58 71 65 65",
+    "email": "garagecouralet40@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.garagecouralet.fr/"
+  },
+  {
+    "nom": "Dulamon Auto",
+    "ville": "Tarnos",
+    "telephone": "+33 5 59 64 01 60",
+    "email": "dulamon.auto@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/dulamon-tarnos"
+  },
+  {
+    "nom": "Land Garage",
+    "ville": "Ychoux",
+    "telephone": "+33 5 58 82 34 88",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://land-garage.business.site/"
+  },
+  {
+    "nom": "Garage Dubourdieu Ford",
+    "ville": "BISCARROSSE",
+    "telephone": "+33 5 58 78 05 97",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.fordbiscarrosse.fr/"
+  },
+  {
+    "nom": "DOCAUTO",
+    "ville": "BISCARROSSE",
+    "telephone": "+33 7 61 77 28 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garagedocauto.fr/"
+  },
+  {
+    "nom": "Garage Sardinha agent Renault",
+    "ville": "SANGUINET",
+    "telephone": "+33 5 58 82 17 96",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://pros.lacentrale.fr/C036268/"
+  },
+  {
+    "nom": "Dom Motors",
+    "ville": "BISCARROSSE",
+    "telephone": "+33 5 58 08 96 81",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://sites.google.com/site/dommotorsbiscarrosse/"
+  },
+  {
+    "nom": "JDS Motors",
+    "ville": "BISCARROSSE",
+    "telephone": "+33 613 86 20 06",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://jdsmotors40.fr/"
+  },
+  {
+    "nom": "Garage Renault Côte d'Argent",
+    "ville": "Biscarrosse",
+    "telephone": "+33 5 58 78 06 66",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessionnaire.renault.fr/biscarosse.html"
+  },
+  {
+    "nom": "Triscos Autos.com",
+    "ville": "BISCARROSSE",
+    "telephone": "+33 5 58 82 10 10",
+    "email": "bisca@triscosautos.com",
+    "metier": "garage",
+    "site_existant": "https://www.triscosautos.com/"
+  },
+  {
+    "nom": "Born mécanique",
+    "ville": "BISCARROSSE",
+    "telephone": "+33 5 58 07 14 34",
+    "email": "mecaniqueduborn@outlook.fr",
+    "metier": "garage",
+    "site_existant": "https://mecaniqueduborn.site-solocal.com/"
+  },
+  {
+    "nom": "Auto 40 Aquitaine",
+    "ville": "BISCARROSSE",
+    "telephone": "+33 5 58 78 02 86",
+    "email": "auto40aquitaine@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.motrio.fr/"
+  },
+  {
+    "nom": "Garage Peugeot Edenauto",
+    "ville": "Biscarrosse",
+    "telephone": "+33 5 58 82 55 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://peugeot-biscarrosse.edenauto.com/"
+  },
+  {
+    "nom": "BMW Mont De Marsan- Groupe Autosphere",
+    "ville": "Saint-Avit",
+    "telephone": "+33 5 58 05 90 76",
+    "email": "rgpd.bmw-montdemarsan@emilfrey.fr",
+    "metier": "garage",
+    "site_existant": "https://www.bmw-montdemarsan.fr/"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Aire-sur-l'Adour",
+    "telephone": "+33 5 58 71 71 95",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/aire/nous-contacter/info-utiles/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Saint-Paul-lès-Dax",
+    "telephone": "+33 5 58 91 87 87",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/st-paul-les-dax/feu-vert-dax-st-paul/133.html"
+  },
+  {
+    "nom": "Garage Pierre Basque Agent Renault Dacia",
+    "ville": "Amou",
+    "telephone": "+33 5 58 89 00 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-pierre-basque-agent-renault-dacia.business.site/?utm_source=gmb&utm_medium=referral"
+  },
+  {
+    "nom": "Garage Cazaux",
+    "ville": "Ondres",
+    "telephone": "+33 5 59 45 30 34",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garagecazauxfrancis.site-solocal.com/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Tarnos",
+    "telephone": "+33 5 59643464",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/tarnos/feu-vert-tarnos/246.html"
+  },
+  {
+    "nom": "Sarl 2 B - Citroën",
+    "ville": "Parentis-en-Born",
+    "telephone": "+33 5 58 78 43 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-parentis-en-born"
+  },
+  {
+    "nom": "Garage Triscos Automobiles",
+    "ville": "Parentis en Born",
+    "telephone": "+33 5 58 78 43 50",
+    "email": "bisca@triscosautos.com",
+    "metier": "garage",
+    "site_existant": "https://www.triscosautos.com/"
+  },
+  {
+    "nom": "PRECISIUM Garage du Temple Adhérent",
+    "ville": "Vendôme",
+    "telephone": "+33 2 54 77 49 24",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garagedutemple.fr/"
+  },
+  {
+    "nom": "AD EXPERT Bellanger Automobiles",
+    "ville": "Vendôme",
+    "telephone": "+33 2 54 77 11 98",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.bellangerautomobiles41.fr/"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Vendôme",
+    "telephone": "+33 2 54 77 70 95",
+    "email": "autoservicerapide@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/auto-service-rapide-vendome/"
+  },
+  {
+    "nom": "Garage Carrot",
+    "ville": "Bourg-Argental",
+    "telephone": "+33477397407",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garagecarrotmeyrieux.fr/"
+  },
+  {
+    "nom": "Vulco",
+    "ville": "Saint-Étienne",
+    "telephone": "+33 4 77 74 42 66",
+    "email": "nicolas.chevalier@snella-auto.fr",
+    "metier": "garage",
+    "site_existant": "https://www.vulco.fr/all-dealers/saint-etienne/vulco-saint-etienne-362221.html"
+  },
+  {
+    "nom": "Garage Cheminal",
+    "ville": "Feurs",
+    "telephone": "+33 4 77 26 56 63",
+    "email": "seat.cheminal@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-cheminal.fr/"
+  },
+  {
+    "nom": "Garage Xavier Guichard",
+    "ville": "Saint-Christo-en-Jarez",
+    "telephone": "+33477208507",
+    "email": "garage.xavierguichard@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-guichard.com/"
+  },
+  {
+    "nom": "Motrio - Garage Mondon",
+    "ville": "Saint-Chamond",
+    "telephone": "+33 4 77 31 78 64",
+    "email": "contact@garage-mondon.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-mondon.fr/"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Rive de Gier",
+    "telephone": "+33477750422",
+    "email": "bureau.boutin@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/rive-de-gier/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Saint-Étienne",
+    "telephone": "+33 4 77490787",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/saint-etienne-cedex-2/feu-vert-st-etienne-monthieu/242.html"
+  },
+  {
+    "nom": "Auto Thivolle - Renault Saint-Chamond",
+    "ville": "Saint-Chamond",
+    "telephone": "+33 4 77 29 28 27",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://renault-saint-chamond.autothivolle.com/"
+  },
+  {
+    "nom": "Garage AD Expert des Fraries - RB Autos",
+    "ville": "Saint-Chamond",
+    "telephone": "+33 4 77 79 80 17",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-garage-des-fraries---rb-auto"
+  },
+  {
+    "nom": "Moulanger Automobiles",
+    "ville": "Saint-Marcellin-en-Forez",
+    "telephone": "+33 4 77 52 83 73",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.moulanger-automobiles.com/"
+  },
+  {
+    "nom": "Carrosserie Franck Imbert",
+    "ville": "Violay",
+    "telephone": "+33 474639608",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-franck-imbert-fivestar.fr/"
+  },
+  {
+    "nom": "Speedy Orléans Dauphine",
+    "ville": "Orléans",
+    "telephone": "+332 38 66 41 90",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/orleans-dauphine-45000/308"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Saint-Jean-le-Blanc",
+    "telephone": "+33238660484",
+    "email": "la-comete2@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/st-jean-le-blanc/nous-contacter/info-utiles/"
+  },
+  {
+    "nom": "Carrosserie du Mail",
+    "ville": "Pithiviers",
+    "telephone": "+33238301528",
+    "email": "carrosseriemail@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://carrosserie-pithiviers.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Fleury-les-Aubrais",
+    "telephone": "+33 238616811",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/loiret/fleury-les-aubrais/5-rue-f-et-i-joliot-curie"
+  },
+  {
+    "nom": "Garage de la Garenne",
+    "ville": "Ingré",
+    "telephone": "+33 2 38 78 66 63",
+    "email": "garagedelagarenne45@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-001570/garage-de-la-garenne/details"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Orléans",
+    "telephone": "+33 2 38 54 57 00",
+    "email": "1073@midasfrance.net",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/centre-val-de-loire/loiret/orleans/orleans-gare_1073"
+  },
+  {
+    "nom": "Carrosserie du Tram",
+    "ville": "Fleury-les-Aubrais",
+    "telephone": "+33 2 38 83 71 32",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-tram-45.fr/"
+  },
+  {
+    "nom": "Mondial Pare-brise",
+    "ville": "Olivet",
+    "telephone": "+33 2 38 69 00 28",
+    "email": "olivet@mondialpare-brise.fr",
+    "metier": "garage",
+    "site_existant": "http://www.mondialpare-brise.fr/45160-mondial-pare-brise-olivet-accueil.htm"
+  },
+  {
+    "nom": "Citroën Pinsard",
+    "ville": "Sully-sur-Loire",
+    "telephone": "+33 2 38 36 27 71",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-sully-sur-loire"
+  },
+  {
+    "nom": "Carrosserie Plotton",
+    "ville": "Sully-sur-Loire",
+    "telephone": "+33 2 38 36 45 73",
+    "email": "carrosserie.plotton@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/61566306093517/"
+  },
+  {
+    "nom": "Carrosserie Dupressoir",
+    "ville": "Olivet",
+    "telephone": "+33 238634651",
+    "email": "contact@carrosseriedupressoir.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carrosseriedupressoir.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Checy",
+    "telephone": "+33 2 34 52 02 49",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Garage des 4 Routes",
+    "ville": "Vitry-aux-loge",
+    "telephone": "+33 2 38 59 41 14",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/299-garage-des-4-routes"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Saint-Jean-de-Braye",
+    "telephone": "+33 238755048",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-st-jean-de-braye"
+  },
+  {
+    "nom": "Montaran Carrosserie",
+    "ville": "Saran",
+    "telephone": "+33 238838360",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-expert-montaran-carrosserie"
+  },
+  {
+    "nom": "Meca Tronic Engineering Center",
+    "ville": "Fleury-les-Aubrais",
+    "telephone": "+33 218889285",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mecatronic-defapage.com/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Orléans",
+    "telephone": "+33 2 38 51 10 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "SPOTICAR Garage de la comete",
+    "ville": "Saint-Jean-le-Blanc",
+    "telephone": "+33620694732",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://pros.lacentrale.fr/C018065/"
+  },
+  {
+    "nom": "JNB automobile",
+    "ville": "Fleury-les-Aubrais",
+    "telephone": "+33238438494",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/jnb-distribution-fleury-les-aubrais/"
+  },
+  {
+    "nom": "Orléans Autos",
+    "ville": "Fleury-les-Aubrais",
+    "telephone": "+33 238884840",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.acoat-selected.fr/"
+  },
+  {
+    "nom": "Garage 45 Auto",
+    "ville": "Fleury-les-Aubrais",
+    "telephone": "+33 238615940",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/"
+  },
+  {
+    "nom": "Garage de L'Europe",
+    "ville": "Olivet",
+    "telephone": "+33 238760800",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://motrio.fr/shop/GARAGE%20DE%20L%27EUROPE/ESTFRA22.03C20D"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Olivet",
+    "telephone": "+33 2 38 63 41 64",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/centre-val-de-loire/olivet-la-source/euromaster-olivet-la-source"
+  },
+  {
+    "nom": "ACPM Sud",
+    "ville": "Olivet",
+    "telephone": "+33 238630100",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Saint-Jean-de-la-Ruelle",
+    "telephone": "+33 2 38 22 89 89",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/loiret/st-jean-de-la-ruelle/centre-commercial-auchan"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Chécy",
+    "telephone": "+33 2 38 61 98 98",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/loiret/checy/10-rue-francois-arago"
+  },
+  {
+    "nom": "CDR",
+    "ville": "Saint-Jean-de-la-Ruelle",
+    "telephone": "+33971 00 55 59",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.cdr45.fr/contact"
+  },
+  {
+    "nom": "Car Online",
+    "ville": "Saint-Pryvé-Saint-Mesmin",
+    "telephone": "+332 38 46 26 89",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.caronline.fr/"
+  },
+  {
+    "nom": "Carrosserie J Souchard et Fils",
+    "ville": "Saint-Pryvé-Saint-Mesmin",
+    "telephone": "+33238663396",
+    "email": "contact@carrosserie-souchard.fr",
+    "metier": "garage",
+    "site_existant": "https://carrosserie-orleans.com/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Saran",
+    "telephone": "+33 2 38731212",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/saran/feu-vert-orleans-saran/28.html"
+  },
+  {
+    "nom": "BestDrive",
+    "ville": "Saran",
+    "telephone": "+33 2 38 73 13 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.bestdrive.fr"
+  },
+  {
+    "nom": "Solidarauto 45",
+    "ville": "Saint-Jean-de-la-Ruelle",
+    "telephone": "+33 2 21 76 59 52",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://solidarauto.org/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Tavers",
+    "telephone": "+33 2 38 46 07 89",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Garage de la Haute Croix",
+    "ville": "Meung-sur-Loire",
+    "telephone": "+33 2 38 44 30 33",
+    "email": "bruno.lorgeou@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/meung-sur-loire/"
+  },
+  {
+    "nom": "Select Poids Lourds 49",
+    "ville": "Écouflant",
+    "telephone": "+33 2 41 57 24 82",
+    "email": "contact@selectpoidslourds.com",
+    "metier": "garage",
+    "site_existant": "https://www.selectpoidslourds.com/"
+  },
+  {
+    "nom": "Appro Utilitaires 49",
+    "ville": "Saint-Melaine-sur-Aubance",
+    "telephone": "+33 2 41 54 22 87",
+    "email": "tanguy@appro-utilitaires.com",
+    "metier": "garage",
+    "site_existant": "https://www.appro-utilitaires.com/"
+  },
+  {
+    "nom": "Patton Automobiles",
+    "ville": "Beaucouzé",
+    "telephone": "+33 2 41 48 48 24",
+    "email": "pattonautomobiles@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://pattonautomobiles.fr/"
+  },
+  {
+    "nom": "ASP auto",
+    "ville": "SEVREMOINE",
+    "telephone": "+33650699582",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://aspauto49.fr/"
+  },
+  {
+    "nom": "Garage Peugeot",
+    "ville": "Les Hauts-d'Anjou",
+    "telephone": "+33241694747",
+    "email": "jo.garnacho@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/chateauneuf-sur-sarthe/"
+  },
+  {
+    "nom": "Vulco",
+    "ville": "Sainte-Gemmes-sur-Loire",
+    "telephone": "+33 2 59 10 14 99",
+    "email": "nicolas.gaudin@vulco.fr",
+    "metier": "garage",
+    "site_existant": "https://www.vulco.fr/"
+  },
+  {
+    "nom": "AD JC Automobiles",
+    "ville": "Les Ponts-de-Cé",
+    "telephone": "+33 2 41 69 08 07",
+    "email": "secretariat@jc-automobiles.fr",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-expert-jc-automobiles"
+  },
+  {
+    "nom": "Érépar",
+    "ville": "Les Ponts-de-Cé",
+    "telephone": "+33 2 59 29 02 90",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://erepar.fr"
+  },
+  {
+    "nom": "GARAGE PASSIANT",
+    "ville": "Saumur",
+    "telephone": "+33 2 41 67 34 75",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garagepassiant.fr/"
+  },
+  {
+    "nom": "Peugeot - Garage du Parc",
+    "ville": "Saint-Christophe-du-Bois",
+    "telephone": "+33 2 41 56 03 26",
+    "email": "du.parc.garage@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/st-christophe-du-bois/nous-contacter/info-utiles/"
+  },
+  {
+    "nom": "Peugeot - Mansard Automobiles",
+    "ville": "Beaufort-en-Anjou",
+    "telephone": "+33 2 41 57 28 28",
+    "email": "mansard.automobiles@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/beaufort-en-vallee/"
+  },
+  {
+    "nom": "Feu Vert Châlons-en-Champagne",
+    "ville": "Châlons-en-Champagne",
+    "telephone": "+33 3 26 21 25 81",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Tinqueux",
+    "telephone": "+33 3 26 79 09 91",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/tinqueux-51430/366"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Tinqueux",
+    "telephone": "+33 3 26 05 64 70",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Carrosserie de Courcelles",
+    "ville": "Saint-Brice-Courcelles",
+    "telephone": "+33 3 26 61 52 44",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carrosseriedecourcelles.fr/"
+  },
+  {
+    "nom": "Garage 51",
+    "ville": "Saint-Brice-Courcelles",
+    "telephone": "+33 3 51 42 64 67",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage51.fr/"
+  },
+  {
+    "nom": "Garage ADN",
+    "ville": "Saint-Brice-Courcelles",
+    "telephone": "+33 3 26 87 52 16",
+    "email": "contact@garageadn.com",
+    "metier": "garage",
+    "site_existant": "https://www.garageadn.com/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Épernay",
+    "telephone": "+33 3 26 55 50 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Carglass",
+    "ville": "Châlons-en-Champagne",
+    "telephone": "+33310051515",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carglass.fr/centre/51000-83365/compertrix"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Reims",
+    "telephone": "+33 326778262",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/marne/reims/centre-commercial-carrefour"
+  },
+  {
+    "nom": "Ms-automobiles",
+    "ville": "Châlons-en-Champagne",
+    "telephone": "+33 3 26 21 23 10",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/msautomobiles.ford"
+  },
+  {
+    "nom": "AXIAL - AMR CARROSSERIE",
+    "ville": "Saint-Memmie",
+    "telephone": "+33326675157",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.amr-carrosserie-chalons.com/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Magenta",
+    "telephone": "+33 3 26 55 90 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/grand-est/epernay/yttsgss-euromaster-epernay-magenta"
+  },
+  {
+    "nom": "Toyota",
+    "ville": "Épernay",
+    "telephone": "+33 3 26 56 93 30",
+    "email": "atelier-epernay@ttr-auto.fr",
+    "metier": "garage",
+    "site_existant": "https://www.toyota.fr/reseau/ttr_automobiles_epernay"
+  },
+  {
+    "nom": "Top Garage",
+    "ville": "Mourmelon-Le-Grand",
+    "telephone": "+33326668733",
+    "email": "meca2g51@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-104333/garage-meca-2g/details"
+  },
+  {
+    "nom": "Garage Chretien",
+    "ville": "Chardogne",
+    "telephone": "+33 3 29 78 51 64",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-chretien.fr/"
+  },
+  {
+    "nom": "Garage Peudon-Milesi",
+    "ville": "Bar-le-Duc",
+    "telephone": "+33 3 29 76 13 33",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://peudon.multimarque.fr/"
+  },
+  {
+    "nom": "Barrois Poids Lourds Services",
+    "ville": "Savonnières-devant-Bar",
+    "telephone": "+33 3 29 79 05 39",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault-trucks.net/barrois-poids-lourds-services"
+  },
+  {
+    "nom": "Bestdrive",
+    "ville": "Bar-le-Duc",
+    "telephone": "+33 3 29 79 13 01",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://bestdrive.fr/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Bar-le-Duc",
+    "telephone": "+33 3 10 45 31 15",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/grand-est/bar-le-duc/yvkknrf-euromaster-nord-est-pneus-bar-le-duc"
+  },
+  {
+    "nom": "Iveco",
+    "ville": "Fains-Véel",
+    "telephone": "+33 3 29 45 30 22",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.sasgenin-barleduc.fr/index.html"
+  },
+  {
+    "nom": "Auto Service",
+    "ville": "Velaines",
+    "telephone": "+33 3 29 79 07 61",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.auto-service-garage.fr/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Haudainville",
+    "telephone": "+33 3 29 84 58 58",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/verdun/feu-vert-verdun/147.html"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Haudainville",
+    "telephone": "+33 3 29 73 70 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/meuse/haudainville/boulevard-de-leurope"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Montmédy",
+    "telephone": "+33 3 29 80 10 94",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr/trouver-un-etablissement.html"
+  },
+  {
+    "nom": "Europecar",
+    "ville": "Montmédy",
+    "telephone": "+33 3 29 80 10 34",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-grand-est-montmedy-9736.html"
+  },
+  {
+    "nom": "EasyROOL",
+    "ville": "Séné",
+    "telephone": "+33 2 97 49 94 83",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.easyrool-56.com/"
+  },
+  {
+    "nom": "Garage Morvan",
+    "ville": "Inzinzac-Lochrist",
+    "telephone": "+33297360921",
+    "email": "accueil@garage-tison.bzh",
+    "metier": "garage",
+    "site_existant": "https://agents.peugeot.fr/inzinzac-lochrist"
+  },
+  {
+    "nom": "Groupe Dmd",
+    "ville": "Vannes",
+    "telephone": "+33 2 97 63 10 35",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ford-vannes.com/"
+  },
+  {
+    "nom": "Contrôle Automobile",
+    "ville": "Gourin",
+    "telephone": "+33 2 97 23 64 64",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://gourin.controle-technique.com/"
+  },
+  {
+    "nom": "CYL AUTO",
+    "ville": "Gourin",
+    "telephone": "+33 2 97 34 23 48",
+    "email": "cyl.auto@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.cyl-auto.fr/"
+  },
+  {
+    "nom": "Distinxion",
+    "ville": "Arzal",
+    "telephone": "+33 2 97 45 09 33",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.autos.fr/ggeguihard"
+  },
+  {
+    "nom": "Garage Serizay",
+    "ville": "Bignan",
+    "telephone": "+33 2 97 42 29 82",
+    "email": "garage.serizay@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-004398/garage-serizay/details"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Lanester",
+    "telephone": "+33297810504",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/morbihan/lanester/parc-des-expositions"
+  },
+  {
+    "nom": "Etablissements Ezannic",
+    "ville": "Melrand",
+    "telephone": "+33 2 97 39 54 62",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://ezannic.multimarque.fr/"
+  },
+  {
+    "nom": "Le Texier automobiles",
+    "ville": "Josselin",
+    "telephone": "+33 2 97 22 22 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.le-texier-automobiles.com/"
+  },
+  {
+    "nom": "Glastint",
+    "ville": "Caudan",
+    "telephone": "+33 2 97 81 42 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.glastint.com/centres/lorient/"
+  },
+  {
+    "nom": "ABF Garage Caudan",
+    "ville": "Caudan",
+    "telephone": "+33 2 97 05 70 32",
+    "email": "abf-garage@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.abfgarage.com/"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Grand-Champ",
+    "telephone": "+33 2 97 66 06 06",
+    "email": "peugeot.grandchamp@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/grandchamp/"
+  },
+  {
+    "nom": "Profil Plus",
+    "ville": "Quéven",
+    "telephone": "+33 2 97 05 24 04",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.profilplus.fr/agence/76-queven"
+  },
+  {
+    "nom": "Garage Maillot",
+    "ville": "Locmiquélic",
+    "telephone": "+33 6 51 89 20 66",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garage-maillot.business.site"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Auray",
+    "telephone": "+33 2 97 56 00 99",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Lorient",
+    "telephone": "+33 2 97 89 00 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Sevestre Autos",
+    "ville": "Carentoir",
+    "telephone": "+33 2 99 08 82 81",
+    "email": "atelier@groupesevestre.com",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/756-sevestre-autos"
+  },
+  {
+    "nom": "Prop Auto Concept",
+    "ville": "Caudan",
+    "telephone": "+33 2 97 76 53 65",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://propautoconcept.fr/"
+  },
+  {
+    "nom": "SD Services",
+    "ville": "Caudan",
+    "telephone": "+33 2 97 76 44 59",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.sdservices.fr/"
+  },
+  {
+    "nom": "Vianauto",
+    "ville": "Auray",
+    "telephone": "+33 2 97 56 34 03",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://vianor-bertho.fr"
+  },
+  {
+    "nom": "Centre Auto Matic",
+    "ville": "Caudan",
+    "telephone": "+33 2 97 81 22 62",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://caudan.centreautomatic.com/"
+  },
+  {
+    "nom": "Axial",
+    "ville": "Hennebont",
+    "telephone": "+33 2 97 36 15 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://axial.org/nos-metiers/axial-pres-de-chez-vous/a.c.i.-56,307,277.html?&vars=x8j35lzJhTbQIAPvciEOei9HQdscpkL79mRDXog1uQ8"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Hennebont",
+    "telephone": "+33297361532",
+    "email": "mlautos56@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/hennebont/nous-contacter/info-utiles/"
+  },
+  {
+    "nom": "Carrosserie Pavic Cyrille",
+    "ville": "Hennebont",
+    "telephone": "+33 2 97 85 00 64",
+    "email": "cyr.pavic@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-pavic.fr/"
+  },
+  {
+    "nom": "SARL Quiguer Automobiles",
+    "ville": "Landévant",
+    "telephone": "+33 2 97 56 94 22",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.quiguer-automobiles.com/"
+  },
+  {
+    "nom": "Contrôle Technique du Riant",
+    "ville": "Riantec",
+    "telephone": "+33 2 97 33 49 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.dekra-norisko.fr/dekra/controle-technique/riantec,56670/groac-h-carnec?S056D177"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Vannes",
+    "telephone": "+33 2 97 40 44 88",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Garage du Landy",
+    "ville": "Theix",
+    "telephone": "+33 297430727",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.cars-hunter.com/"
+  },
+  {
+    "nom": "Profil Plus",
+    "ville": "Auray",
+    "telephone": "+33 2 97 24 24 48",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.profilplus.fr/agence/104-auray"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Auray",
+    "telephone": "+33 2 97 56 61 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/morbihan/auray/7-rue-d-irlande"
+  },
+  {
+    "nom": "Garage Geffroy",
+    "ville": "La Gacilly",
+    "telephone": "+33299081037",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-geoffroy.com/"
+  },
+  {
+    "nom": "Garage Roblin",
+    "ville": "La Gacilly",
+    "telephone": "+33 2 99 08 10 17",
+    "email": "garage.roblin56200@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-roblin-gacilly.fr/"
+  },
+  {
+    "nom": "MGS SARL",
+    "ville": "Rieux",
+    "telephone": "+33 2 99 71 39 75",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-mgs"
+  },
+  {
+    "nom": "F.M. Automobiles",
+    "ville": "Vannes",
+    "telephone": "+33 2 97 63 14 73",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.fm-automobiles.com/"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Riantec",
+    "telephone": "+33 2 97 82 47 85",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garagedelavancee.fr"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Vannes",
+    "telephone": "+33 2 97 26 72 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/morbihan/vannes/5-rue-du-docteur-leonce-franco"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Plœmeur",
+    "telephone": "+33297127700",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-ploemeur"
+  },
+  {
+    "nom": "TOP GARAGE",
+    "ville": "CAMORS",
+    "telephone": "+33 2 97 07 20 89",
+    "email": "garage-stephane-prado1@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-096441/garage-stephane-prado/details"
+  },
+  {
+    "nom": "Feu Vert Marzy",
+    "ville": "Marzy",
+    "telephone": "+33 3 86 21 58 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/nevers/feu-vert-nevers-marzy-1/39.html"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Nevers",
+    "telephone": "+33 3 86 93 08 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/bourgogne-franche-comte/nevers/yctprwp-euromaster-nevers"
+  },
+  {
+    "nom": "France Pare Brise",
+    "ville": "Nevers",
+    "telephone": "+33 3 86 59 09 27",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.franceparebrise.org/fpb/voir_centre.php?ctr=58N"
+  },
+  {
+    "nom": "OuiGlass",
+    "ville": "Nevers",
+    "telephone": "+33 3 86 58 33 63",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://nevers.ouiglass.com/"
+  },
+  {
+    "nom": "Garage Poids Lourds Des Senets",
+    "ville": "Varennes-Vauzelles",
+    "telephone": "+33 3 86 93 09 35",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad-poidslourds.fr/fiche-garage/garage-des-senets-varennes-vauzelles"
+  },
+  {
+    "nom": "Eurorepar",
+    "ville": "Nevers",
+    "telephone": "+33 3 86 61 40 07",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-du-mouesse-nevers-761.html"
+  },
+  {
+    "nom": "Garage Delaporte",
+    "ville": "Moulins Engilbert",
+    "telephone": "+33 3 86 84 37 88",
+    "email": "carrosserie.delaporte@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/moulins-engilbert/"
+  },
+  {
+    "nom": "Volkswagen",
+    "ville": "Nevers",
+    "telephone": "+33 3 10 01 94 32",
+    "email": "nevers@suma-auto.com",
+    "metier": "garage",
+    "site_existant": "https://www.suma-auto.com/nos-concessions/volkswagen-nevers"
+  },
+  {
+    "nom": "Euro Repar",
+    "ville": "Saint-Benin-d'Azy",
+    "telephone": "+33 3 86 58 64 44",
+    "email": "garagepetit.sebastien@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-garage_petit-780.html"
+  },
+  {
+    "nom": "Renault Trucks",
+    "ville": "Varennes-Vauzelles",
+    "telephone": "+33 3 86 71 99 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault-trucks.net/samifra"
+  },
+  {
+    "nom": "AD Carrosserie",
+    "ville": "Varennes-Vauzelles",
+    "telephone": "+33 3 86 71 00 22",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-gauthe.fr/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Varennes-Vauzelles",
+    "telephone": "+33 3 86 57 76 77",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/varennes-vauzelles/feu-vert-nevers-varennes/258.html"
+  },
+  {
+    "nom": "Nissan Trucks",
+    "ville": "Varennes-Vauzelles",
+    "telephone": "+33 3 86 71 83 83",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://groupebrochard.com/notre-reseau/nevers/"
+  },
+  {
+    "nom": "Stéphane Belin Automobiles",
+    "ville": "Château-Chnon(Ville)",
+    "telephone": "+33 3 86 85 00 25",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://stephanebelin-automobiles.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Nevers",
+    "telephone": "+33 3 86 71 60 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/nievre/nevers/48-bd-du-grand-pre-des-bordes"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Compiègne",
+    "telephone": "+33 3 44 36 44 66",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/oise/compiegne/compiegne_1380"
+  },
+  {
+    "nom": "Top Garage - GTAH",
+    "ville": "Breteuil",
+    "telephone": "+33 3 44 07 00 18",
+    "email": "gtah@outlook.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-107814/gtah/details"
+  },
+  {
+    "nom": "Garage St Omer Automobiles",
+    "ville": "Saint-Omer-en-Chaussée",
+    "telephone": "+33 3 44 84 50 12",
+    "email": "christophe060@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.autooccasion60.com/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Nogent-sur-Oise",
+    "telephone": "+33 3 44 71 85 15",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/oise/senlis/nogent-sur-oise-creil_1178"
+  },
+  {
+    "nom": "Import Europ Auto",
+    "ville": "Tillé",
+    "telephone": "+33 3 44 45 60 47",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ie-auto.fr/"
+  },
+  {
+    "nom": "C.e.auto",
+    "ville": "Chambly",
+    "telephone": "+33 1 30 28 02 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.auto-cea.com/"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Nogent-sur-Oise",
+    "telephone": "+33 3 44 55 00 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centre.franceparebrise.fr/reparation-pare-brise/hauts-de-france/oise/nogent-sur-oise/nogent-sur-oise"
+  },
+  {
+    "nom": "AD",
+    "ville": "Breteuil",
+    "telephone": "+33 3 44 07 00 06",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/"
+  },
+  {
+    "nom": "Point S Industriel - Socrec",
+    "ville": "Creil",
+    "telephone": "+33 9 73 31 16 69",
+    "email": "lenormant.creil@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/socrec-creil/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Noyon",
+    "telephone": "+33 3 44 75 24 93",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/oise/compiegne/noyon_1528"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Pont-Sainte-Maxence",
+    "telephone": "+33 3 44 25 03 06",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/oise/senlis/pont-sainte-maxence_1522"
+  },
+  {
+    "nom": "Motrio - JMR Autoservices",
+    "ville": "Bonneuil-les-Eaux",
+    "telephone": "+33 3 44 11 54 28",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.motrio.fr/"
+  },
+  {
+    "nom": "Max'Auto",
+    "ville": "Rantigny",
+    "telephone": "+33 9 82 75 33 13",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://maxauto60.fr"
+  },
+  {
+    "nom": "Auto Séduction",
+    "ville": "Lacroix-Saint-Ouen",
+    "telephone": "+33 3 44 75 41 28",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-peinture-compiegne.com/"
+  },
+  {
+    "nom": "123 Pare-Brise",
+    "ville": "Jaux",
+    "telephone": "+33 3 72 27 20 95",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.123parebrise.fr/centre-compiegne/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Nogent-sur-Oise",
+    "telephone": "+33 3 44 55 00 05",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/paris-voltaire-75011/964"
+  },
+  {
+    "nom": "Roady",
+    "ville": "Crépy-en-Valois",
+    "telephone": "+33 3 44 94 72 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.roady.fr/crepy-en-valois.html"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Crépy-en-Valois",
+    "telephone": "+33 3 44 87 61 11",
+    "email": "ph.derville@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/crepy-en-valois"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Crépy-en-Valois",
+    "telephone": "+33 3 44 94 11 07",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/oise/senlis/crepy-en-valois_1456"
+  },
+  {
+    "nom": "Atelier des mobilités du compiégnois",
+    "ville": "Compiègne",
+    "telephone": "+33 6 67 15 30 02",
+    "email": "partagetravail60@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/Partagetravail"
+  },
+  {
+    "nom": "Midas",
+    "ville": "SENLIS",
+    "telephone": "+33 3 44 66 00 66",
+    "email": "1543@midasfrance.net",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/oise/senlis/senlis_1543"
+  },
+  {
+    "nom": "TOP Garage",
+    "ville": "Ressons-sur-Matz",
+    "telephone": "+33 3 44 42 50 31",
+    "email": "topgaragedumatz@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-IN0062/garage-du-matz/details"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Chambly",
+    "telephone": "+33 1 30 28 89 89",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/chambly/feu-vert-chambly/281.html?setcenter=281"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Chambly",
+    "telephone": "+33 1 30 28 84 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/oise/senlis/chambly_1455"
+  },
+  {
+    "nom": "Peugeot - Garage de l'Abbatiale",
+    "ville": "Saint-Leu-d'Esserent",
+    "telephone": "+33 3 44 56 60 58",
+    "email": "garage.abbatiale@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/saint-leu-d-essererent/"
+  },
+  {
+    "nom": "Douchet Depann 60",
+    "ville": "Breteuil",
+    "telephone": "+33 3 44 14 02 99",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.douchetdepann60.fr/"
+  },
+  {
+    "nom": "Etape Auto",
+    "ville": "Breteuil",
+    "telephone": "+33 3 44 15 47 48",
+    "email": "magasin.fdabre@gueudet.fr",
+    "metier": "garage",
+    "site_existant": "https://centre.etape-auto.fr/auto/fr/breteuil"
+  },
+  {
+    "nom": "Garage Rm",
+    "ville": "Villers-sous-Saint-Leu",
+    "telephone": "+33 3 44 73 03 46",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.garage-premier.fr/287-rm-competition"
+  },
+  {
+    "nom": "GT Motorsport",
+    "ville": "Villers-sous-Saint-Leu",
+    "telephone": "+33 6 61 59 00 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/gtmotorsport.beauvais/"
+  },
+  {
+    "nom": "Peugeot Concessionnaire",
+    "ville": "Saint-Georges-des-Groseillers",
+    "telephone": "+33 2 33 65 25 98",
+    "email": "lboissee@bayi.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/flers/"
+  },
+  {
+    "nom": "GT Carrosserie",
+    "ville": "Domfront",
+    "telephone": "+33 2 33 38 51 43",
+    "email": "gt.carrosserie@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "http://www.gtcarrosserie.fr/"
+  },
+  {
+    "nom": "L’Auto E.Leclerc",
+    "ville": "La Ferté-Macé",
+    "telephone": "+33 2 33 37 57 90",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.e.leclerc/mag/e-leclerc-la-ferte-mace"
+  },
+  {
+    "nom": "BestDrive",
+    "ville": "Flers",
+    "telephone": "+33 2 33 98 17 17",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://bestdrive.fr/garage/flers.html"
+  },
+  {
+    "nom": "Point S",
+    "ville": "L'Aigle",
+    "telephone": "+33 2 33 34 59 00",
+    "email": "centreautorisle@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/centre-auto-de-la-risle-laigle/"
+  },
+  {
+    "nom": "SOS Pare brise 0€ Franchise",
+    "ville": "Perpignan",
+    "telephone": "+33 4 48 07 05 65",
+    "email": "perpignan@sosparebriseplus.fr",
+    "metier": "garage",
+    "site_existant": "https://www.sosparebriseplus.fr/perpignan/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Elne",
+    "telephone": "+33 4 48 22 05 39",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Millas",
+    "telephone": "+33 4 68 50 47 20",
+    "email": "jprubio@jpmautos.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/auto-service-du-riberal-millas/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Mâcon",
+    "telephone": "+33 3 85 38 72 74",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Garage Moulin Et Fils",
+    "ville": "Charolles",
+    "telephone": "+33 3 85 24 01 10",
+    "email": "contact@citroen-charolles-moulinetfils.fr",
+    "metier": "garage",
+    "site_existant": "https://www.citroen-charolles-moulinetfils.fr/"
+  },
+  {
+    "nom": "Meca Ser'vis",
+    "ville": "Saillenard",
+    "telephone": "+33 3 85 74 18 83",
+    "email": "meca-servis@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.top-garage.fr/1193-meca-ser-vis"
+  },
+  {
+    "nom": "Garage Duchassin",
+    "ville": "Vitry-en-Charollais",
+    "telephone": "+33 3 85 81 10 26",
+    "email": "garage.duchassin@orange.fr",
+    "metier": "garage",
+    "site_existant": "http://www.garage-duchassin.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Digoin",
+    "telephone": "+33 3 85 81 66 61",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/saone-et-loire/digoin/zac-des-charmes"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Paray-le-Monial",
+    "telephone": "+33 3 85 81 99 55",
+    "email": "PS0648@speedy.fr",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/paray-le-monial-71600/648"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Charolles",
+    "telephone": "+33 3 85 24 02 64",
+    "email": "garage.labrosse@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garagerenault-charolles.fr/"
+  },
+  {
+    "nom": "Garage AD Expert Pascault",
+    "ville": "Charolles",
+    "telephone": "+33 3 85 88 05 05",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/garage-ad-expert-pascault"
+  },
+  {
+    "nom": "Garage Bobin",
+    "ville": "Saint-Vallier",
+    "telephone": "+33 3 85 58 89 99",
+    "email": "georges.bobin@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-bobin.com/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Montceau-les-Mines",
+    "telephone": "+33 3 85 57 18 48",
+    "email": "1218@midasfrance.net",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/stores/bourgogne-franche-comte/saone-et-loire/autun/montceau-les-mines_1218"
+  },
+  {
+    "nom": "SA J. SERIEYS et Fils DAF IVECO GATES",
+    "ville": "Paray-le-Monial",
+    "telephone": "+33 3 85 81 56 82",
+    "email": "garage-serieys-paray@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garageserieys.fr/"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Montceau-les-Mines",
+    "telephone": "+33 3 73 55 71 71",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/my-center-s-montceau-les-mines/"
+  },
+  {
+    "nom": "SA J. SERIEYS et Fils VOLVO - IVECO - GATES",
+    "ville": "Dompierre-les-Ormes",
+    "telephone": "+33 3 85 50 25 06",
+    "email": "dompierreserieys@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://garageserieys.fr/"
+  },
+  {
+    "nom": "France pare-brise",
+    "ville": "Paray-le-Monial",
+    "telephone": "+33 3 73 55 12 57",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.franceparebrise.fr/reparation-pare-brise/paray-le-monial"
+  },
+  {
+    "nom": "MP Truck",
+    "ville": "Paray-le-Monial",
+    "telephone": "+33 3 73 55 12 12",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.mptruck.fr/distributeur/reparateur-saane-et-loire-71/jacob-services-reparateur-paray-le-monial-11292"
+  },
+  {
+    "nom": "Seb meca autos",
+    "ville": "Paray-le-Monial",
+    "telephone": "+33 7 69 99 22 91",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://seb-meca-auto.business.site/"
+  },
+  {
+    "nom": "Vaison Sport",
+    "ville": "Torcy",
+    "telephone": "",
+    "email": "contact@vaisonsport.com",
+    "metier": "garage",
+    "site_existant": "https://vaisonsport.com/"
+  },
+  {
+    "nom": "Garage Richy Automobile",
+    "ville": "Lugny",
+    "telephone": "+33 3 85 38 43 16",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-richy-automobiles-lugny-10765.html"
+  },
+  {
+    "nom": "Merle Alain",
+    "ville": "Saint-Bonnet-de-Joux",
+    "telephone": "+33 3 85 25 05 26",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://sarl-merle-alain.business.site"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Chambéry",
+    "telephone": "+33 4 79 85 00 29",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Point S (JGC Pneus)",
+    "ville": "Fourneaux",
+    "telephone": "+33 4 57 40 40 15",
+    "email": "jgc@gmx.fr",
+    "metier": "garage",
+    "site_existant": "http://www.jgc-pneu.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Aix-les-Bains",
+    "telephone": "+33 4 79 34 00 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Rapid Pare-Brise",
+    "ville": "Le Pont-de-Beauvoisin",
+    "telephone": "+33 6 13 77 81 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.rapidparebrise-le-pont-de-beauvoisin.fr/"
+  },
+  {
+    "nom": "Garage MC Motors",
+    "ville": "Aime-la-Plagne",
+    "telephone": "+33 4 79 2265 45",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.garage-courtois-automobiles-savoie.com/"
+  },
+  {
+    "nom": "A+ Glass",
+    "ville": "Saint-Jean-de-Maurienne",
+    "telephone": "+33 4 56 96 34 97",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.aplusglass.com/centre-saint-jean-maurienne-73660"
+  },
+  {
+    "nom": "Garage Bogey",
+    "ville": "Grésy sur Aix",
+    "telephone": "+33 4 79 35 12 22",
+    "email": "contact@garagebogey.fr",
+    "metier": "garage",
+    "site_existant": "https://garagebogey.com/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Chambéry",
+    "telephone": "+33 4 79 85 80 07",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/savoie/chambery/53-bis-rue-de-la-martiniere"
+  },
+  {
+    "nom": "Intertrade",
+    "ville": "Rumilly",
+    "telephone": "+33 9 83 58 13 68",
+    "email": "intertrade@caramail.com",
+    "metier": "garage",
+    "site_existant": "www.intertrade-vsp.com/"
+  },
+  {
+    "nom": "Feu Vert Annemasse",
+    "ville": "Annemasse",
+    "telephone": "+33 4 50 87 09 06",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/annemasse/feu-vert-annemasse-geant/204.html"
+  },
+  {
+    "nom": "Top Garage",
+    "ville": "Annecy",
+    "telephone": "+33 4 50 66 36 25",
+    "email": "jjhautos@sfr.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-IN01222/jjh-autos/details"
+  },
+  {
+    "nom": "Mondial Pare-brise",
+    "ville": "Annemasse",
+    "telephone": "+33 4 50 92 05 36",
+    "email": "annemasse@mondialpare-brise.fr",
+    "metier": "garage",
+    "site_existant": "https://www.mondialparebrise.fr/trouver-mon-centre/mondial-pare-brise-annemasse"
+  },
+  {
+    "nom": "Campervans Montblanc",
+    "ville": "Chamonix-Mont-Blanc",
+    "telephone": "+33 7 87 07 82 29",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.campervans-montblanc.com"
+  },
+  {
+    "nom": "Feu Vert Epagny",
+    "ville": "Épagny Metz-Tessy",
+    "telephone": "+33 4 50 22 57 04",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/epagny/feu-vert-annecy-epagny/66.html"
+  },
+  {
+    "nom": "First Stop",
+    "ville": "Étrembières",
+    "telephone": "+33 4 50 87 25 31",
+    "email": "alphipneux.etrembieres@points.fr",
+    "metier": "garage",
+    "site_existant": "https://pneu74.fr/centre-first-stop-etrembieres-pneu-74"
+  },
+  {
+    "nom": "Carglass",
+    "ville": "Ville-la-Grand",
+    "telephone": "+33 4 20 10 20 19",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.carglass.fr/centre/74100-115914/ville-la-grand"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Annecy",
+    "telephone": "+33 4 50 67 81 66",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "D2R Auto",
+    "ville": "Annemasse",
+    "telephone": "+33 4 50 06 25 01",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.garage-premier.fr/4591-d2r-auto"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Annecy",
+    "telephone": "+33 4 50 51 57 53",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/annecy-cran-gevrier-74960/94"
+  },
+  {
+    "nom": "D-BOSSTECH Carrosserie",
+    "ville": "Annecy",
+    "telephone": "+33 4 50 57 48 38",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.d-bosstech.com/"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Ville-la-Grand",
+    "telephone": "+33 4 50 84 72 59",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.franceparebrise.fr/reparation-pare-brise/ville-la-grand"
+  },
+  {
+    "nom": "Avatacar",
+    "ville": "Annecy",
+    "telephone": "+33 4 50 57 07 98",
+    "email": "contact.garagelaurent@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.laurentgarage.fr/"
+  },
+  {
+    "nom": "Garage Courier",
+    "ville": "Annecy",
+    "telephone": "+33 4 50 57 08 62",
+    "email": "garagecourier@hotmail.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-IN0078/garage-courier/details"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Rumilly",
+    "telephone": "+33 4 26 78 66 03",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/rumilly/feu-vert-rumilly/490.html"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Rumilly",
+    "telephone": "+33 4 50 64 62 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/auvergne-rhone-alpes/rumilly/yajdlih-euromaster-albanais-auto"
+  },
+  {
+    "nom": "Auto+",
+    "ville": "Chênex",
+    "telephone": "+33 6 86 99 60 92",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://autoplus74.fr"
+  },
+  {
+    "nom": "Delko",
+    "ville": "La Balme-de-Sillingy",
+    "telephone": "+33 4 80 48 07 48",
+    "email": "delko.sillingy@delko.fr",
+    "metier": "garage",
+    "site_existant": "https://delko.fr/garage/delko/la-balme-de-sillingy/210"
+  },
+  {
+    "nom": "D-BOSSTECH",
+    "ville": "Seynod",
+    "telephone": "+33 4 50 57 48 38",
+    "email": "carrosserie@d-bosstech.com",
+    "metier": "garage",
+    "site_existant": "http://d-bosstech.com/"
+  },
+  {
+    "nom": "Alp Racing Suspension",
+    "ville": "Annecy",
+    "telephone": "+33 4 50 44 09 85",
+    "email": "info@alp-racing.fr",
+    "metier": "garage",
+    "site_existant": "https://www.alp-racing.fr/"
+  },
+  {
+    "nom": "Garage Réda",
+    "ville": "Annecy",
+    "telephone": "+33 4 76 75 64 31",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reda38.com/"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Sales",
+    "telephone": "+33 4 50 01 83 53",
+    "email": "pointspneu@chavanel.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/chavanel-sas-sales/"
+  },
+  {
+    "nom": "Rénov'auto",
+    "ville": "Meythet",
+    "telephone": "+33 4 50 22 32 32",
+    "email": "contact@renovauto74.fr",
+    "metier": "garage",
+    "site_existant": "https://www.renov-auto.fr/"
+  },
+  {
+    "nom": "Euromaster Annecy Seynod",
+    "ville": "Annecy",
+    "telephone": "+33 4 50 45 99 70",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/auvergne-rhone-alpes/annecy/euromaster-annecy-seynod-vehicules-legers"
+  },
+  {
+    "nom": "Garage des Mémises",
+    "ville": "Thollon-les-Mémises",
+    "telephone": "+33 4 50 70 78 44",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.garagedesmemises.com/"
+  },
+  {
+    "nom": "GT Automobiles",
+    "ville": "Anthy-sur-Léman",
+    "telephone": "+33 4 50 81 60 81",
+    "email": "g-t.automobiles@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://gtautomobiles.fr"
+  },
+  {
+    "nom": "First Stop",
+    "ville": "Anthy-sur-Léman",
+    "telephone": "+33 4 50 17 04 40",
+    "email": "fsfthonon@firststop.fr",
+    "metier": "garage",
+    "site_existant": "https://www.firststop.fr/garage-pneus/garage.html/605.html"
+  },
+  {
+    "nom": "Carrosserie Deville",
+    "ville": "Allinges",
+    "telephone": "+33 4 50 70 56 09",
+    "email": "car.deville@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.carrosserie-deville.fr"
+  },
+  {
+    "nom": "Garage 2S Dépannage",
+    "ville": "Saint-Paul-en-Chablais",
+    "telephone": "+33 4 50 73 18 98",
+    "email": "saintpaulenchablais@rentacar.fr",
+    "metier": "garage",
+    "site_existant": "https://www.rentacar.fr/agences/701-saint-paul-en-chablais"
+  },
+  {
+    "nom": "Garage d'Alex",
+    "ville": "alex",
+    "telephone": "+33 4 50 02 81 67",
+    "email": "garagedalexfred@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-IN0079/garage-dalex/details"
+  },
+  {
+    "nom": "Roady Saint-Julien-en-Genevois",
+    "ville": "Saint-Julien-en-Genevois",
+    "telephone": "+33 4 50 35 60 00",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.roady.fr/centre-automobile/megale"
+  },
+  {
+    "nom": "Carrosserie Robin",
+    "ville": "Ville-la-Grand",
+    "telephone": "+33 7 77 99 62 35",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr/garage/ad-carrosserie-robin---audio-tuning"
+  },
+  {
+    "nom": "Annemasse Pneu VLG",
+    "ville": "Ville-la-Grand",
+    "telephone": "+33 4 50 80 99 25",
+    "email": "vlg.mecanique@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://annemmase-pneus-vlg.business.site/"
+  },
+  {
+    "nom": "Jean Lain Annemasse Carrosserie",
+    "ville": "Ville-la-Grand",
+    "telephone": "+33 4 50 84 08 50",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.jeanlain.com/fr/accueil/tout-l-univers/jean-lain-automobiles/les-sites-jean-lain/enseigne/55311e5f8ce6449435e0919a/jean-lain-annemasse-carrosserie"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Annemasse",
+    "telephone": "+33 4 50 37 64 69",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/annemasse/feu-vert-annemasse-resistance/170.html"
+  },
+  {
+    "nom": "Carrosserie Decroux",
+    "ville": "Ayse",
+    "telephone": "+33 450971034",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://carrosserie-decroux-bonneville.fr/"
+  },
+  {
+    "nom": "Garage du Môle",
+    "ville": "Ayse",
+    "telephone": "+33 457437116",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garagedumole.com/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "La Roche-sur-Foron",
+    "telephone": "+33 4 50 03 10 46",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.euromaster.fr/88-euromaster-la-roche-sur-foron-centre-auto-vl-voiture"
+  },
+  {
+    "nom": "Garage Tim'on - 1,2,3 AutoService",
+    "ville": "Saint-André-de-Boëge",
+    "telephone": "+33 4 50 95 27 23",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.123autoservice.fr/nos-garages/auvergne-rhone-alpes/haute-savoie/saint-andre-de-boege/garage-timon/"
+  },
+  {
+    "nom": "Hydro-Mecalpes",
+    "ville": "Morzine",
+    "telephone": "+33 6 99 19 80 65",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://hydromecalpes.fr/index"
+  },
+  {
+    "nom": "Moëne",
+    "ville": "Gillon",
+    "telephone": "+33 4 50 22 00 86",
+    "email": "contact@pieces-auto-moene.com",
+    "metier": "garage",
+    "site_existant": "https://pieces-auto-moene.com"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Anthy-sur-Léman",
+    "telephone": "+33 4 50 70 62 62",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/haute-savoie/thonon-les-bains/centre-commercial-carrefour"
+  },
+  {
+    "nom": "Degenève Toyota Occasion",
+    "ville": "Cranves-Sales",
+    "telephone": "+33450393523",
+    "email": "infoannemasse@degeneve.fr",
+    "metier": "garage",
+    "site_existant": "https://www.degeneve.fr/concessions"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Gaillard",
+    "telephone": "+33 4 50 87 24 10",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://centres-auto.speedy.fr/garage/ambilly-74100/801"
+  },
+  {
+    "nom": "Pro 4x4",
+    "ville": "Saint-André-de-Boëge",
+    "telephone": "+33 4 50 39 53 42",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.pro4x4-74.com/"
+  },
+  {
+    "nom": "Carrosserie Durand",
+    "ville": "Sciez",
+    "telephone": "+33 4 50 72 61 53",
+    "email": "carrosserie@durand74.com",
+    "metier": "garage",
+    "site_existant": "https://carrosseriedurand74.com/"
+  },
+  {
+    "nom": "Claude Vinet",
+    "ville": "Loisin",
+    "telephone": "+33 4 50 94 28 14",
+    "email": "garagevinetloisin@gmail.com",
+    "metier": "garage",
+    "site_existant": "http://garagevinetloisin.e-monsite.com/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Publier",
+    "telephone": "+33 4 50 16 04 81",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/amphion-les-bains/feu-vert-amphion-les-bains/467.html"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Anthy-sur-Léman",
+    "telephone": "+33 4 50 70 00 71",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/amphion-les-bains/feu-vert-thonon/53.html"
+  },
+  {
+    "nom": "Garage Lansard",
+    "ville": "Hauteville-sur-Fier",
+    "telephone": "+33 4 50 60 51 58",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garagelansard.wixsite.com/website"
+  },
+  {
+    "nom": "Motrio",
+    "ville": "Sillingy",
+    "telephone": "+33 4 50 68 79 96",
+    "email": "sillingy.auto@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://www.motrio.fr/garage-reparateur/sillingy-auto-4930"
+  },
+  {
+    "nom": "Renault Minute",
+    "ville": "Bonsecours",
+    "telephone": "+33 2 35 79 25 26",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr/"
+  },
+  {
+    "nom": "Garage des 4 mares",
+    "ville": "Sotteville-lès-Rouen",
+    "telephone": "+33 9 70 35 69 97",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-des-4-mares.com/"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Le Havre",
+    "telephone": "+33 2 35 42 12 73",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/le-havre-76600/66"
+  },
+  {
+    "nom": "Rouelles Auto services",
+    "ville": "Le Havre",
+    "telephone": "+33 2 35 47 11 99",
+    "email": "alexandre@rouelles-auto-services.fr",
+    "metier": "garage",
+    "site_existant": "https://www.rouelles-auto-services.fr/wp-content/uploads/2020/01/accue2l_1000.jpg"
+  },
+  {
+    "nom": "Carrosserie Pezé",
+    "ville": "Le Havre",
+    "telephone": "+33 2 35 54 55 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://carrosserie-peze.fr/"
+  },
+  {
+    "nom": "Feu Vert Saint-Leonard",
+    "ville": "Saint-Léonard",
+    "telephone": "+33 2 35 10 29 30",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/saint-leonard/feu-vert-fecamp/263.html"
+  },
+  {
+    "nom": "Garage du Gros Chêne",
+    "ville": "Isneauville",
+    "telephone": "+33 2 35 60 48 03",
+    "email": "garage.dugroschene@free.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-du-gros-chene-isneauville.fr/"
+  },
+  {
+    "nom": "BestDrive",
+    "ville": "Saint-Étienne-du-Rouvray",
+    "telephone": "+33 2 35 65 34 13",
+    "email": "saintetienne@bestdrive.fr",
+    "metier": "garage",
+    "site_existant": "https://bestdrive.fr/"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Le Grand-Quevilly",
+    "telephone": "+33 2 35 69 28 83",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/seine-maritime/le-grand-quevilly/c-commercial-du-bois-cany"
+  },
+  {
+    "nom": "Garage de l'Abbaye",
+    "ville": "Jumièges",
+    "telephone": "+33 2 35 37 24 13",
+    "email": "emmanuel.delafenestre@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.allogarage.fr/garages/details-garage-GARAGE-DE-L-ABBAYE-2331.html"
+  },
+  {
+    "nom": "Garage Blaise",
+    "ville": "Darnétal",
+    "telephone": "+33 2 35 08 51 27",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.boschcarservice.com"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Gruchet-le-Valasse",
+    "telephone": "+33 2 32 75 63 45",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Dieppe",
+    "telephone": "+33 2 35 84 04 24",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/"
+  },
+  {
+    "nom": "Bruno Place",
+    "ville": "Quincampoix",
+    "telephone": "+33 2 35 89 32 40",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.ad.fr"
+  },
+  {
+    "nom": "Speedy",
+    "ville": "Saint-Aubin-Celloville",
+    "telephone": "+33 2 35 02 44 07",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres-auto.speedy.fr/garage/franqueville-saint-pierre-76520/571"
+  },
+  {
+    "nom": "Peugeot",
+    "ville": "Saint-Romain-de-Colbosc",
+    "telephone": "+33 2 35 20 52 55",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/saint-romain-de-colbosc"
+  },
+  {
+    "nom": "Bkz Autos",
+    "ville": "Saint-Romain-de-Colbosc",
+    "telephone": "+33 2 27 15 20 42",
+    "email": "patrice.bkz@outlook.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-099399/bkz-auto/details"
+  },
+  {
+    "nom": "Top Garage Barbès",
+    "ville": "Le Havre",
+    "telephone": "+33 2 35 51 43 22",
+    "email": "garage.barbes@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://garage.top-garage.fr/fr/france-FR/CUST-070294/garage-barbes/details"
+  },
+  {
+    "nom": "Garage Bailly",
+    "ville": "Petit-Couronne",
+    "telephone": "+33 2 35 68 14 03",
+    "email": "garage.bailly@hotmail.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/bailly-petit-couronne/"
+  },
+  {
+    "nom": "Garage Citroën du Beau Lieu",
+    "ville": "Serqueux",
+    "telephone": "+33 2 35 90 76 11",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-le-fosse"
+  },
+  {
+    "nom": "Garage Des Sports",
+    "ville": "Forges-les-Eaux",
+    "telephone": "+33 2 35 90 51 27",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.eurorepar.fr/garage-sarl-des-sports-forges-les-eaux-3857.html"
+  },
+  {
+    "nom": "Quesnel Auto",
+    "ville": "Bolbec",
+    "telephone": "+33 2 35 31 07 11",
+    "email": "quesnel.auto@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/bolbec/"
+  },
+  {
+    "nom": "Garage Marre",
+    "ville": "Écrainville",
+    "telephone": "+33 2 35 27 71 55",
+    "email": "garage.marre@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garage-marre.lany.io/"
+  },
+  {
+    "nom": "Garage Lebarq",
+    "ville": "Gonneville-la-Mallet",
+    "telephone": "+33 2 35 20 76 45",
+    "email": "j-marie.gge.lebarq@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-lebarq-seine-maritime.fr/"
+  },
+  {
+    "nom": "Renault",
+    "ville": "Rouen",
+    "telephone": "+33 2 32 10 41 41",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.renault.fr/"
+  },
+  {
+    "nom": "Griff Automobiles",
+    "ville": "Sotteville-lès-Rouen",
+    "telephone": "+33 2 35 72 37 55",
+    "email": "griff.auto@griffauto.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/sotteville-les-rouen/"
+  },
+  {
+    "nom": "Garage de Bapeaume",
+    "ville": "Bois-Guillaume",
+    "telephone": "+33 2 35 59 69 09",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-bois-guillaume"
+  },
+  {
+    "nom": "Garage Saint-André",
+    "ville": "Mont-Saint-Aignan",
+    "telephone": "+33 2 35 71 40 50",
+    "email": "garagesaintandre@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://garagesaintandre.fr/"
+  },
+  {
+    "nom": "RPM Garage",
+    "ville": "Fontaine-la-Mallet",
+    "telephone": "+33 6 11 63 74 61",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://rpm76.com/"
+  },
+  {
+    "nom": "Hautot et fils",
+    "ville": "Yvetot",
+    "telephone": "",
+    "email": "a.hautot@hautotetfils.fr",
+    "metier": "garage",
+    "site_existant": "https://www.hautot.fr/"
+  },
+  {
+    "nom": "A Plus Glass",
+    "ville": "Yvetot",
+    "telephone": "",
+    "email": "yvetot@aplusglass.com",
+    "metier": "garage",
+    "site_existant": "https://www.aplusglass.com/"
+  },
+  {
+    "nom": "Garage Fleury Agent Peugeot",
+    "ville": "Gonfreville-l'Orcher",
+    "telephone": "+33 2 35 20 41 43",
+    "email": "gge-fleury-gonfreville@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/gonfreville-orcher/"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Gonfreville-l'Orcher",
+    "telephone": "+33 2 35494499",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/gonfreville-l-orcher/feu-vert-gonfreville/174.html"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Dieppe",
+    "telephone": "+33 2 35 84 00 59",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/seine-maritime/dieppe/208-centre-commercial-du"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Barentin",
+    "telephone": "+33 2 35 92 26 20",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/seine-maritime/barentin/centre-commercial-mesnil-roux"
+  },
+  {
+    "nom": "Norauto",
+    "ville": "Le Havre",
+    "telephone": "+33 2 35 54 69 69",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centres.norauto.fr/seine-maritime/le-havre/91-avenue-du-grand-hameau"
+  },
+  {
+    "nom": "Feu Vert",
+    "ville": "Barentin",
+    "telephone": "+33 2 35918120",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/barentin/feu-vert-barentin/311.html"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Saint Martin de l'If",
+    "telephone": "+33 2 35 91 27 58",
+    "email": "garage.romaintanguy@gmail.com",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/reparateur-freville"
+  },
+  {
+    "nom": "Citroën",
+    "ville": "Sotteville-lès-Rouen",
+    "telephone": "+33 2 35 03 09 10",
+    "email": "garage.lavenue@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://www.garage-avenue.fr/"
+  },
+  {
+    "nom": "Renault (Garage Leroux)",
+    "ville": "Saint-Romain-de-Colbosc",
+    "telephone": "+33 2 35 20 50 42",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://garagelerouxsarl.fr"
+  },
+  {
+    "nom": "Ragues",
+    "ville": "Le Petit-Quevilly",
+    "telephone": "+33 2 35 630 630",
+    "email": "froussin@ragues.fr",
+    "metier": "garage",
+    "site_existant": "https://www.ragues.fr/"
+  },
+  {
+    "nom": "DDS Automobiles",
+    "ville": "Montville",
+    "telephone": "+33232820998",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://dds-automobiles.fr/"
+  },
+  {
+    "nom": "Garage Niel",
+    "ville": "Yainville",
+    "telephone": "+33 2 35 37 91 92",
+    "email": "garage.niel@wanadoo.fr",
+    "metier": "garage",
+    "site_existant": "https://agents.peugeot.fr/yainville"
+  },
+  {
+    "nom": "Garage Fenestre",
+    "ville": "Le Havre",
+    "telephone": "+33 2 35 46 03 70",
+    "email": "accueil@garagefenestre.fr",
+    "metier": "garage",
+    "site_existant": "https://garagefenestre.fr/"
+  },
+  {
+    "nom": "Feu Vert Boves",
+    "ville": "Glisy",
+    "telephone": "+33 3 22 49 61 27",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.feuvert.fr/centres-auto/boves/feu-vert-amiens/177.html?setcenter=177"
+  },
+  {
+    "nom": "Ford - Leroux Automobiles",
+    "ville": "Rivery",
+    "telephone": "+33 3 22 70 23 23",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.courtoise-auto.com/"
+  },
+  {
+    "nom": "France Pare-Brise",
+    "ville": "Rivery",
+    "telephone": "+33 3 22 52 22 52",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://centre.franceparebrise.fr/reparation-pare-brise/hauts-de-france/somme/rivery/amiens-rivery"
+  },
+  {
+    "nom": "Saint-Frères Automobiles",
+    "ville": "Flixecourt",
+    "telephone": "+33 3 22 39 43 43",
+    "email": "v.g.autos@orange.fr",
+    "metier": "garage",
+    "site_existant": "https://concessions.peugeot.fr/flixecourt"
+  },
+  {
+    "nom": "Euromaster Véhicules Industriels",
+    "ville": "Amiens",
+    "telephone": "+33 322675580",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/hauts-de-france/amiens/euromaster-amiens-vehicules-industriels"
+  },
+  {
+    "nom": "First Stop",
+    "ville": "Amiens",
+    "telephone": "+33 322447374",
+    "email": "fsfamiens@firststop.fr",
+    "metier": "garage",
+    "site_existant": "https://www.firststop.fr/garage-pneus/garage.html/550.html"
+  },
+  {
+    "nom": "Garage Porquet",
+    "ville": "Rivery",
+    "telephone": "+33322919250",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://agents.peugeot.fr/porquet-rivery"
+  },
+  {
+    "nom": "Garage Sergent",
+    "ville": "Poix-de-Picardie",
+    "telephone": "+33 3 22 90 00 35",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.garage-poix.fr/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Péronne",
+    "telephone": "+33 3 22 84 72 60",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/somme/peronne/peronne_1536"
+  },
+  {
+    "nom": "Eco Pneus",
+    "ville": "Amiens",
+    "telephone": "+33 322437309",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.eco-pneus-amiens.fr/"
+  },
+  {
+    "nom": "SOS Pare-Brise",
+    "ville": "Longueau",
+    "telephone": "+33 3 75 50 29 56",
+    "email": "longueau@sosparebriseplus.fr",
+    "metier": "garage",
+    "site_existant": "https://www.sosparebriseplus.fr/longueau/"
+  },
+  {
+    "nom": "AMB Automobile",
+    "ville": "Rivery",
+    "telephone": "+33 9 83 05 65 75",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.amb-automobile.fr/"
+  },
+  {
+    "nom": "Auto Services 80",
+    "ville": "Rivery",
+    "telephone": "+33 3 22 72 48 78",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://reseau.precisium.fr/88-auto-services-80"
+  },
+  {
+    "nom": "Citroën Psa Retail Amiens",
+    "ville": "Amiens",
+    "telephone": "+33 3 22 53 44 40",
+    "email": "accueil@amiens.citroen.fr",
+    "metier": "garage",
+    "site_existant": "https://reseau.citroen.fr/amiens"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Albert",
+    "telephone": "+33 3 22 32 03 57",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.midas.fr/centres-auto-midas/hauts-de-france/somme/peronne/albert_1600"
+  },
+  {
+    "nom": "Auto Distribution AD81",
+    "ville": "Albi",
+    "telephone": "+33 5 63 77 30 77",
+    "email": "j-collado@autodistribution.com",
+    "metier": "garage",
+    "site_existant": "https://www.autodistribution.fr"
+  },
+  {
+    "nom": "Point S",
+    "ville": "Lescure-d'Albigeois",
+    "telephone": "+33 5 63 60 08 88",
+    "email": "vidalauto@points.fr",
+    "metier": "garage",
+    "site_existant": "https://www.points.fr/centre/vidal-albi-auto-lescure-dalbigeois/"
+  },
+  {
+    "nom": "Toyota - Espace Auto - Albi",
+    "ville": "Lescure d'Abigeois",
+    "telephone": "+33 5 63 49 94 20",
+    "email": "atelier.albi@toyota-tarn.com",
+    "metier": "garage",
+    "site_existant": "https://toyota-albi.maurelauto.fr/"
+  },
+  {
+    "nom": "123 Pare-Brise Albi",
+    "ville": "Lescure-d'Albigeois",
+    "telephone": "+33 5 32 00 20 80",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.123parebrise.fr/centre-albi/"
+  },
+  {
+    "nom": "Midas",
+    "ville": "Albi",
+    "telephone": "+33 5 19 08 25 80",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "http://www.midas.fr/centres-auto-midas/occitanie/tarn/albi/albi_1676"
+  },
+  {
+    "nom": "Gaillac Auto Services",
+    "ville": "Gaillac",
+    "telephone": "+33 5 63 57 13 45",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.facebook.com/people/Gaillac-Auto-Services/100057410621297/"
+  },
+  {
+    "nom": "Euromaster",
+    "ville": "Castres",
+    "telephone": "+33 5 63 59 33 83",
+    "email": "",
+    "metier": "garage",
+    "site_existant": "https://www.euromaster.fr/centres/occitanie/castres/yvtqgjk-taquipneu-castres-route-de-toulouse"
   }
 ]
