@@ -83,6 +83,7 @@ def generer_html_relance(prospect: dict, slug: str) -> str:
         "{{ARTISAN_NOM}}": prospect["nom"],
         "{{ARTISAN_NOM_URL}}": nom_url,
         "{{URL_MAQUETTE}}": f"{GITHUB_PAGES_BASE_URL}/{slug}.html",
+        "{{URL_CONTACT}}": f"{GITHUB_PAGES_BASE_URL}/{slug}-contact.html",
         "{{EMAIL_CONTACT}}": email_contact,
         "{{LIEN_DESINSCRIPTION}}": f"mailto:{email_contact}?subject=Desinscription",
         "{{COULEUR_PRIMAIRE}}": prospect.get("couleur_primaire", palette["primaire"]),
@@ -154,14 +155,14 @@ def main():
 
             if args.relance:
                 html = generer_html_relance(prospect, slug)
-                sujet = f"{prospect['nom']} — petit rappel sur votre maquette"
+                sujet = f"{prospect['nom']}, le lien de votre site (toujours dispo)"
             else:
                 chemin_email = OUTPUT_DIR / f"{slug}-email.html"
                 if not chemin_email.exists():
                     print(f"  SKIP {prospect['nom']} — {chemin_email.name} introuvable, lance generer_maquettes.py d'abord")
                     continue
                 html = chemin_email.read_text(encoding="utf-8")
-                sujet = f"{prospect['nom']} — voici à quoi pourrait ressembler votre site"
+                sujet = f"{prospect['nom']}, vos clients de {prospect['ville']} vous cherchent déjà"
 
             try:
                 envoyer_un_email(smtp, adresse, mdp_app, destinataire, sujet, html)

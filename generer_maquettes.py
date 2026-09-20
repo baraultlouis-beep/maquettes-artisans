@@ -32,10 +32,16 @@ OUTPUT_DIR = BASE_DIR
 # template est créé (électricien, couvreur, paysagiste, menuisier...).
 TEMPLATE_SITE = "artisan-template.html"
 TEMPLATE_EMAIL = "email_prospection.html"
+TEMPLATE_CONTACT = "contact-page.html"
+
+# À créer sur formspree.io (gratuit) : un formulaire = une URL comme
+# https://formspree.io/f/xxxxxxxx à coller ici. Chaque soumission t'envoie
+# un email avec le numéro de téléphone laissé par le prospect.
+FORMSPREE_URL = "https://formspree.io/f/xjykglvj"
 
 # À adapter une fois le dépôt GitHub Pages créé, ex :
 # "https://tonpseudo.github.io/maquettes-artisans"
-GITHUB_PAGES_BASE_URL = "https://baraultlouis-beep.github.io/maquettes-artisans"
+GITHUB_PAGES_BASE_URL = "https://TON-PSEUDO.github.io/maquettes-artisans"
 
 EMAIL_CONTACT_DEFAUT = "baraultlouis@gmail.com"
 LIEN_DESINSCRIPTION_DEFAUT = f"mailto:{EMAIL_CONTACT_DEFAUT}?subject=Desinscription"
@@ -311,6 +317,26 @@ def generer_maquette(prospect: dict) -> str:
     return html
 
 
+def generer_page_contact(prospect: dict) -> str:
+    metier = prospect.get("metier", "plombier")
+    config_metier = METIERS.get(metier, METIERS["plombier"])
+    palette = config_metier["palette"]
+
+    remplacements = {
+        "{{ARTISAN_NOM}}": prospect["nom"],
+        "{{VILLE}}": prospect["ville"],
+        "{{METIER}}": config_metier["titre"].lower(),
+        "{{COULEUR_PRIMAIRE}}": prospect.get("couleur_primaire", palette["primaire"]),
+        "{{COULEUR_ACCENT}}": prospect.get("couleur_accent", palette["accent"]),
+        "{{COULEUR_ACCENT_CLAIRE}}": prospect.get("couleur_accent_claire", palette["accent_claire"]),
+        "{{FORMSPREE_URL}}": FORMSPREE_URL,
+    }
+    html = (TEMPLATES_DIR / TEMPLATE_CONTACT).read_text(encoding="utf-8")
+    for variable, valeur in remplacements.items():
+        html = html.replace(variable, valeur)
+    return html
+
+
 def generer_email(prospect: dict, slug: str) -> str:
     prospect = valeurs_par_defaut(prospect)
     metier = prospect.get("metier", "plombier")
@@ -323,6 +349,7 @@ def generer_email(prospect: dict, slug: str) -> str:
     couleur_accent_claire = prospect.get("couleur_accent_claire", palette_defaut["accent_claire"])
 
     url_maquette = f"{GITHUB_PAGES_BASE_URL}/{slug}.html"
+    url_contact = f"{GITHUB_PAGES_BASE_URL}/{slug}-contact.html"
     nom_url = prospect["nom"].replace(" ", "%20")
     email_contact = prospect.get("email_contact", EMAIL_CONTACT_DEFAUT)
 
@@ -335,6 +362,7 @@ def generer_email(prospect: dict, slug: str) -> str:
         "{{TELEPHONE}}": prospect["telephone"],
         "{{ACCROCHE_PERSO}}": prospect["accroche_perso"],
         "{{URL_MAQUETTE}}": url_maquette,
+        "{{URL_CONTACT}}": url_contact,
         "{{EMAIL_CONTACT}}": email_contact,
         "{{PRENOM_CONTACT}}": prospect.get("prenom_contact", "Louis"),
         "{{LIEN_DESINSCRIPTION}}": f"mailto:{email_contact}?subject=Desinscription",
@@ -368,10 +396,13 @@ def main():
         html_site = generer_maquette(prospect)
         (OUTPUT_DIR / f"{slug}.html").write_text(html_site, encoding="utf-8")
 
+        html_contact = generer_page_contact(prospect)
+        (OUTPUT_DIR / f"{slug}-contact.html").write_text(html_contact, encoding="utf-8")
+
         html_email = generer_email(prospect, slug)
         (OUTPUT_DIR / f"{slug}-email.html").write_text(html_email, encoding="utf-8")
 
-        print(f"OK — {prospect['nom']} -> {slug}.html + {slug}-email.html")
+        print(f"OK — {prospect['nom']} -> {slug}.html + {slug}-contact.html + {slug}-email.html")
 
     print(f"\n{len(prospects)} maquette(s) + email(s) généré(s) dans {OUTPUT_DIR}/")
     print("Coût total : 0 € (aucun appel API)")
