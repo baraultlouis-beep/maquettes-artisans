@@ -1,23 +1,23 @@
 {
   "plomberie.aaz@gmail.com": {
     "date": "2026-09-17",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "entreprise.villanneau@orange.fr": {
     "date": "2026-09-17",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "cspc@live.fr": {
     "date": "2026-09-17",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "jeanmichel.mudet@wanadoo.fr": {
     "date": "2026-09-17",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "cousin.benoit67@gmail.com": {
     "date": "2026-09-17",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "g-herbreteau@orange.fr": {
     "date": "2026-09-18",
@@ -57,6 +57,26 @@
   },
   "georges-plomberie@orange.fr": {
     "date": "2026-09-21",
+    "relance_envoyee": false
+  },
+  "contact@mj-plomberie-chauffage.fr": {
+    "date": "2026-09-22",
+    "relance_envoyee": false
+  },
+  "senetairefp@gmail.com": {
+    "date": "2026-09-22",
+    "relance_envoyee": false
+  },
+  "vincent.cornu2@yahoo.fr": {
+    "date": "2026-09-22",
+    "relance_envoyee": false
+  },
+  "hilaire.freres@gmail.com": {
+    "date": "2026-09-22",
+    "relance_envoyee": false
+  },
+  "nordinemeddour@orange.fr": {
+    "date": "2026-09-22",
     "relance_envoyee": false
   }
 }
