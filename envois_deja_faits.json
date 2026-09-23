@@ -21,23 +21,23 @@
   },
   "g-herbreteau@orange.fr": {
     "date": "2026-09-18",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "maindron.freres-sarl@orange.fr": {
     "date": "2026-09-18",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "maximeroblin@sfr.fr": {
     "date": "2026-09-18",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "berthon.oleron@gmail.com": {
     "date": "2026-09-18",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "agplomberie17@gmail.com": {
     "date": "2026-09-18",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "cr.plomberie@sfr.fr": {
     "date": "2026-09-21",
@@ -77,6 +77,26 @@
   },
   "nordinemeddour@orange.fr": {
     "date": "2026-09-22",
+    "relance_envoyee": false
+  },
+  "carrosserie.henault@wanadoo.fr": {
+    "date": "2026-09-23",
+    "relance_envoyee": false
+  },
+  "garagedustade07@orange.fr": {
+    "date": "2026-09-23",
+    "relance_envoyee": false
+  },
+  "garage.riffard0147@orange.fr": {
+    "date": "2026-09-23",
+    "relance_envoyee": false
+  },
+  "garagearnaudauto@gmail.com": {
+    "date": "2026-09-23",
+    "relance_envoyee": false
+  },
+  "contact@meca-cornus.fr": {
+    "date": "2026-09-23",
     "relance_envoyee": false
   }
 }
