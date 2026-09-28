@@ -41,23 +41,23 @@
   },
   "cr.plomberie@sfr.fr": {
     "date": "2026-09-21",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "sarl.paquereau@orange.fr": {
     "date": "2026-09-21",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "frederic.plisson@hotmail.fr": {
     "date": "2026-09-21",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "spc17plomberie@gmail.com": {
     "date": "2026-09-21",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "georges-plomberie@orange.fr": {
     "date": "2026-09-21",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "contact@mj-plomberie-chauffage.fr": {
     "date": "2026-09-22",
@@ -137,6 +137,26 @@
   },
   "abs.automobiles18@gmail.com": {
     "date": "2026-09-25",
+    "relance_envoyee": false
+  },
+  "audi18@orange.fr": {
+    "date": "2026-09-28",
+    "relance_envoyee": false
+  },
+  "sarl.garage.martin@orange.fr": {
+    "date": "2026-09-28",
+    "relance_envoyee": false
+  },
+  "sebastienlabe@orange.fr": {
+    "date": "2026-09-28",
+    "relance_envoyee": false
+  },
+  "jeysgarage@outlook.fr": {
+    "date": "2026-09-28",
+    "relance_envoyee": false
+  },
+  "sobry.yohan@orange.fr": {
+    "date": "2026-09-28",
     "relance_envoyee": false
   }
 }
