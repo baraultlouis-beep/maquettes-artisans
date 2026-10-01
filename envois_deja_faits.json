@@ -101,23 +101,23 @@
   },
   "garagecelony@hotmail.fr": {
     "date": "2026-09-24",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "jack.davies@hotmail.fr": {
     "date": "2026-09-24",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "provence-diesel@wanadoo.fr": {
     "date": "2026-09-24",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "carrosserie.rsetfreres@orange.fr": {
     "date": "2026-09-24",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "e.fabienauto@gmail.com": {
     "date": "2026-09-24",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "eric.delcid.ed@gmail.com": {
     "date": "2026-09-25",
@@ -197,6 +197,26 @@
   },
   "garage.msauto@hotmail.com": {
     "date": "2026-09-30",
+    "relance_envoyee": false
+  },
+  "fondeyre@serignac.fr": {
+    "date": "2026-10-01",
+    "relance_envoyee": false
+  },
+  "borrull.loic31@gmail.com": {
+    "date": "2026-10-01",
+    "relance_envoyee": false
+  },
+  "atelierdeana@gmail.com": {
+    "date": "2026-10-01",
+    "relance_envoyee": false
+  },
+  "contact@garagelacassagne.fr": {
+    "date": "2026-10-01",
+    "relance_envoyee": false
+  },
+  "contact@legaragelunel.fr": {
+    "date": "2026-10-01",
     "relance_envoyee": false
   }
 }
