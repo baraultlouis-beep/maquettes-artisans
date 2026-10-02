@@ -121,23 +121,23 @@
   },
   "eric.delcid.ed@gmail.com": {
     "date": "2026-09-25",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "amano.carrosserie@gmail.com": {
     "date": "2026-09-25",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "velaux-automobiles@live.fr": {
     "date": "2026-09-25",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "garage@fitzailoauto.fr": {
     "date": "2026-09-25",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "abs.automobiles18@gmail.com": {
     "date": "2026-09-25",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "audi18@orange.fr": {
     "date": "2026-09-28",
@@ -217,6 +217,26 @@
   },
   "contact@legaragelunel.fr": {
     "date": "2026-10-01",
+    "relance_envoyee": false
+  },
+  "jadauto@bbox.fr": {
+    "date": "2026-10-02",
+    "relance_envoyee": false
+  },
+  "bm.automobiles.teyran@orange.fr": {
+    "date": "2026-10-02",
+    "relance_envoyee": false
+  },
+  "espaceautomagalas@gmail.com": {
+    "date": "2026-10-02",
+    "relance_envoyee": false
+  },
+  "garageboisnard@wanadoo.fr": {
+    "date": "2026-10-02",
+    "relance_envoyee": false
+  },
+  "carr.claude.moisy@wanadoo.fr": {
+    "date": "2026-10-02",
     "relance_envoyee": false
   }
 }
