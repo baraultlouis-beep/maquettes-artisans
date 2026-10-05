@@ -141,23 +141,23 @@
   },
   "audi18@orange.fr": {
     "date": "2026-09-28",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "sarl.garage.martin@orange.fr": {
     "date": "2026-09-28",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "sebastienlabe@orange.fr": {
     "date": "2026-09-28",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "jeysgarage@outlook.fr": {
     "date": "2026-09-28",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "sobry.yohan@orange.fr": {
     "date": "2026-09-28",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "renaultagencemagnan@gmail.com": {
     "date": "2026-09-29",
@@ -237,6 +237,26 @@
   },
   "carr.claude.moisy@wanadoo.fr": {
     "date": "2026-10-02",
+    "relance_envoyee": false
+  },
+  "contact@abs-garage.fr": {
+    "date": "2026-10-05",
+    "relance_envoyee": false
+  },
+  "garage.millet@hotmail.fr": {
+    "date": "2026-10-05",
+    "relance_envoyee": false
+  },
+  "garagevalmeca@wanadoo.fr": {
+    "date": "2026-10-05",
+    "relance_envoyee": false
+  },
+  "contact@carrosseriegondolff.fr": {
+    "date": "2026-10-05",
+    "relance_envoyee": false
+  },
+  "ggedesonis@gmail.com": {
+    "date": "2026-10-05",
     "relance_envoyee": false
   }
 }
