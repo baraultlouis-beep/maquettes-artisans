@@ -161,23 +161,23 @@
   },
   "renaultagencemagnan@gmail.com": {
     "date": "2026-09-29",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "speedone.automobile@gmail.com": {
     "date": "2026-09-29",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "jpautos28@outlook.fr": {
     "date": "2026-09-29",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "carrosserie.rt.design@gmail.com": {
     "date": "2026-09-29",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "garage.lecloarec@orange.fr": {
     "date": "2026-09-29",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "garage-fjc@orange.fr": {
     "date": "2026-09-30",
@@ -257,6 +257,26 @@
   },
   "ggedesonis@gmail.com": {
     "date": "2026-10-05",
+    "relance_envoyee": false
+  },
+  "mcps@wanadoo.fr": {
+    "date": "2026-10-06",
+    "relance_envoyee": false
+  },
+  "garage.dailler49140@orange.fr": {
+    "date": "2026-10-06",
+    "relance_envoyee": false
+  },
+  "aspire@aspiresaumur.fr": {
+    "date": "2026-10-06",
+    "relance_envoyee": false
+  },
+  "garage.vuiart@orange.fr": {
+    "date": "2026-10-06",
+    "relance_envoyee": false
+  },
+  "Carrosseriebrt@gmail.com": {
+    "date": "2026-10-06",
     "relance_envoyee": false
   }
 }
