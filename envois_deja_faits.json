@@ -181,23 +181,23 @@
   },
   "garage-fjc@orange.fr": {
     "date": "2026-09-30",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "gilbert.brigant@wanadoo.fr": {
     "date": "2026-09-30",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "o-mourier@wanadoo.fr": {
     "date": "2026-09-30",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "centre.auto.laurent@orange.fr": {
     "date": "2026-09-30",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "garage.msauto@hotmail.com": {
     "date": "2026-09-30",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "fondeyre@serignac.fr": {
     "date": "2026-10-01",
@@ -277,6 +277,26 @@
   },
   "Carrosseriebrt@gmail.com": {
     "date": "2026-10-06",
+    "relance_envoyee": false
+  },
+  "Technic-autos51@orange.fr": {
+    "date": "2026-10-07",
+    "relance_envoyee": false
+  },
+  "sebautos@outlook.fr": {
+    "date": "2026-10-07",
+    "relance_envoyee": false
+  },
+  "garage.thibaud60@gmail.com": {
+    "date": "2026-10-07",
+    "relance_envoyee": false
+  },
+  "contact@jacob71.fr": {
+    "date": "2026-10-07",
+    "relance_envoyee": false
+  },
+  "contact@debosselage-voiture.com": {
+    "date": "2026-10-07",
     "relance_envoyee": false
   }
 }
