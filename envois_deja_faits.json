@@ -201,23 +201,23 @@
   },
   "fondeyre@serignac.fr": {
     "date": "2026-10-01",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "borrull.loic31@gmail.com": {
     "date": "2026-10-01",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "atelierdeana@gmail.com": {
     "date": "2026-10-01",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "contact@garagelacassagne.fr": {
     "date": "2026-10-01",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "contact@legaragelunel.fr": {
     "date": "2026-10-01",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "jadauto@bbox.fr": {
     "date": "2026-10-02",
@@ -297,6 +297,26 @@
   },
   "contact@debosselage-voiture.com": {
     "date": "2026-10-07",
+    "relance_envoyee": false
+  },
+  "margueron.frederic@free.fr": {
+    "date": "2026-10-08",
+    "relance_envoyee": false
+  },
+  "bkauto73220@gmail.com": {
+    "date": "2026-10-08",
+    "relance_envoyee": false
+  },
+  "dpmautos@gmail.com": {
+    "date": "2026-10-08",
+    "relance_envoyee": false
+  },
+  "contact@renovcar-thones.fr": {
+    "date": "2026-10-08",
+    "relance_envoyee": false
+  },
+  "vidal74160@gmail.com": {
+    "date": "2026-10-08",
     "relance_envoyee": false
   }
 }
