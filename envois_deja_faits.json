@@ -221,23 +221,23 @@
   },
   "jadauto@bbox.fr": {
     "date": "2026-10-02",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "bm.automobiles.teyran@orange.fr": {
     "date": "2026-10-02",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "espaceautomagalas@gmail.com": {
     "date": "2026-10-02",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "garageboisnard@wanadoo.fr": {
     "date": "2026-10-02",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "carr.claude.moisy@wanadoo.fr": {
     "date": "2026-10-02",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "contact@abs-garage.fr": {
     "date": "2026-10-05",
@@ -317,6 +317,26 @@
   },
   "vidal74160@gmail.com": {
     "date": "2026-10-08",
+    "relance_envoyee": false
+  },
+  "rabah.nassib@sfr.fr": {
+    "date": "2026-10-09",
+    "relance_envoyee": false
+  },
+  "sbautomobiles@orange.fr": {
+    "date": "2026-10-09",
+    "relance_envoyee": false
+  },
+  "liebautoleman@gmail.com": {
+    "date": "2026-10-09",
+    "relance_envoyee": false
+  },
+  "dsm-auto-74@orange.fr": {
+    "date": "2026-10-09",
+    "relance_envoyee": false
+  },
+  "vt-carrosserie@orange.fr": {
+    "date": "2026-10-09",
     "relance_envoyee": false
   }
 }
