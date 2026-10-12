@@ -241,23 +241,23 @@
   },
   "contact@abs-garage.fr": {
     "date": "2026-10-05",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "garage.millet@hotmail.fr": {
     "date": "2026-10-05",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "garagevalmeca@wanadoo.fr": {
     "date": "2026-10-05",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "contact@carrosseriegondolff.fr": {
     "date": "2026-10-05",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "ggedesonis@gmail.com": {
     "date": "2026-10-05",
-    "relance_envoyee": false
+    "relance_envoyee": true
   },
   "mcps@wanadoo.fr": {
     "date": "2026-10-06",
@@ -337,6 +337,26 @@
   },
   "vt-carrosserie@orange.fr": {
     "date": "2026-10-09",
+    "relance_envoyee": false
+  },
+  "sav.lehavre@toys-motors.fr": {
+    "date": "2026-10-12",
+    "relance_envoyee": false
+  },
+  "luniversdupneu@orange.fr": {
+    "date": "2026-10-12",
+    "relance_envoyee": false
+  },
+  "auto-prestige@orange.fr": {
+    "date": "2026-10-12",
+    "relance_envoyee": false
+  },
+  "jimmygaragedubac@gmail.com": {
+    "date": "2026-10-12",
+    "relance_envoyee": false
+  },
+  "contact@saslibservice.com": {
+    "date": "2026-10-12",
     "relance_envoyee": false
   }
 }
