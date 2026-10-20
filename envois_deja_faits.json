@@ -361,6 +361,6 @@
   },
   "garage.dujardin.varengeville@orange.fr": {
     "date": "2026-10-13",
-    "relance_envoyee": false
+    "relance_envoyee": true
   }
 }
